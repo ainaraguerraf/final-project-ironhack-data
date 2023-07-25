@@ -56,6 +56,9 @@ When creating these columns, I encountered three situations:
 - Clustered and slightly imbalanced data. Creating the datasets both with giving random values and clustering some categories. This gives between 0.78 and 0.81 accuracy and I found very decent taking into consideration I created all of this from scratch. Also, I find it more ethical because it is closer to reality.
 
 
+  
+
+
 ---
 # Brand statement of the recommender: Mood Travel Spain
 ![image](https://github.com/ainaraguerraf/final-project-ironhack-data/assets/115892160/93b33387-ad53-4a91-a545-b88fe0cd6a6f)
