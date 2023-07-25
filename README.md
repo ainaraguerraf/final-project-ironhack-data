@@ -18,6 +18,7 @@ In this project you will find these folders, which are ordered chronologically f
 
 
 # 📃 Case study
+
 The government of Spain wants to build a public online platform for their citizens to discover the country and promote national tourism. Although international tourists are the main source of income for this country, they want to change the paradigm and create more sustainable tourism with its citizens.
 
 This public online platform will contain a personalized recommender that the user can use to discover sites for their next travel, according to their age, how are they travelling (solo, in family, in couple, in group), and how she or he is feeling about this trip.
