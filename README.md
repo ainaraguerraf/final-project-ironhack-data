@@ -28,4 +28,8 @@ This first MVP will be for new users and it will be based on the average prefere
 As a junior data analyst, the government has given me some data about places in different cities and regions: Madrid, Vigo, Barcelona, Euskadi (as a region) and La Palma (as a region) to create an MVP of this platform.
 
 For new users, the government has already started a focus group to recollect information about places, and they will give me the average data of each site.
+---
+# 🔍 How was the dataset created
+
+In reality, the data gathering was much more complex than the case study.
 
