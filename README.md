@@ -60,6 +60,19 @@ When creating these columns, I encountered three situations:
 
 
 ---
+# 🤖 The model
+For the recommender, I chose a multiclass machine learning model. I tried different ones and I chose at the end random forest, with 0.78 accuracy. Some other ML gave me a higher accuracy score, but I know better how Random Forest works, so I preferred to stay safer at this point.
+
+The target of the model (x) is the category most suitable to the inputs (y). So, the user inputs age, way of travel, mood for this trip and destination. The model gives him or her the category most suitable for his or her characteristics. It works in all the dataset with all the regions, because I don't have enough data to train the model for each region. 
+
+Moreover, after giving the category, I created a query to retrieve the top sites of that category in that destination, based on Google ratings. 
+
+In Streamlit, this function also retrieves a map, to make it more user-friendly.
+
+
+
+
+---
 # Brand statement of the recommender: Mood Travel Spain
 ![image](https://github.com/ainaraguerraf/final-project-ironhack-data/assets/115892160/93b33387-ad53-4a91-a545-b88fe0cd6a6f)
 
