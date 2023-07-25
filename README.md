@@ -36,7 +36,11 @@ In reality, the data gathering was much more complex than the case study. It was
 ![image](https://github.com/ainaraguerraf/final-project-ironhack-data/assets/115892160/df4689f1-39a8-49d0-a328-e9d6af029a32)
 
 ### Data retrieved from datos.gob.es
+Since the case study is with the Spanish government, I decided to get the basic data of each site from datos.gob.es. Data was fragmented and very different from region to region. I have to unify the categories of each site, then I reduced after that to improve this feature for the model. This resulted in 5000 rows of different sites.
+
 ### Data retrieve using Google API
+
+
 ### Synthetic data
 
 ---
