@@ -80,6 +80,7 @@ Everything on this project was wrapped up in the brand "Mood Travel Spain".
 
 
 
+
 ---
 
 # 🪄 Recommender usage examples
