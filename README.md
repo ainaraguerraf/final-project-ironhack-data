@@ -71,10 +71,17 @@ In Streamlit, this function also retrieves a map, to make it more user-friendly.
 
 
 
-
 ---
-# Brand statement of the recommender: Mood Travel Spain
+# 🖼️ The brand: Mood Travel Spain
+Everything on this project was wrapped up in the brand "Mood Travel Spain". 
+
+
 ![image](https://github.com/ainaraguerraf/final-project-ironhack-data/assets/115892160/93b33387-ad53-4a91-a545-b88fe0cd6a6f)
 
+
+
+---
+
+# 🪄 Recommender usage examples
 
 
