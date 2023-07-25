@@ -1,2 +1,2 @@
-# final-project-ironhack-data
-Final Project Data Analytics bootcamp: Mood Travel Spain
+# Mood Travel Spain
+##### Final Project Data Analytics bootcamp, by Ainara Guerra
