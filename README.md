@@ -17,11 +17,14 @@ In this project you will find these folders, which are ordered chronologically f
 8. Recommender examples
 
 
-# CASE STUDY
+# 📃 Case study
 The government of Spain wants to build a public online platform for their citizens to discover the country and promote national tourism. Although international tourists are the main source of income for this country, they want to change the paradigm and create more sustainable tourism with its citizens.
 
 This public online platform will contain a personalized recommender that the user can use to discover sites for their next travel, according to their age, how are they travelling (solo, in family, in couple, in group), and how she or he is feeling about this trip.
 
 This first MVP will be for new users and it will be based on the average preferences of other users for each site.
 
+As a junior data analyst, the government has given me some data about places in different cities and regions: Madrid, Vigo, Barcelona, Euskadi (as a region) and La Palma (as a region) to create an MVP of this platform.
+
+For new users, the government has already started a focus group to recollect information about places, and they will give me the average data of each site.
 
