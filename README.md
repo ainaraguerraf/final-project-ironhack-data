@@ -40,7 +40,7 @@ Since the case study is with the Spanish government, I decided to get the basic 
 
 
 ### Data retrieve using Google API
-
+I used the Google API and the free budget that this company gives initially to retrieve latitude, longitude, address and rating. At this point, the information I retrieved from Google API was a filter to only keep the sites that have longitude, latitude and address, which resulted in 3.500 raws.
 
 ### Synthetic data
 
