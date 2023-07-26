@@ -84,6 +84,7 @@ Everything on this project was wrapped up in the brand "Mood Travel Spain".
 
 # 🪄 Recommender usage examples
 
+Here you have a video of how this recommender works:
 <a href="https://youtu.be/51KsRWyh7mE"><img src="http://img.youtube.com/vi/51KsRWyh7mE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
