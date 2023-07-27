@@ -1,0 +1,605 @@
+﻿dataset;X;Y;OBJECTID;ID;NOMBRE;MODALIDAD;TIPO;DIRECCION;MUNICIPIO;TELEFONO;UTM_X;UTM_Y;PLAZAS;SIGNATURA;OBSERVACIO;Estado;Est_LLav
+alojamientos;-19.821.047.509;33.530.190.509;1;1;Palma Romántica, La;Hotelera;Hotel;Topo de Las Llanadas;Barlovento;922186221;226214;3191506;77;H-38/5/0026;H/***;Tramitado;3
+alojamientos;-19.818.572.272;33.529.664.743;2;2;Casa La Fontiña;Extrahotelera;Casa Rural;Las Paredes, 1;Barlovento;922186527;226430;3191455;8;CR-1;UCU;Tramitado;0
+alojamientos;-19.804.442.717;33.519.329.202;3;3;Casa Eloína;Extrahotelera;Casa Rural;Lomo de La Florida, 20;Barlovento;922451267;227648;3190524;4;CR-15;UE;Tramitado;0
+alojamientos;-19.803.825.353;33.519.744.894;4;4;Casa Peluquina;Extrahotelera;Casa Rural;Lomo de La Florida, 22;Barlovento;922430625;227703;3190559;4;CR-16;UE;Tramitado;0
+alojamientos;-19.799.787.985;33.519.691.169;5;5;Casa Simón;Extrahotelera;Casa Rural;Lomo Viejo;Barlovento;922450697;228057;3190546;4;CR-17;UE;Tramitado;0
+alojamientos;-19.816.673.192;3.352.988.171;6;6;Casa Facundo;Extrahotelera;Casa Rural;Lomo Machín Alto;Barlovento;922186153;226597;3191470;7;CR-63;UCU;Tramitado;0
+alojamientos;-19.800.724.797;3.351.977.222;7;7;Casa Antonito;Extrahotelera;Casa Rural;Lomo de La Florida, 32;Barlovento;922450697;227975;3190555;3;CR-64;UE;Tramitado;0
+alojamientos;-19.833.439.698;33.538.801.261;8;8;Casa La Tosca;Extrahotelera;Casa Rural;La Tosca, 25;Barlovento;619180199;225145;3192283;4;CR-137;UE;Tramitado;0
+alojamientos;-19.805.941.539;33.518.090.464;9;9;Casa La Florida;Extrahotelera;Casa Rural;Lomo de La Florida, 11;Barlovento;922402792;227514;3190419;5;CR-170;UE;Tramitado;0
+alojamientos;-19.804.873.583;33.555.309.493;10;10;Fajana, La;Extrahotelera;Apartamento;Fajana del Saladar;Barlovento;922186162;227684;3193664;12;E-38/5/0109;A/1LL;Tramitado;1
+alojamientos;-19.798.370.942;33.344.299.538;11;13;Casa La Principal;Extrahotelera;Casa Rural;Cmno. La Glorieta, 16;Breña Alta;922413759;227823;3175229;8;CR-68;UCU;Tramitado;0
+alojamientos;-19.797.815.054;33.333.107.912;12;14;Casa La Cueva;Extrahotelera;Casa Rural;Buenavista de Abajo, 29;Breña Alta;922437084;227849;3174250;4;CR-69;UE;Tramitado;0
+alojamientos;-19.809.721.134;33.306.096.525;13;15;Casa Armari (A);Extrahotelera;Casa Rural;Cmno. La Cueva, 7;Breña Alta;922437169;226748;3171914;3;CR-87;UE;Tramitado;0
+alojamientos;-19.809.589.863;33.305.836.444;14;16;Casa Armari (C);Extrahotelera;Casa Rural;Cmno. La Cueva, 7;Breña Alta;922437169;226759;3171891;5;CR-88;UE;Tramitado;0
+alojamientos;-19.795.955.157;33.308.879.821;15;17;Casa El Brezal;Extrahotelera;Casa Rural;Miranda, 105;Breña Alta;922430625;227963;3172129;4;CR-129;UE;Tramitado;0
+alojamientos;-19.797.615.314;33.306.838.501;16;18;Casa Asunción;Extrahotelera;Casa Rural;Cmno. Miranda, 115;Breña Alta;922497174;227813;3171954;2;CR-143;UE;Tramitado;0
+alojamientos;-19.809.258.531;33.305.295.016;17;19;Casa Lina;Extrahotelera;Casa Rural;Cmno. La Cueva, 11;Breña Alta;922272745;226787;3171843;6;CR-146;UCP;Tramitado;0
+alojamientos;-19.810.712.408;3.330.711.444;18;20;Casa Manuel y Lucía;Extrahotelera;Casa Rural;Cmno. La Higuera, 2;Breña Alta;922463266;226663;3172005;8;CR-154;UCU;Tramitado;0
+alojamientos;-19.792.448.132;33.349.131.135;19;21;Casa Los Yanes;Extrahotelera;Casa Rural;Ctra. La Estrella, 36;Breña Alta;922416410;228353;3175639;18;CR-198;UCU;Tramitado;0
+alojamientos;-19.788.409.079;33.320.247.649;20;22;Miranda;Extrahotelera;Apartamento;Miranda de Abajo, 220;Breña Alta;922434295;228649;3173107;16;E-38/5/0003;A/2LL;Tramitado;2
+alojamientos;-19.784.353.346;33.306.324.817;21;23;Morales, Los;Extrahotelera;Apartamento;La Cuesta;Breña Alta;922413650;228977;3171882;12;E-38/5/0026;A/1LL;Tramitado;1
+alojamientos;-19.814.118.104;33.305.741.269;22;24;Casa Alpispa;Extrahotelera;Vivienda turística;Cmno. El Manchón, 128;Breña Alta;922415089;226361;3171892;4;VT-139; ;Tramitado;0
+alojamientos;-19.806.485.517;33.299.124.402;23;26;Casa del Viento;Extrahotelera;Vivienda turística;Cmno. La Fuente, 28;Breña Alta; ;227018;3171298;2;VT-247; ;Tramitado;0
+alojamientos;-19.810.342.683;33.309.812.102;24;27;Casa La Piedad;Extrahotelera;Vivienda turística;La Piedad, 47A;Breña Alta;922462141;226701;3172240;2;VT-331; ;Tramitado;0
+alojamientos;-19.768.435.174;33.311.089.307;25;28;Salou Vertical, S.L.;Hotelera;Hotel;Playa de Los Cancajos, 36;Breña Baja;922181277;230385;3172266;576;H-38/5/0037;H/****;Tramitado;4
+alojamientos;-19.787.112.042;33.313.389.153;26;29;Parador de Turismo;Hotelera;Hotel;El Zumacal;Breña Baja;922435828;228749;3172505;156;H-38/5/0042;H/****;Tramitado;4
+alojamientos;-19.769.429.594;33.305.322.052;27;30;Olas, Las;Hotelera;Hotel;Urb. Las Salinas II;Breña Baja;922433015;230286;3171764;364;H-38/5/0043;HA/***;Tramitado;3
+alojamientos;-19.786.350.027;3.330.110.638;28;31;Casa Villa Asunción;Extrahotelera;Casa Rural;San José, 308;Breña Baja;922411283;228791;3171430;8;CR-104;UCP;Tramitado;0
+alojamientos;-19.792.746.185;33.306.471.955;29;32;Casa Carlota;Extrahotelera;Casa Rural;San José, 27;Breña Baja;922430308;228240;3171912;4;CR-105;UE;Tramitado;0
+alojamientos;-19.786.353.436;3.330.223.905;30;33;Casa Don Blas;Extrahotelera;Casa Rural;San José, 278A;Breña Baja; ;228793;3171529;4;CR-131;UCP;Tramitado;0
+alojamientos;-19.785.783.719;33.289.403.631;31;34;Casas Corral del Payo;Extrahotelera;Casa Rural;La Polvacera, 183 y 185;Breña Baja;922412242;228817;3170406;10;CR-152;UE;Tramitado;0
+alojamientos;-19.775.778.764;33.305.700.795;32;35;Casa Mariana;Extrahotelera;Casa Rural;San Antonio, 166;Breña Baja;922434363;229729;3171810;2;CR-220;UE;Tramitado;0
+alojamientos;-19.779.364.269;33.314.576.915;33;36;Casa La Breña;Extrahotelera;Casa Rural;Cmno. San Antonio, 7;Breña Baja;620252330;229432;3172593;4;CR-225;...;Tramitado;0
+alojamientos;-19.771.569.617;33.312.744.362;34;37;Cancajos, Los;Extrahotelera;Apartamento;Los Cancajos;Breña Baja;922416321;230113;3172417;23;E-38/5/0001;A/2LL;Tramitado;2
+alojamientos;-19.784.708.156;33.293.101.303;35;38;Montebreña;Extrahotelera;Apartamento;La Polvacera, 159;Breña Baja;922434450;228919;3170727;21;E-38/5/0005;A/1LL;Tramitado;1
+alojamientos;-19.780.818.898;33.296.704.492;36;39;Madoyber;Extrahotelera;Apartamento;La Polvacera, 144;Breña Baja;922434185;229268;3171034;37;E-38/5/0006;A/2LL;Tramitado;2
+alojamientos;-1.977.835.201;33.320.047.505;37;40;Drago, El;Extrahotelera;Apartamento;Cuesta de La Grama;Breña Baja;922434354;229532;3173069;33;E-38/5/0007;A/2LL;Tramitado;2
+alojamientos;-19.785.422.493;3.329.938.888;38;41;Vistabella;Extrahotelera;Apartamento;La Polvacera, 312-314;Breña Baja;922434975;228869;3171278;36;E-38/5/0009;A/2LL;Tramitado;2
+alojamientos;-19.787.016.291;33.311.217.254;39;42;San José;Extrahotelera;Apartamento;San José, 102;Breña Baja;922411480;228753;3172315;27;E-38/5/0010;A/1LL;Tramitado;1
+alojamientos;-19.778.572.501;3.332.269.729;40;43;Socorro, El;Extrahotelera;Apartamento;Cruce Los Cuarteles;Breña Baja; ;229518;3173301;12;E-38/5/0015;A/1LL;Tramitado;1
+alojamientos;-19.779.189.338;33.291.685.395;41;45;Mesitas, Las;Extrahotelera;Apartamento;Las Mesitas;Breña Baja;922412351;229401;3170592;27;E-38/5/0032;A/1LL;Tramitado;1
+alojamientos;-19.768.512.605;33.310.000.447;42;46;Salou Vertical, S.L.;Extrahotelera;Apartamento;Los Cancajos;Breña Baja;922434348;230376;3172171;316;E-38/5/0037;A/3LL;Tramitado;3
+alojamientos;-19.771.489.054;33.313.696.001;43;47;Hcda. San Jorge;Extrahotelera;Apartamento;Playa de Los Cancajos, 22;Breña Baja;922181066;230122;3172500;476;E-38/5/0044;A/3LL;Tramitado;3
+alojamientos;-19.768.444.541;33.307.038.398;44;48;Cascada, La;Extrahotelera;Apartamento;Los Cancajos;Breña Baja;922434280;230376;3171912;117;E-38/5/0049;A/2LL;Tramitado;2
+alojamientos;-1.978.933.439;3.331.251.333;45;50;Maricarlo;Extrahotelera;Apartamento;San José, 1;Breña Baja;922434517;228552;3172433;11;E-38/5/0057;A/1LL;Tramitado;1
+alojamientos;-19.768.790.065;33.307.213.455;46;51;Rosales, Los;Extrahotelera;Apartamento;Los Cancajos;Breña Baja;922433504;230346;3171928;174;E-38/5/0058;A/1LL;Tramitado;1
+alojamientos;-1.976.791.304;33.306.696.021;47;52;Lago Azul;Extrahotelera;Apartamento;San Antonio del Mar, 62;Breña Baja;922434305;230422;3171881;219;E-38/5/0062;A/2LL;Tramitado;2
+alojamientos;-19.777.777.499;33.299.075.105;48;53;Mayoysa;Extrahotelera;Apartamento;San Antonio, 340;Breña Baja;922434594;229540;3171235;12;E-38/5/0093;A/2LL;Tramitado;2
+alojamientos;-19.770.245.062;3.331.256.917;49;54;Centro Cancajos;Extrahotelera;Apartamento;Los Cancajos;Breña Baja;922181300;230229;3172399;333;E-38/5/0099;A/3LL;Tramitado;3
+alojamientos;-19.785.336.464;33.318.328.283;50;55;Pajeros, Los;Extrahotelera;Apartamento;Cuatro Caminos, 47;Breña Baja;922181084;228915;3172933;20;E-38/5/0101;B/3LL;Tramitado;3
+alojamientos;-19.772.094.386;33.314.276.967;51;56;Adelfas, Las;Extrahotelera;Apartamento;Los Cancajos;Breña Baja;922413071;230070;3172552;48;E-38/5/0107;A/1LL;Tramitado;1
+alojamientos;-19.777.556.944;33.300.865.164;52;57;Finca Sitio Molina;Extrahotelera;Apartamento;San Antonio, 288;Breña Baja;922462371;229563;3171391;6;E-38/5/0118;B/3LL;Tramitado;3
+alojamientos;-19.770.148.314;33.306.380.939;53;58;Oasis San Antonio;Extrahotelera;Apartamento;San Antonio del Mar;Breña Baja;922433008;230225;3171858;136;E-38/5/0121;A/2LL;Tramitado;2
+alojamientos;-1.978.708.387;33.293.457.735;54;59;Molinos, Los;Extrahotelera;Apartamento;Finca Amado II;Breña Baja;922433175;228711;3170763;80;E-38/5/0122;A/3LL;Tramitado;3
+alojamientos;-1.977.040.445;33.308.114.244;55;60;Cerrito, El;Extrahotelera;Apartamento;Los Cancajos;Breña Baja;922434985;230206;3172010;74;E-38/5/0124;A/3LL;Tramitado;3
+alojamientos;-1.976.944.792;33.306.614.613;56;61;Caleta, La;Extrahotelera;Apartamento;Los Cancajos;Breña Baja;922433170;230287;3171877;137;E-38/5/0126;A/3LL;Tramitado;3
+alojamientos;-1.978.724.311;33.294.437.965;57;62;Breñas Garden;Extrahotelera;Apartamento;Finca Amado II;Breña Baja;922434925;228699;3170849;80;E-38/5/0129;A/3LL;Tramitado;3
+alojamientos;-19.787.597.124;3.330.729.033;58;64;Viv. Tur.;Extrahotelera;Vivienda turística;San José, 12;Breña Baja;922411405;228694;3171973;2;VT-11; ;Tramitado;0
+alojamientos;-19.786.742.967;33.311.212.196;59;66;Viv. Tur.;Extrahotelera;Vivienda turística;San José, 100;Breña Baja; ;228777;3172314;2; ; ;Tramitado;0
+alojamientos;-19.787.687.348;33.307.253.895;60;67;Viv. Tur.;Extrahotelera;Vivienda turística;San José, 3;Breña Baja; ;228686;3171970;4; ; ;Tramitado;0
+alojamientos;-19.786.991.686;3.331.113.773;61;68;Viv. Tur.;Extrahotelera;Vivienda turística;San José, 102;Breña Baja; ;228755;3172308;2; ; ;Tramitado;0
+alojamientos;-19.786.626.813;33.311.111.925;62;69;Viv. Tur.;Extrahotelera;Vivienda turística;San José, 98;Breña Baja; ;228787;3172305;2; ; ;Tramitado;0
+alojamientos;-19.787.644.464;33.308.845.399;63;70;Viv. Tur.;Extrahotelera;Vivienda turística;San José, 160;Breña Baja; ;228693;3172109;2; ; ;Tramitado;0
+alojamientos;-19.801.113.368;33.294.239.194;64;71;Casa El Nogal;Extrahotelera;Vivienda turística;Las Ledas, 167;Breña Baja;922181105;227480;3170860;4;VT-252; ;Tramitado;0
+alojamientos;-19.801.113.368;33.294.239.194;65;72;Casa La Bodega;Extrahotelera;Vivienda turística;Las Ledas, 167;Breña Baja;922181105;227480;3170860;3;VT-281; ;Tramitado;0
+alojamientos;-19.864.254.317;33.113.984.846;66;73;Fuencaliente;Hotelera;Pensión;Los Canarios;Fuencaliente;922444153;221558;3155225;10;H-38/5/0019;P/*;Tramitado;1
+alojamientos;-19.864.305.143;33.114.212.148;67;74;Volcanes, Los;Hotelera;Pensión;Los Canarios, 72;Fuencaliente;922444164;221554;3155245;8;H-38/5/0024;P/**;Tramitado;2
+alojamientos;-19.864.307.516;33.114.794.801;68;75;Central;Hotelera;Pensión;Yaiza, 4;Fuencaliente;922444505;221555;3155296;11;H-38/5/0036;P/*;Tramitado;1
+alojamientos;-19.898.052.179;3.312.566.382;69;76;Teneguía La Palma P.;Hotelera;Hotel;Ctra. La Costa, 10;Fuencaliente;922425500;218609;3156318;1250;H-38/5/0045;H/****;Tramitado;4
+alojamientos;-19.882.538.263;33.122.894.346;70;77;Casa La Gorona;Extrahotelera;Casa Rural;Las Indias;Fuencaliente;922444056;219968;3156043;3;CR-22;UE;Tramitado;0
+alojamientos;-19.871.487.473;33.107.905.405;71;78;Casa Los Jablitos;Extrahotelera;Casa Rural;Los Jablitos, 8;Fuencaliente;659972420;220909;3154708;3;CR-25;UE;Tramitado;0
+alojamientos;-19.878.015.913;33.110.011.543;72;79;Casa Pardelo;Extrahotelera;Casa Rural;Los Quemados, 65;Fuencaliente;922444139;220339;3154906;4;CR-26;UE;Tramitado;0
+alojamientos;-19.846.488.271;3.312.270.232;73;80;Casa Carmela;Extrahotelera;Casa Rural;Las Caletas, 8;Fuencaliente;922437869;223139;3155951;5;CR-27;UE;Tramitado;0
+alojamientos;-19.885.132.344;33.123.951.922;74;81;Casa los Naranjos;Extrahotelera;Casa Rural;Las Indias;Fuencaliente;922444403;219742;3156141;3;CR-29;UE;Tramitado;0
+alojamientos;-19.878.847.158;33.127.347.699;75;82;Casa Manuela;Extrahotelera;Casa Rural;Las Cabezadas,14, Las Indias;Fuencaliente;922433478;220302;3156425;4;CR-33;UE;Tramitado;0
+alojamientos;-19.879.399.083;33.109.864.188;76;83;Casa Los Melindros II;Extrahotelera;Casa Rural;Los Quemados, 88;Fuencaliente;922440545;220217;3154896;3;CR-34;UE;Tramitado;0
+alojamientos;-19.879.395.296;33.109.704.325;77;84;Casa Los Melindros Grande;Extrahotelera;Casa Rural;Los Quemados, 88;Fuencaliente;922440545;220217;3154882;7;CR-35;UE;Tramitado;0
+alojamientos;-19.875.021.506;33.112.196.849;78;85;Casa Díaz;Extrahotelera;Casa Rural;Los Quemados, 2;Fuencaliente;922444107;220607;3155091;3;CR-39;UE;Tramitado;0
+alojamientos;-19.882.443.695;33.117.949.111;79;86;Casa Los Mangos;Extrahotelera;Casa Rural;Las Indias, 9;Fuencaliente;922444056;219966;3155610;3;CR-47;UE;Tramitado;0
+alojamientos;-19.877.415.993;33.112.516.623;80;87;Casa de La Rosa;Extrahotelera;Casa Rural;Los Quemados, 30;Fuencaliente;922696037;220397;3155124;5;CR-71;UCU;Tramitado;0
+alojamientos;-19.844.097.496;3.312.206.194;81;88;Casa El Rincón de Mercedes;Extrahotelera;Casa Rural;Las Caletas, Pista El Somadero, 2;Fuencaliente;922290236;223348;3155890;3;CR-77;UE;Tramitado;0
+alojamientos;-1.985.039.877;33.117.867.703;82;89;Casa Juanita;Extrahotelera;Casa Rural;Las Caletas, 52;Fuencaliente;922618875;222785;3155536;3;CR-92;UE;Tramitado;0
+alojamientos;-19.878.613.105;3.311.075.132;83;90;Casa Morera;Extrahotelera;Casa Rural;Cmno. La Calzada, 11;Fuencaliente;922444152;220288;3154972;4;CR-94;UE;Tramitado;0
+alojamientos;-1.988.081.956;33.108.893.312;84;91;Casa Los Llanos Negros;Extrahotelera;Casa Rural;Los Llanos Negros;Fuencaliente;922411434;220090;3154814;4;CR-95;UE;Tramitado;0
+alojamientos;-19.844.322.427;33.121.473.868;85;92;Casa Maximina;Extrahotelera;Casa Rural;Cmno. El Somadero, 2;Fuencaliente;922444137;223327;3155839;3;CR-99;UE;Tramitado;0
+alojamientos;-1.986.387.937;33.109.652.102;86;93;Casa Los Dragos;Extrahotelera;Casa Rural;Las Indias, 45;Fuencaliente;922545489;221582;3154845;7;CR-108;UCU;Tramitado;0
+alojamientos;-19.863.692.878;33.108.491.171;87;94;Casa Pestana;Extrahotelera;Casa Rural;La Calle, 8;Fuencaliente;922430625;221596;3154743;5;CR-127;UE;Tramitado;0
+alojamientos;-19.871.470.717;33.107.677.304;88;95;Casa Los Jablitos II;Extrahotelera;Casa Rural;Los Jablitos, 12;Fuencaliente;659972420;220910;3154688;3;CR-132;UE;Tramitado;0
+alojamientos;-19.877.948.551;33.127.803.428;89;96;Casa El Níspero;Extrahotelera;Casa Rural;Juan C. Díaz Lorenzo, 6;Fuencaliente;922440213;220382;3156463;3;CR-161;UE;Tramitado;0
+alojamientos;-19.881.911.861;33.124.760.434;90;97;Casa La Caldera;Extrahotelera;Casa Rural;Cmno. Las Balceras, 1;Fuencaliente;922411434;220027;3156205;3;CR-188;UE;Tramitado;0
+alojamientos;-19.846.538.313;33.123.866.639;91;98;Casa de Abuela;Extrahotelera;Casa Rural;Las Caletas, 14 y 14A;Fuencaliente;922429321;223137;3156053;6;CR-217;UCU;Tramitado;0
+alojamientos;-19.864.361.674;33.114.199.375;92;99;Volcanes, Los;Extrahotelera;Apartamento;Los Canarios, 72;Fuencaliente;922444164;221549;3155244;8;E-38/5/0043;A/1LL;Tramitado;1
+alojamientos;-19.877.048.175;33.110.423.154;93;100;Eva;Extrahotelera;Apartamento;Virgen del Cobre, 17;Fuencaliente;922440128;220425;3154940;8;E-38/5/0092;A/1LL;Tramitado;1
+alojamientos;-19.864.253.946;33.114.933.186;94;101;Central;Extrahotelera;Apartamento;Yaiza, 4;Fuencaliente;922444018;221560;3155308;10;E-38/5/0094;A/1LL;Tramitado;1
+alojamientos;-19.877.921.515;33.110.824.996;95;102;Colón;Extrahotelera;Apartamento;Los Quemados, 54;Fuencaliente;922444155;220349;3154977;41;E-38/5/0095;A/2LL;Tramitado;2
+alojamientos;-19.877.921.515;33.110.824.996;96;103;Colón II;Extrahotelera;Apartamento;Los Quemados, 54;Fuencaliente;922444155;220349;3154977;30;E-38/5/0112;A/2LL;Tramitado;2
+alojamientos;-19.864.514.691;33.114.904.122;97;105;Viv. Tur.;Extrahotelera;Vivienda turística;Yaiza, 2;Fuencaliente; ;221537;3155306;3;VT-58; ;Tramitado;0
+alojamientos;-19.882.213.663;33.122.627.895;98;106;Casa Las Huertas;Extrahotelera;Vivienda turística;Las Indias;Fuencaliente;922444189;219996;3156019;5;VT-65; ;Tramitado;0
+alojamientos;-19.886.603.429;33.129.892.749;99;107;Viv. Tur.;Extrahotelera;Vivienda turística;Los Polveros;Fuencaliente;922463011;219625;3156664;3;VT-103; ;Tramitado;0
+alojamientos;-19.882.213.663;33.122.627.895;100;108;Casa La Huerta II;Extrahotelera;Vivienda turística;García Gómez, 7;Fuencaliente;922444189;219996;3156019;4;VT-248; ;Tramitado;0
+alojamientos;-19.874.905.476;33.112.096.794;101;109;Casa El Moral;Extrahotelera;Vivienda turística;Los Jablitos, 3;Fuencaliente;922444107;220617;3155082;3;VT-317; ;Tramitado;0
+alojamientos;-19.938.055.985;33.323.679.255;102;110;Porvenir, El;Hotelera;Pensión;Fernández Taño, 33;Los Llanos de Aridane;922460168;215511;3173720;16;H-38/5/0005;P/*;Tramitado;1
+alojamientos;-19.945.525.897;33.320.017.314;103;111;Vazdekis;Hotelera;Pensión;Montaña Tenisca;Los Llanos de Aridane;922463066;214847;3173416;13;H-38/5/0009;P/**;Tramitado;2
+alojamientos;-19.939.896.035;33.323.039.102;104;112;Edén;Hotelera;Hotel;Ángel, 1;Los Llanos de Aridane;922460104;215348;3173668;28;H-38/5/0012;H/*;Tramitado;1
+alojamientos;-19.942.854.074;33.322.497.361;105;113;Rocha;Hotelera;Pensión;La Pasión, 5;Los Llanos de Aridane;922460157;215087;3173627;7;H-38/5/0013;P/*;Tramitado;1
+alojamientos;-19.944.122.468;33.322.225.918;106;114;Valle Aridane;Hotelera;Hotel;Glorieta C. Olivares, 3;Los Llanos de Aridane;922462600;214975;3173606;81;H-38/5/0023-1;H/***;Tramitado;3
+alojamientos;-19.935.877.952;33.225.769.808;107;115;Sol Élite La Palma;Hotelera;Hotel;Pta. del Pozo, Pto. Naos;Los Llanos de Aridane;922408000;215494;3165156;616;H-38/5/0033-7;H/****;Tramitado;4
+alojamientos;-1.990.853.736;33.257.347.255;108;116;Montemar;Hotelera;Pensión;Cmno. La Jurona, 47;Los Llanos de Aridane;922460130;217964;3167859;11;H-38/5/0035-0;P/*;Tramitado;1
+alojamientos;-19.938.199.743;33.320.219.973;109;118;Trocadero Plaza;Hotelera;Hotel;Las Adelfas, 8;Los Llanos de Aridane;922403013;215491;3173418;36;H-38/5/0047;H/**;Tramitado;2
+alojamientos;-19.955.882.273;33.318.972.952;110;119;Casona de Argual;Extrahotelera;Casa Rural;Llano de San Pedro, 6;Los Llanos de Aridane;922401816;213935;3173347;8;CR-49;UCU;Tramitado;0
+alojamientos;-19.927.251.877;33.325.534.247;111;120;Casa El Pinito;Extrahotelera;Casa Rural;Cmno. Suela Zapata;Los Llanos de Aridane;660345633;216464;3173859;5;CR-67;UE;Tramitado;0
+alojamientos;-1.993.344.901;3.327.352.056;112;121;Casas La Bodega y El Morro;Extrahotelera;Casa Rural;Cmno. El Atajo, 4;Los Llanos de Aridane;922461902;215809;3169326;4;CR-153;UE;Tramitado;0
+alojamientos;-19.927.357.932;33.284.708.274;113;122;Fuentes, Las;Extrahotelera;Apartamento;Tamaimuche;Los Llanos de Aridane;922461236;216368;3170291;29;E-38/5/001100-3;A/1LL;Tramitado;1
+alojamientos;-1.993.721.645;33.237.835.595;114;123;Muralla, La;Extrahotelera;Apartamento;Ctra. Gral. Pto. Naos;Los Llanos de Aridane; ;215402;3166214;33;E-38/5/000013-6;A/1LL;Tramitado;1
+alojamientos;-19.936.566.165;33.229.766.646;115;124;Martín;Extrahotelera;Apartamento;Avda. Marítima, Pto. Naos;Los Llanos de Aridane;922480320;215442;3165507;38;E-38/5/001400-2;A/1LL;Tramitado;1
+alojamientos;-19.928.571.099;33.258.609.905;116;126;Norias de Arriba, Las;Extrahotelera;Apartamento;Cmno. La Majada, 27;Los Llanos de Aridane;922462025;216206;3168012;10;E-38/5/001700-1;A/1LL;Tramitado;1
+alojamientos;-19.929.568.763;33.239.143.096;117;127;Drago, El;Extrahotelera;Apartamento;Cmno. El Drago, 4;Los Llanos de Aridane;922402578;216077;3166312;10;E-38/5/002100-9;A/1LL;Tramitado;1
+alojamientos;-19.936.357.266;33.231.006.747;118;128;Playa Naos;Extrahotelera;Apartamento;Cruz Roja, Pto. Naos;Los Llanos de Aridane; ;215463;3165615;5;E-38/5/002300-1;A/1LL;Tramitado;1
+alojamientos;-19.936.883.233;33.232.057.367;119;129;Playa Naos Cutillas;Extrahotelera;Apartamento;Cruz Roja, 10, Pto. Naos;Los Llanos de Aridane; ;215419;3165708;8;E-38/5/002301-0;A/1LL;Tramitado;1
+alojamientos;-19.937.514.913;33.232.304.935;120;130;Duque;Extrahotelera;Apartamento;Mauricio Duque Camacho;Los Llanos de Aridane; ;215364;3165731;4;E-38/5/002400-8;A/1LL;Tramitado;1
+alojamientos;-19.936.560.325;3.322.999.549;121;131;Atlántida Pais;Extrahotelera;Apartamento;Edif. Atlántida, Pto. Naos;Los Llanos de Aridane; ;215443;3165527;9;E-38/5/002900-0;A/1LL;Tramitado;1
+alojamientos;-19.936.560.325;3.322.999.549;122;132;Atlántida Pérez;Extrahotelera;Apartamento;Edif. Atlántida, Pto. Naos;Los Llanos de Aridane; ;215443;3165527;18;E-38/5/002901-8;A/1LL;Tramitado;1
+alojamientos;-19.937.023.976;33.229.881.241;123;133;Marimar;Extrahotelera;Apartamento;Avda. Marítima, Pto. Naos;Los Llanos de Aridane;922460056;215402;3165518;48;E-38/5/003300-7;A/1LL;Tramitado;1
+alojamientos;-19.938.577.581;33.231.558.525;124;134;Playa Chica;Extrahotelera;Apartamento;Avda. Marítima, Pto. Naos;Los Llanos de Aridane;922463559;215269;3165668;12;E-38/5/003400-3;A/1LL;Tramitado;1
+alojamientos;-19.928.445.425;33.281.673.096;125;135;Plantación, La;Extrahotelera;Apartamento;La Laguna, Cmno. El Pedregal;Los Llanos de Aridane;922463174;216266;3170028;30;E-38/5/003500-0;A/1LL;Tramitado;1
+alojamientos;-19.937.289.736;33.232.401.923;126;136;Lorenzo;Extrahotelera;Apartamento;Maximiliano Darias;Los Llanos de Aridane; ;215384;3165739;15;E-38/5/003800-9;A/1LL;Tramitado;1
+alojamientos;-19.929.393.126;33.280.860.631;127;137;Hacienda El Pedregal;Extrahotelera;Apartamento;La Laguna, Cmno. El Pedregal;Los Llanos de Aridane;922463174;216181;3169959;24;E-38/5/004200-6;A/2LL;Tramitado;2
+alojamientos;-19.936.793.693;33.231.647.886;128;138;Costa Gris;Extrahotelera;Apartamento;J. Gúzman Pérez, Pto. Naos;Los Llanos de Aridane; ;215426;3165672;22;E-38/5/004700-8;A/1LL;Tramitado;1
+alojamientos;-19.936.892.212;33.230.547.699;129;139;Tanausú;Extrahotelera;Apartamento;Tres, 2º. Pto. Naos;Los Llanos de Aridane;922480056;215415;3165576;41;E-38/5/004800-4;A/1LL;Tramitado;1
+alojamientos;-19.937.728.967;33.232.688.501;130;140;Abel;Extrahotelera;Apartamento;Mauricio Duque Camacho, 11;Los Llanos de Aridane; ;215346;3165765;16;E-38/5/005000-9;A/1LL;Tramitado;1
+alojamientos;-19.938.065.845;33.233.446.432;131;141;Fernández;Extrahotelera;Apartamento;Mauricio Duque Camacho;Los Llanos de Aridane; ;215318;3165832;13;E-38/5/006000-4;A/1LL;Tramitado;1
+alojamientos;-1.993.328.995;3.323.777.145;132;142;Moranz;Extrahotelera;Apartamento;Morro de Los Judíos, 2-8;Los Llanos de Aridane;922408221;215747;3166200;15;E-38/5/006100-0;A/1LL;Tramitado;1
+alojamientos;-19.937.153.398;33.230.998.721;133;143;Tamanca;Extrahotelera;Apartamento;Mauricio Duque Camacho;Los Llanos de Aridane; ;215393;3165616;10;E-38/5/006500-6;A/1LL;Tramitado;1
+alojamientos;-19.933.861.045;33.289.605.858;134;144;Cruz Chica;Extrahotelera;Apartamento;Cruz Chica, 25;Los Llanos de Aridane;922463402;215807;3170733;12;E-38/5/006600-2;A/3LL;Tramitado;3
+alojamientos;-19.907.292.463;33.295.561.469;135;145;Casa Calma;Extrahotelera;Apartamento;Echedey, 25;Los Llanos de Aridane; ;218154;3171197;8;E-38/5/006900-1;A/1LL;Tramitado;1
+alojamientos;-19.938.901.457;33.231.779.308;136;146;Horizonte;Extrahotelera;Apartamento;Zona Alta Gabriel Lorenzo, 19;Los Llanos de Aridane; ;215241;3165688;27;E-38/5/007000-0;A/2LL;Tramitado;2
+alojamientos;-19.939.752.192;33.369.623.679;137;147;Cumplidos;Extrahotelera;Apartamento;Cmno. Cumplidos, 136;Los Llanos de Aridane;922460049;215460;3177738;4;E-38/5/007400-5;A/1LL;Tramitado;1
+alojamientos;-19.941.214.345;33.320.134.605;138;148;Doña Paquita;Extrahotelera;Apartamento;Tte. Gral. Glez. Yerro;Los Llanos de Aridane;922460948;215226;3173417;68;E-38/5/007500-0;A/2LL;Tramitado;2
+alojamientos;-19.934.879.311;33.223.987.526;139;149;Bayanes;Extrahotelera;Apartamento;Playa Bayanes, Pto. Naos;Los Llanos de Aridane;607759842;215578;3164998;24;E-38/5/008000-5;A/1LL;Tramitado;1
+alojamientos;-19.928.505.152;33.280.847.994;140;150;Era, La;Extrahotelera;Apartamento;Cmno. El Pedregal, s/n;Los Llanos de Aridane;922402337;216259;3169956;24;E-38/5/0082;A/2LL;Tramitado;2
+alojamientos;-19.938.880.427;33.315.431.742;141;151;Adjovimar;Extrahotelera;Apartamento;P. M. Hdez. Camacho, 52;Los Llanos de Aridane;922401941;215421;3173001;20;E-38/5/008300-4;A/1LL;Tramitado;1
+alojamientos;-19.937.796.136;33.231.703.424;142;152;Padrón;Extrahotelera;Apartamento;M. Darias Montesinos, 4;Los Llanos de Aridane; ;215338;3165679;10;E-38/5/008600-3;A/1LL;Tramitado;1
+alojamientos;-19.937.357.984;33.231.931.407;143;153;Domae;Extrahotelera;Apartamento;Mauricio Duque Camacho;Los Llanos de Aridane; ;215377;3165698;14;E-38/5/008700-0;A/1LL;Tramitado;1
+alojamientos;-19.937.940.619;33.231.562.668;144;154;Padrón-Brito;Extrahotelera;Apartamento;M. Darias Montesinos, 8;Los Llanos de Aridane; ;215325;3165667;4;E-38/5/008900-2;A/1LL;Tramitado;1
+alojamientos;-1.992.961.961;33.214.385.368;145;155;Carlos y Marta;Extrahotelera;Apartamento;Charco Verde, 300;Los Llanos de Aridane;922460836;216020;3164147;46;E-38/5/009700-5;A/1LL;Tramitado;1
+alojamientos;-19.932.877.304;33.266.351.147;146;156;Flores, Las;Extrahotelera;Apartamento;Todoque, 386;Los Llanos de Aridane;922462083;215844;3168698;9;E-38/5/0102;A/1LL;Tramitado;1
+alojamientos;-19.935.361.297;33.226.514.258;147;157;Sol La Palma;Extrahotelera;Apartamento;Punta del Pozo;Los Llanos de Aridane;922408000;215541;3165220;457;E-38/5/0103;A/3LL;Tramitado;3
+alojamientos;-19.937.618.681;33.231.421.882;148;158;Playa Delphin;Extrahotelera;Apartamento;José Gúzman Pérez, 1;Los Llanos de Aridane;922408194;215353;3165654;39;E-38/5/0105;A/2LL;Tramitado;2
+alojamientos;-19.937.051.968;33.230.097.823;149;159;Atlántico Playa;Extrahotelera;Apartamento;Avda. Marítima,29 Pto. Naos;Los Llanos de Aridane;922463121;215400;3165537;60;E-38/5/0106;A/2LL;Tramitado;2
+alojamientos;-19.936.390.269;33.230.960.199;150;160;Bayana;Extrahotelera;Apartamento;M. Rodríguez Quintero, 7;Los Llanos de Aridane;922401058;215460;3165611;10;E-38/5/0108;A/1LL;Tramitado;1
+alojamientos;-19.937.791.157;33.231.497.711;151;161;García-Pereyra;Extrahotelera;Apartamento;Esq. José Gúzman Pérez, 1;Los Llanos de Aridane;922462066;215338;3165661;21;E-38/5/0110;A/2LL;Tramitado;2
+alojamientos;-19.937.075.227;33.230.588.966;152;162;Nisamar;Extrahotelera;Apartamento;Manuel R. Quintero, 7;Los Llanos de Aridane;922480320;215399;3165580;49;E-38/5/0117;A/1LL;Tramitado;1
+alojamientos;-19.936.078.059;33.321.450.571;153;163;Patio, El;Extrahotelera;Apartamento;Convento, 41;Los Llanos de Aridane;922464048;215680;3173521;8;E-38/5/0119;A/1LL;Tramitado;1
+alojamientos;-19.929.770.002;3.327.055.631;154;164;Gallo, El;Extrahotelera;Apartamento;Ctra. Todoque, 13;Los Llanos de Aridane; ;216126;3169059;8;E-38/5/0127;A/1LL;Tramitado;1
+alojamientos;-19.938.776.014;33.233.646.335;155;165;Lajones, Los;Extrahotelera;Apartamento;Mauricio Duque Camacho;Los Llanos de Aridane;922403505;215256;3165851;102;E-38/5/0128;A/1LL;Tramitado;1
+alojamientos;-1.992.979.998;33.332.509.751;156;166;Viv. Tur.;Extrahotelera;Vivienda turística;Los Pedregales;Los Llanos de Aridane; ;216255;3174474;1; ; ;Tramitado;0
+alojamientos;-19.941.610.836;3.328.629.296;157;167;Casa Blanca;Extrahotelera;Vivienda turística;Cmno. Aldea, 24;Los Llanos de Aridane; ;215119;3170460;6;VT-10; ;Tramitado;0
+alojamientos;-19.922.547.254;33.294.755.738;158;168;Viv. Tur.;Extrahotelera;Vivienda turística;Bungalows Tajuya, 1;Los Llanos de Aridane; ;216812;3171159;4; ; ;Tramitado;0
+alojamientos;-19.941.780.435;33.239.793.799;159;169;Casa Antonio;Extrahotelera;Vivienda turística;Las Hoyas, 2;Los Llanos de Aridane; ;215005;3166395;5;VT-336; ;Tramitado;0
+alojamientos;-19.921.319.975;33.284.924.143;160;170;Casa El Palito;Extrahotelera;Vivienda turística;El Palito;Los Llanos de Aridane; ;216899;3170297;4; ; ;Tramitado;0
+alojamientos;-1.992.979.998;33.332.509.751;161;171;Viv. Tur.;Extrahotelera;Vivienda turística;Los Pedregales;Los Llanos de Aridane; ;216255;3144474;5; ; ;Tramitado;0
+alojamientos;-1.992.979.998;33.332.509.751;162;172;Viv. Tur.;Extrahotelera;Vivienda turística;Los Pedregales;Los Llanos de Aridane; ;216255;3174474;3; ; ;Tramitado;0
+alojamientos;-19.922.391.899;33.298.695.175;163;173;Viv. Tur.;Extrahotelera;Vivienda turística;Tendiña, 1;Los Llanos de Aridane; ;216834;3171503;6; ; ;Tramitado;0
+alojamientos;-1.992.979.998;33.332.509.751;164;174;Viv. Tur.;Extrahotelera;Vivienda turística;Los Pedregales;Los Llanos de Aridane; ;216255;3174474;2; ; ;Tramitado;0
+alojamientos;-19.934.139.012;33.271.467.597;165;177;Casa Las Palomas I;Extrahotelera;Vivienda turística;Cmno. La Lujana, 12;Los Llanos de Aridane;922462339;215744;3169148;4;VT-15; ;Tramitado;0
+alojamientos;-19.934.473.527;33.271.653.874;166;178;Casa Las Palomas II;Extrahotelera;Vivienda turística;Cmno. La Lujana, 10;Los Llanos de Aridane;922462339;215715;3169165;4;VT-16; ;Tramitado;0
+alojamientos;-19.941.715.803;33.342.185.704;167;179;Casa Simpática;Extrahotelera;Vivienda turística;Urb. Tajuya, 32;Los Llanos de Aridane; ;215229;3175345;6;VT-24; ;Tramitado;0
+alojamientos;-19.942.488.588;33.288.227.667;168;180;Viv. Tur.;Extrahotelera;Vivienda turística;La Laguna;Los Llanos de Aridane; ;215046;3170631;4;VT-36; ;Tramitado;0
+alojamientos;-19.912.926.597;33.187.581.284;169;181;Viv. Tur.;Extrahotelera;Vivienda turística;El Remo;Los Llanos de Aridane; ;217431;3161767;5;VT-63; ;Tramitado;0
+alojamientos;-19.921.855.864;33.244.362.954;170;182;Casa Sol y Mar;Extrahotelera;Vivienda turística;Cuatro Caminos, Las Manchas;Los Llanos de Aridane; ;216766;3166752;2;VT-66; ;Tramitado;0
+alojamientos;-19.921.281.659;33.245.085.988;171;184;Casa Pedro;Extrahotelera;Vivienda turística;Hoyo del Verdugo;Los Llanos de Aridane; ;216818;3166814;4;VT-69; ;Tramitado;0
+alojamientos;-19.927.487.553;33.264.629.765;172;185;Casa Irmi;Extrahotelera;Vivienda turística;Cmno. del  Hoyo, 41, Todoque;Los Llanos de Aridane; ;216314;3168536;2;VT-70; ;Tramitado;0
+alojamientos;-19.932.614.509;3.333.261.255;173;187;Viv. Tur.;Extrahotelera;Vivienda turística;Cmno. Torres, 10;Los Llanos de Aridane;922460836;216008;3174489;2;VT-72; ;Tramitado;0
+alojamientos;-19.932.563.179;33.332.373.486;174;188;Viv. Tur.;Extrahotelera;Vivienda turística;Cmno. Torres, 12;Los Llanos de Aridane;922460836;216012;3174468;2;VT-73; ;Tramitado;0
+alojamientos;-19.933.322.643;33.218.411.261;175;189;Viv. Tur.;Extrahotelera;Vivienda turística;Playa de Las Monjas, 52;Los Llanos de Aridane;922460836;215703;3164507;4;VT-88; ;Tramitado;0
+alojamientos;-19.918.410.276;33.194.295.953;176;190;Casa Aixa;Extrahotelera;Vivienda turística;El Remo, 139;Los Llanos de Aridane;922463163;216963;3162366;5;VT-89; ;Tramitado;0
+alojamientos;-19.932.093.012;33.261.680.724;177;191;Viv. Tur.;Extrahotelera;Vivienda turística;Las Norias, 515;Los Llanos de Aridane;922461976;215903;3168288;8;VT-109; ;Tramitado;0
+alojamientos;-19.927.784.863;33.274.585.455;178;192;Casa Ingel;Extrahotelera;Vivienda turística;Callejón de La Gata, 18;Los Llanos de Aridane;922486149;216309;3169407;4;VT-117; ;Tramitado;0
+alojamientos;-19.921.384.274;3.326.445.825;179;193;Casa Blanca;Extrahotelera;Vivienda turística;Cmno. Calvario, 16;Los Llanos de Aridane;922461144;216850;3168508;4;VT-145; ;Tramitado;0
+alojamientos;-1.992.805.849;33.266.125.672;180;194;Casa Luna de Miel;Extrahotelera;Vivienda turística;Todoque, 112;Los Llanos de Aridane;922401779;216267;3168668;5;VT-154; ;Tramitado;0
+alojamientos;-19.928.071.795;33.266.205.414;181;195;Casa Antigua;Extrahotelera;Vivienda turística;Hoyo de Todoque, 19;Los Llanos de Aridane;922401779;216266;3168675;3;VT-155; ;Tramitado;0
+alojamientos;-19.926.133.792;33.266.058.239;182;196;Casa San Luís;Extrahotelera;Vivienda turística;Cmno. Lucía, Todoque;Los Llanos de Aridane;922461803;216436;3168658;6;VT-170; ;Tramitado;0
+alojamientos;-19.922.302.232;33.267.135.314;183;197;Casa Cristal;Extrahotelera;Vivienda turística;Todoque;Los Llanos de Aridane; ;216775;3168744;6;VT-183; ;Tramitado;0
+alojamientos;-19.915.770.034;3.326.947.901;184;198;Casa Rosada;Extrahotelera;Vivienda turística;Los Campitos;Los Llanos de Aridane; ;217354;3168935;3;VT-184; ;Tramitado;0
+alojamientos;-1.991.503.762;33.262.210.644;185;199;Casa Clementina;Extrahotelera;Vivienda turística;Cmno. Aniceto;Los Llanos de Aridane; ;217403;3168298;8;VT-185; ;Tramitado;0
+alojamientos;-19.918.526.054;33.272.877.906;186;200;Casa Rústica;Extrahotelera;Vivienda turística;Los Campitos;Los Llanos de Aridane; ;217119;3169238;3;VT-188; ;Tramitado;0
+alojamientos;-19.932.999.514;33.283.163.377;187;201;Casa Amarilla;Extrahotelera;Vivienda turística;La Laguna, 377;Los Llanos de Aridane; ;215869;3170168;6;VT-189; ;Tramitado;0
+alojamientos;-19.925.838.012;33.284.447.927;188;202;Casa Vieja;Extrahotelera;Vivienda turística;Cmno. Cumplido, 125;Los Llanos de Aridane; ;216501;3170265;3;VT-190; ;Tramitado;0
+alojamientos;-19.913.714.992;33.267.778.861;189;204;Casa El Zorro;Extrahotelera;Vivienda turística;Los Campitos;Los Llanos de Aridane; ;217531;3168782;8;VT-202; ;Tramitado;0
+alojamientos;-19.921.960.026;33.292.115.841;190;205;Casa Camino;Extrahotelera;Vivienda turística;Cmno. Cruz Chica, 109;Los Llanos de Aridane; ;216858;3170927;10;VT-204; ;Tramitado;0
+alojamientos;-1.991.331.348;33.267.170.941;191;206;Casa Ana;Extrahotelera;Vivienda turística;Los Campitos, 96;Los Llanos de Aridane; ;217565;3168728;5;VT-210; ;Tramitado;0
+alojamientos;-1.993.344.901;3.327.352.056;192;207;Casa Salvador;Extrahotelera;Vivienda turística;Cmno. El Atajo, 4, Todoque;Los Llanos de Aridane; ;215809;3169326;2;VT-212; ;Tramitado;0
+alojamientos;-19.943.248.442;33.288.586.552;193;208;Casa Pérez-Teschmidt;Extrahotelera;Vivienda turística;La Condesa, 93;Los Llanos de Aridane; ;214980;3170664;6;VT-215; ;Tramitado;0
+alojamientos;-19.927.518.273;33.284.750.119;194;209;Casa La Laguna;Extrahotelera;Vivienda turística;Cmno. Cumplido, 75;Los Llanos de Aridane; ;216354;3170295;4;VT-217; ;Tramitado;0
+alojamientos;-19.921.629.827;33.265.676.153;195;210;Casa Tranquila;Extrahotelera;Vivienda turística;Cmno. Calvario, 24;Los Llanos de Aridane; ;216831;3168615;3;VT-218; ;Tramitado;0
+alojamientos;-19.927.265.594;33.260.620.469;196;211;Casa Milagros;Extrahotelera;Vivienda turística;Cmno. de Marta, 32;Los Llanos de Aridane;922401095;216325;3168185;6;VT-220; ;Tramitado;0
+alojamientos;-19.929.599.516;33.266.797.231;197;213;Casa Vista Mar;Extrahotelera;Vivienda turística;Cmno. Las Casitas, 25;Los Llanos de Aridane; ;216133;3168730;6;VT-223; ;Tramitado;0
+alojamientos;-19.931.552.019;33.286.367.578;198;214;Casa Feliciana;Extrahotelera;Vivienda turística;Cmno. Jubilación, 6;Los Llanos de Aridane; ;216003;3170445;6;VT-224; ;Tramitado;0
+alojamientos;-19.928.427.653;33.266.333.989;199;215;Casa Delvis;Extrahotelera;Vivienda turística;Cmno. El Hoyo, 28, Todoque;Los Llanos de Aridane; ;216235;3168687;2;VT-226; ;Tramitado;0
+alojamientos;-19.920.277.875;33.282.295.506;200;216;Casa El Pajero;Extrahotelera;Vivienda turística;Cmno. Campitos, 38;Los Llanos de Aridane;922463214;216985;3170065;2;VT-228; ;Tramitado;0
+alojamientos;-19.913.399.332;33.270.268.691;201;217;Casa Lena;Extrahotelera;Vivienda turística;Cmno. Campitos, 111;Los Llanos de Aridane;922461987;217564;3168999;2;VT-229; ;Tramitado;0
+alojamientos;-19.907.073.566;33.248.027.128;202;218;Casa Carmen;Extrahotelera;Vivienda turística;La Lajita, 24;Los Llanos de Aridane;922461479;218073;3167041;4;VT-233; ;Tramitado;0
+alojamientos;-19.911.497.152;33.232.767.022;203;219;Casa Ruth;Extrahotelera;Vivienda turística;Las Manchas de Abajo, 1;Los Llanos de Aridane; ;217652;3165716;5;VT-237; ;Tramitado;0
+alojamientos;-19.910.477.042;33.270.362.526;204;220;Casa Antigua;Extrahotelera;Vivienda turística;Cmno. Paraiso, 5;Los Llanos de Aridane;922401369;217821;3169001;6;VT-238; ;Tramitado;0
+alojamientos;-19.949.873.588;33.330.735.644;205;221;Casa de Estrella;Extrahotelera;Vivienda turística;Cmno. Los Barros, 45;Los Llanos de Aridane; ;214488;3174362;3;VT-239; ;Tramitado;0
+alojamientos;-19.927.346.558;33.284.708.551;206;222;Casa Soluna;Extrahotelera;Vivienda turística;Cmno. Cumplido, 75;Los Llanos de Aridane; ;216369;3170291;2;VT-244; ;Tramitado;0
+alojamientos;-19.929.874.157;33.274.866.181;207;223;Casa Ambrosía;Extrahotelera;Vivienda turística;Callejón de La Gata, 10;Los Llanos de Aridane; ;216126;3169436;4;VT-251; ;Tramitado;0
+alojamientos;-19.911.085.199;33.257.308.326;208;224;Casa Doble;Extrahotelera;Vivienda turística;Cmno. La Jurona, 41-43;Los Llanos de Aridane; ;217740;3167861;8;VT-254; ;Tramitado;0
+alojamientos;-19.921.473.183;3.326.861.962;209;225;Casa Pastelero;Extrahotelera;Vivienda turística;Cmno. Pastelero, 42;Los Llanos de Aridane; ;216851;3168872;2;VT-255; ;Tramitado;0
+alojamientos;-19.925.587.566;33.283.973.566;210;226;Casa Karin;Extrahotelera;Vivienda turística;Cmno. Cumplido, 109;Los Llanos de Aridane; ;216522;3170223;4;VT-256; ;Tramitado;0
+alojamientos;-19.914.044.875;33.261.148.163;211;228;Casa Mágica;Extrahotelera;Vivienda turística;Cmno. Aniceto, Todoque;Los Llanos de Aridane; ;217488;3168203;5;VT-259; ;Tramitado;0
+alojamientos;-19.916.852.314;33.261.491.698;212;229;Casa Mirador;Extrahotelera;Vivienda turística;Las Segadas, Todoque;Los Llanos de Aridane; ;217242;3168239;6;VT-260; ;Tramitado;0
+alojamientos;-19.921.054.516;33.265.884.612;213;230;Casa Los Almendros;Extrahotelera;Vivienda turística;Cmno. Calvario, 28;Los Llanos de Aridane; ;216882;3168632;6;VT-273; ;Tramitado;0
+alojamientos;-19.908.267.802;33.248.009.622;214;231;Casa Rosa Elena;Extrahotelera;Vivienda turística;Cmno. La Lajita, 17;Los Llanos de Aridane; ;217968;3167042;4;VT-276; ;Tramitado;0
+alojamientos;-1.990.826.835;33.248.032.482;215;232;Casa de Piedra;Extrahotelera;Vivienda turística;Cmno. La Lajita, 17;Los Llanos de Aridane; ;217968;3167044;2;VT-277; ;Tramitado;0
+alojamientos;-1.990.828.356;33.248.192.228;216;233;Casa de Madera;Extrahotelera;Vivienda turística;Cmno. La Lajita, 17;Los Llanos de Aridane; ;217967;3167058;2;VT-278; ;Tramitado;0
+alojamientos;-19.929.885.637;3.328.569.902;217;234;Casa Sheena;Extrahotelera;Vivienda turística;Cmno. Cumplido, 37;Los Llanos de Aridane;922402155;216148;3170383;2;VT-283; ;Tramitado;0
+alojamientos;-19.922.335.525;33.276.068.134;218;235;Casa Erika;Extrahotelera;Vivienda turística;Callejón de La Gata, 76;Los Llanos de Aridane; ;216791;3169525;6;VT-284; ;Tramitado;0
+alojamientos;-1.992.247.028;33.276.465.219;219;236;Casa Pérez-Guerra;Extrahotelera;Vivienda turística;Callejón de La Gata, 74;Los Llanos de Aridane; ;216780;3169560;6;VT-285; ;Tramitado;0
+alojamientos;-19.922.355.777;3.329.908.505;220;237;Casa Ricardo;Extrahotelera;Vivienda turística;Las Manchas, 370A;Los Llanos de Aridane; ;216838;3171537;3;VT-286; ;Tramitado;0
+alojamientos;-19.925.384.095;33.278.373.171;221;238;Casa La Verada;Extrahotelera;Vivienda turística;Cmno. Campitos;Los Llanos de Aridane;922462533;216528;3169733;6;VT-287; ;Tramitado;0
+alojamientos;-19.922.976.135;33.288.944.988;222;239;Casa Cruz Chica;Extrahotelera;Vivienda turística;Cmno. Campitos, 12;Los Llanos de Aridane; ;216762;3170652;7;VT-288; ;Tramitado;0
+alojamientos;-19.922.567.253;33.266.328.178;223;240;Casa Chica;Extrahotelera;Vivienda turística;Cmno. Calvario, 31;Los Llanos de Aridane; ;216750;3168674;2;VT-290; ;Tramitado;0
+alojamientos;-19.920.907.337;33.244.660.513;224;241;Casa Clara;Extrahotelera;Vivienda turística;Cuatro Caminos, 193;Los Llanos de Aridane; ;216850;3166776;4;VT-293; ;Tramitado;0
+alojamientos;-19.927.558.398;33.275.574.734;225;242;Casa Alberca;Extrahotelera;Vivienda turística;Callejón de La Gata, 53;Los Llanos de Aridane; ;216331;3169493;4;VT-294; ;Tramitado;0
+alojamientos;-19.927.371.465;33.285.268.494;226;243;Casa Elisa;Extrahotelera;Vivienda turística;Cmno. Cumplido, 79;Los Llanos de Aridane; ;216368;3170340;5;VT-295; ;Tramitado;0
+alojamientos;-1.992.827.593;33.259.108.923;227;244;Casa Azul Uerdingen;Extrahotelera;Vivienda turística;Cmno. La Majada, 41;Los Llanos de Aridane; ;216233;3168055;4;VT-296; ;Tramitado;0
+alojamientos;-1.993.859.559;3.323.183.253;228;245;Casa Conrado;Extrahotelera;Vivienda turística;Gabriel Lorenzo Calero, 17;Los Llanos de Aridane; ;215268;3165692;5;VT-303; ;Tramitado;0
+alojamientos;-19.918.989.406;33.266.129.327;229;247;Casa Calino;Extrahotelera;Vivienda turística;Cmno. Pastelero;Los Llanos de Aridane; ;217064;3168649;5;VT-314; ;Tramitado;0
+alojamientos;-1.991.500.568;33.268.925.662;230;248;Casa La Pantana;Extrahotelera;Vivienda turística;Cmno. Pastelero, 83A;Los Llanos de Aridane; ;217420;3168885;4;VT-315; ;Tramitado;0
+alojamientos;-19.920.507.814;33.289.474.182;231;249;Casa Carmen;Extrahotelera;Vivienda turística;Cmno. Morro Cabrito, 13;Los Llanos de Aridane; ;216980;3170693;6;VT-316; ;Tramitado;0
+alojamientos;-19.927.267.441;33.285.202.394;232;250;Casa Rosa;Extrahotelera;Vivienda turística;Cmno. Cumplido, 91;Los Llanos de Aridane; ;216377;3170334;4;VT-318; ;Tramitado;0
+alojamientos;-1.991.309.633;3.324.440.433;233;251;Casa Flora;Extrahotelera;Vivienda turística;Cmno. Callejón, 72;Los Llanos de Aridane; ;217536;3166737;2;VT-319; ;Tramitado;0
+alojamientos;-19.912.959.332;33.244.384.782;234;252;Casa Rosa;Extrahotelera;Vivienda turística;Cmno. Callejón, 74;Los Llanos de Aridane; ;217548;3166735;2;VT-320; ;Tramitado;0
+alojamientos;-19.933.235.887;33.218.116.091;235;254;Casa Karina;Extrahotelera;Vivienda turística;Playa de Las Monjas, 52;Los Llanos de Aridane;922494214;215710;3164481;2;VT-322; ;Tramitado;0
+alojamientos;-19.928.148.205;33.296.689.858;236;255;Casa Astronomía;Extrahotelera;Vivienda turística;Cmno. Nicolás Brito Pais;Los Llanos de Aridane;922462047;216324;3171340;4;VT-323; ;Tramitado;0
+alojamientos;-19.926.647.552;33.259.057.142;237;256;Casa Ute;Extrahotelera;Vivienda turística;Cmno. La Majada, 53;Los Llanos de Aridane; ;216376;3168047;4;VT-324; ;Tramitado;0
+alojamientos;-19.913.633.352;33.271.955.935;238;257;Casa de Piedra;Extrahotelera;Vivienda turística;Cmno. Campitos, 19;Los Llanos de Aridane;922401587;217547;3169147;3;VT-325; ;Tramitado;0
+alojamientos;-19.913.306.189;33.268.761.062;239;258;Viv. Tur.;Extrahotelera;Vivienda turística;Cmno. Campitos, 144;Los Llanos de Aridane; ;217569;3168867;3;VT-326; ;Tramitado;0
+alojamientos;-19.908.841.278;33.262.898.656;240;259;Casa Pedro;Extrahotelera;Vivienda turística;Cmno. Campitos, 177;Los Llanos de Aridane;922460872;217949;3168345;3;VT-327; ;Tramitado;0
+alojamientos;-19.909.563.561;33.268.337.187;241;261;Casa Cinco Caminos;Extrahotelera;Vivienda turística;Cmno. Pastelero, 96;Los Llanos de Aridane; ;217897;3168822;4;VT-333; ;Tramitado;0
+alojamientos;-19.928.943.955;3.326.792.275;242;262;Casa La Hoya;Extrahotelera;Vivienda turística;Cmno. El Hoyo, 9;Los Llanos de Aridane; ;216193;3168827;2;VT-335; ;Tramitado;0
+alojamientos;-19.929.432.178;33.254.688.737;243;265;La Majada;Extrahotelera;Casa Medio rural;Cmno. La Majada, 50;Los Llanos de Aridane; ;216122;3167671;4;EMR-38/5/0004;EMR;Tramitado;0
+alojamientos;-19.916.547.383;33.260.641.274;244;269;Las Celgadas;Extrahotelera;Casa Medio rural;Las Celgadas;Los Llanos de Aridane; ;217267;3168164;0; ;EMR;Tramitado;0
+alojamientos;-1.991.752.788;3.325.362.912;245;270;La Jurona;Extrahotelera;Villa;La Jurona;Los Llanos de Aridane; ;217166;3167553;0; ; ;Tramitado;0
+alojamientos;-19.905.772.376;33.313.790.486;246;274;Monterrey;Hotelera;Pensión;Antonio Pino Pérez, 7;El Paso;922485175;218326;3172787;21;H-38/5/0006-0;P/**;Tramitado;2
+alojamientos;-19.873.212.231;33.316.029.643;247;275;Nambroque;Hotelera;Pensión;Ctra. General-Las Piedras, 56;El Paso;922485279;221191;3172914;19;H-38/5/0018-8;P/**;Tramitado;2
+alojamientos;-19.895.671.541;33.316.483.864;248;276;Tienda, La;Hotelera;Pensión;Cruz Grande, 1;El Paso;635411571;219219;3173001;15;H-38/5/0048;P/**;Tramitado;2
+alojamientos;-19.883.168.842;33.321.111.091;249;278;Casa La Higuerita;Extrahotelera;Casa Rural;La Rosa, 64;El Paso;922430625;220327;3173379;4;CR-40;UE;Tramitado;0
+alojamientos;-19.921.702.277;3.331.823.177;250;279;Casa Bana;Extrahotelera;Casa Rural;Primero de Mayo, 18;El Paso; ;216936;3173209;0;CR-42;UCU;Tramitado;0
+alojamientos;-19.938.892.494;33.369.392.951;251;280;Casa El Lagar;Extrahotelera;Casa Rural;Lomo Charcos, 7;El Paso;922401155;215535;3177716;2;CR-123;UE;Tramitado;0
+alojamientos;-19.910.978.458;33.320.106.268;252;281;Casa Jacinta Pura;Extrahotelera;Casa Rural;Turrula El Verde, 23;El Paso;922430625;217882;3173350;3;CR-124;UE;Tramitado;0
+alojamientos;-19.910.613.237;33.285.504.858;253;282;Casa El Rincón;Extrahotelera;Casa Rural;Callejón de La Gata, 13;El Paso;922430625;217841;3170325;4;CR-125;UE;Tramitado;0
+alojamientos;-19.939.764.129;3.336.964.628;254;283;Casa Ángel;Extrahotelera;Casa Rural;Hacienda del Cura;El Paso;922430625;215459;3177740;3;CR-126;UE;Tramitado;0
+alojamientos;-19.906.152.788;33.311.618.665;255;284;Casa Pajeros, Nueva y Vieja;Extrahotelera;Casa Rural;13 de Mayo, 6;El Paso;922485819;218288;3172598;9;CR-162;UCU;Tramitado;0
+alojamientos;-19.910.294.716;33.316.289.571;256;285;Casa Olga;Extrahotelera;Casa Rural;Paso de Abajo, 56;El Paso; ;217934;3173015;3;CR-164;UE;Tramitado;0
+alojamientos;-19.892.203.737;33.319.039.332;257;286;Casa El Morro;Extrahotelera;Casa Rural;La Rosa, 19;El Paso; ;219529;3173217;2;CR-165;UE;Tramitado;0
+alojamientos;-19.890.392.677;33.315.661.694;258;287;Casa La Centenaria 1 y 2;Extrahotelera;Casa Rural;El Pilar, 14;El Paso;922486221;219681;3172918;7;CR-192;UCU/UE;Tramitado;0
+alojamientos;-19.903.884.266;33.252.153.059;259;288;Casa  Los Pajeros;Extrahotelera;Casa Rural;San Nicolás, 157;El Paso;922494260;218362;3167395;8;CR-197;UCU;Tramitado;0
+alojamientos;-19.888.238.512;33.315.072.906;260;289;Casa Elena II;Extrahotelera;Casa Rural;El Pilar, 20;El Paso;696187700;219869;3172862;4;CR-206;UE;Tramitado;0
+alojamientos;-19.919.686.772;33.319.150.549;261;290;Hermosilla;Extrahotelera;Apartamento;Riquibas, 7;El Paso;922485741;217115;3173285;13;E-38/5/001800-8;A/1LL;Tramitado;1
+alojamientos;-19.890.496.163;33.315.704.966;262;291;Bellavista;Extrahotelera;Apartamento;Santa Ana, 14;El Paso;922460093;219672;3172922;12;E-38/5/002500-4;A/1LL;Tramitado;1
+alojamientos;-19.924.943.229;33.308.667.078;263;292;Tamara;Extrahotelera;Apartamento;Urb. Celta;El Paso;922463636;216631;3172380;18;E-38/5/002700-7;A/1LL;Tramitado;1
+alojamientos;-19.908.652.874;33.301.969.785;264;293;Guanches;Extrahotelera;Apartamento;Cmno. Gámez, 14;El Paso;922464252;218048;3171760;40;E-38/5/003100-4;A/1LL;Tramitado;1
+alojamientos;-19.914.922.667;33.302.366.617;265;294;Rosabel;Extrahotelera;Apartamento;Taburiente, 65;El Paso;922485020;217498;3171808;11;E-38/5/004500-5;A/1LL;Tramitado;1
+alojamientos;-19.921.638.861;33.308.999.395;266;295;Palma Jardín, La;Extrahotelera;Apartamento;Urb. Celta, B-20;El Paso;922463567;216922;3172402;82;E-38/5/004600-1;A/3LL;Tramitado;3
+alojamientos;-19.918.781.458;33.299.069.167;267;296;Jardín de Aridane;Extrahotelera;Apartamento;Tamarahoya, 19;El Paso;922486027;217152;3171528;8;E-38/5/005600-7;A/1LL;Tramitado;1
+alojamientos;-19.918.317.236;33.301.059.788;268;297;Casa de Las Palmeras;Extrahotelera;Apartamento;Tamarahoya, 16;El Paso;922402115;217197;3171701;10;E-38/5/006300-3;A/1LL;Tramitado;1
+alojamientos;-19.923.995.591;33.309.491.132;269;298;Mimosas, Las;Extrahotelera;Apartamento;Urb. Celta, calle C, 9;El Paso;922463636;216716;3172450;18;E-38/5/007100-6;A/3LL;Tramitado;3
+alojamientos;-19.924.588.254;33.309.522.439;270;299;Castaño, El;Extrahotelera;Apartamento;Urb. Celta, C-9;El Paso;922463636;216664;3172454;18;E-38/5/007200-2;A/2LL;Tramitado;2
+alojamientos;-19.924.939.534;33.309.456.657;271;300;Geranios, Los;Extrahotelera;Apartamento;Urb. Celta;El Paso; ;216633;3172449;18;E-38/5/007300-9;A/2LL;Tramitado;2
+alojamientos;-19.898.337.048;33.272.349.556;272;301;Veneranda;Extrahotelera;Apartamento;El Paraíso, 1;El Paso;922462930;218892;3169149;10;E-38/5/007600-8;A/1LL;Tramitado;1
+alojamientos;-19.951.960.641;33.332.755.579;273;302;Nazco-Díaz;Extrahotelera;Apartamento;Jedey, 7, Los Barros;El Paso;922462535;214309;3174543;11;E-38/5/0077;A/1LL;Tramitado;1
+alojamientos;-19.892.477.229;33.316.194.918;274;303;Elida;Extrahotelera;Apartamento;El Pilar, 3;El Paso;922486165;219499;3172969;11;E-38/5/007800-0;A/1LL;Tramitado;1
+alojamientos;-19.904.060.359;33.269.946.171;275;304;Parahil;Extrahotelera;Apartamento;Paraíso,22;El Paso;922463887;218384;3168951;5;E-38/5/0081;A/1LL;Tramitado;1
+alojamientos;-19.906.203.564;33.298.562.531;276;305;Luna Bailadora;Extrahotelera;Apartamento;Echedey, 24 y 26;El Paso;922485997;218256;3171457;6;E-38/5/008400-0;A/1LL;Tramitado;1
+alojamientos;-19.902.608.577;33.271.571.312;277;306;Paraíso Hofmeister;Extrahotelera;Apartamento;El Paraíso, Las Manchas;El Paso;922485935;218515;3169090;5;E-38/5/008500-7;A/1LL;Tramitado;1
+alojamientos;-19.914.253.799;3330484.28;278;307;Cráter-1;Extrahotelera;Apartamento;Malpaís de Panadero;El Paso; ;217562;3172023;6;E-38/5/008800-6;A/1LL;Tramitado;1
+alojamientos;-19.916.975.743;33.294.982.961;279;308;Vista Valle Obijón;Extrahotelera;Apartamento;Urb. Vista Valle;El Paso;639356391;217302;3171167;7;E-38/5/009000-0;A/1LL;Tramitado;1
+alojamientos;-1.991.793.017;33.296.332.625;280;309;Vista Valle Heinz;Extrahotelera;Apartamento;Urb. Vista Valle;El Paso;639356391;217221;3171287;17;E-38/5/009100-7;A/1LL;Tramitado;1
+alojamientos;-19.922.362.056;33.310.194.608;281;310;Villa, La;Extrahotelera;Apartamento;Urb. Celta;El Paso;922402108;216861;3172508;118;E-38/5/0120;A/1LL;Tramitado;1
+alojamientos;-19.913.275.688;33.293.047.952;282;311;Rincón Tajuya;Extrahotelera;Apartamento;Tajuya;El Paso;922461592;217623;3170990;12;E-38/5/0123;A/1LL;Tramitado;1
+alojamientos;-19.913.945.248;33.292.493.971;283;312;Alas, Las;Extrahotelera;Apartamento;Tajuya, 4;El Paso;922485249;217563;3170943;12;E-38/5/0125;A/1LL;Tramitado;1
+alojamientos;-19.917.371.094;33.302.890.549;284;313;Viv. Tur.;Extrahotelera;Vivienda turística;Ctra. Taburiente;El Paso; ;217284;3171859;2; ; ;Tramitado;0
+alojamientos;-19.917.371.094;33.302.890.549;285;314;Viv. Tur.;Extrahotelera;Vivienda turística;Ctra. Taburiente;El Paso; ;217284;3171859;2; ; ;Tramitado;0
+alojamientos;-19.917.462.883;33.296.778.751;286;315;Viv. Tur.;Extrahotelera;Vivienda turística;Vista Valle, 41;El Paso; ;217263;3171325;4;VT-13; ;Tramitado;0
+alojamientos;-19.917.341.338;33.296.930.441;287;316;Viv. Tur.;Extrahotelera;Vivienda turística;Vista Valle, 36;El Paso; ;217274;3171338;4;VT-14; ;Tramitado;0
+alojamientos;-1.989.876.748;33.298.410.893;288;317;Viv. Tur.;Extrahotelera;Vivienda turística;Cmno. Casañas, 3;El Paso; ;218909;3171428;4;VT-19; ;Tramitado;0
+alojamientos;-19.918.555.603;33.307.644.293;289;318;Casa Piedra Hincada;Extrahotelera;Vivienda turística;Piedra Hincada;El Paso; ;217190;3172277;5;VT-28; ;Tramitado;0
+alojamientos;-19.880.505.099;33.314.904.559;290;319;Viv. Tur.;Extrahotelera;Vivienda turística;El Pilar, 81;El Paso; ;220548;3172831;3;VT-30; ;Tramitado;0
+alojamientos;-19.884.630.535;33.320.824.117;291;320;Viv. Tur.;Extrahotelera;Vivienda turística;Cruz de Don Gil, 3;El Paso; ;220198;3173357;3;VT-31; ;Tramitado;0
+alojamientos;-19.883.589.087;33.328.230.208;292;321;Viv. Tur.;Extrahotelera;Vivienda turística;El Barrial de Abajo, 25;El Paso; ;220305;3174002;4;VT-64; ;Tramitado;0
+alojamientos;-19.879.727.657;33.320.976.541;293;322;Casa El Rosal;Extrahotelera;Vivienda turística;El Rosal, 4;El Paso; ;220629;3173360;4;VT-75; ;Tramitado;0
+alojamientos;-19.888.191.638;33.315.016.824;294;323;Casa Elena I;Extrahotelera;Vivienda turística;El Pilar, 16;El Paso; ;219873;3172857;4;VT-80; ;Tramitado;0
+alojamientos;-19.917.953.149;33.298.231.257;295;324;Viv. Tur.;Extrahotelera;Vivienda turística;Cruz de Medina, 9;El Paso; ;217223;3171453;5;VT-92; ;Tramitado;0
+alojamientos;-1.991.801.278;33.298.344.215;296;325;Viv. Tur.;Extrahotelera;Vivienda turística;Cruz de Medina, 7;El Paso; ;217218;3171463;3;VT-93; ;Tramitado;0
+alojamientos;-19.903.676.564;33.267.702.069;297;326;Casa Colina;Extrahotelera;Vivienda turística;Alcalá, 35;El Paso; ;218413;3168754;5;VT-94; ;Tramitado;0
+alojamientos;-19.903.676.564;33.267.702.069;298;327;Casa Minnie;Extrahotelera;Vivienda turística;Alcalá, 33;El Paso; ;218413;3168754;3;VT-95; ;Tramitado;0
+alojamientos;-19.903.676.564;33.267.702.069;299;328;Casa Viña;Extrahotelera;Vivienda turística;Alcalá, 31;El Paso; ;218413;3168754;3;VT-96; ;Tramitado;0
+alojamientos;-19.882.537.181;33.323.266.188;300;329;Casa Nereida;Extrahotelera;Vivienda turística;Virgen del Pino, 20A;El Paso; ;220387;3173566;4;VT-100; ;Tramitado;0
+alojamientos;-19.882.458.628;33.323.313.854;301;330;Casa Antonio;Extrahotelera;Vivienda turística;Virgen del Pino, 20B;El Paso; ;220394;3173570;4;VT-101; ;Tramitado;0
+alojamientos;-19.890.392.677;33.315.661.694;302;331;Viv. Tur.;Extrahotelera;Vivienda turística;El Pilar, 14;El Paso;922487343;219681;3172918;4;VT-108; ;Tramitado;0
+alojamientos;-19.911.742.696;33.315.911.105;303;332;Casa Taburiente;Extrahotelera;Vivienda turística;Tabiente A, 17;El Paso; ;217806;3172985;4;VT-116; ;Tramitado;0
+alojamientos;-19.880.976.747;33.326.576.596;304;333;Casa Blanca;Extrahotelera;Vivienda turística;Cmno. de Ojeda, 22;El Paso; ;220531;3173852;3;VT-130; ;Tramitado;0
+alojamientos;-19.929.468.417;33.331.510.804;305;334;Casa Las Chocitas;Extrahotelera;Vivienda turística;Cmno. Los Tijaraferos, 6;El Paso; ;216282;3174386;6;VT-140; ;Tramitado;0
+alojamientos;-19.907.921.474;33.297.582.687;306;335;Casa Las Píncoras;Extrahotelera;Vivienda turística;Echedey, 32;El Paso;922497058;218103;3171375;3;VT-156; ;Tramitado;0
+alojamientos;-19.924.284.042;33.315.308.156;307;336;Casa Grande;Extrahotelera;Vivienda turística;Canal, 18. Los Roquitos;El Paso; ;216703;3172959;6;VT-157; ;Tramitado;0
+alojamientos;-19.904.027.885;3.327.001.559;308;337;Finca Juan;Extrahotelera;Vivienda turística;El Paraíso, 68;El Paso; ;218387;3168957;4;VT-159; ;Tramitado;0
+alojamientos;-19.924.385.274;33.315.729.055;309;338;Casa Sol;Extrahotelera;Vivienda turística;El Canal, 19. Los Roquitos;El Paso;922434569;216695;3172996;4;VT-172; ;Tramitado;0
+alojamientos;-1.989.950.922;33.270.925.672;310;339;Casa Kora;Extrahotelera;Vivienda turística;Las Piteras, Las Manchas;El Paso; ;218786;3169027;6;VT-186; ;Tramitado;0
+alojamientos;-19.949.000.999;3333931.72;311;340;Casa Juan Antonio;Extrahotelera;Vivienda turística;Los Cantadores, 8B;El Paso; ;214583;3175110;3;VT-191; ;Tramitado;0
+alojamientos;-19.915.384.247;33.319.644.386;312;341;Casa Honorio;Extrahotelera;Vivienda turística;Sombrero Pico, 7;El Paso; ;217494;3173319;3;VT-195; ;Tramitado;0
+alojamientos;-19.922.940.292;3.331.245.748;313;342;Casa Los Roquitos;Extrahotelera;Vivienda turística;Los Roquitos, 6;El Paso; ;216815;3172707;8;VT-197; ;Tramitado;0
+alojamientos;-19.906.650.449;33.301.057.309;314;343;Casa Gámez;Extrahotelera;Vivienda turística;Cmno. Gámez, 7;El Paso; ;218222;3171676;5;VT-198; ;Tramitado;0
+alojamientos;-1.989.022.013;33.320.826.577;315;344;Casa Martín;Extrahotelera;Vivienda turística;El Morrito, 1;El Paso; ;219707;3173369;3;VT-199; ;Tramitado;0
+alojamientos;-19.905.095.238;33.299.333.081;316;345;Casa La Palma;Extrahotelera;Vivienda turística;Cmno. Las Lajas, 9;El Paso;922463749;218355;3171522;3;VT-201; ;Tramitado;0
+alojamientos;-19.885.297.375;3.330.105.875;317;346;Casa Caldera;Extrahotelera;Vivienda turística;El Arenero, 4B, Los Barros;El Paso; ;220098;3171631;6;VT-203; ;Tramitado;0
+alojamientos;-19.916.123.044;33.320.541.832;318;347;Casa Tabares;Extrahotelera;Vivienda turística;Turrula Tinglado, 48;El Paso; ;217431;3173399;4;VT-211; ;Tramitado;0
+alojamientos;-19.924.911.746;3332809.75;319;348;Casa Mariana;Extrahotelera;Vivienda turística;Los Pedregales;El Paso; ;216675;3174078;4;VT-216; ;Tramitado;0
+alojamientos;-19.907.042.982;33.290.384.931;320;349;Finca Carballos;Extrahotelera;Vivienda turística;Cmno. El Espigón, 27;El Paso; ;218165;3170744;3;VT-222; ;Tramitado;0
+alojamientos;-19.905.975.017;33.260.577.609;321;350;Casa Persephone;Extrahotelera;Vivienda turística;Cmno. Corazoncillo;El Paso; ;218196;3168136;4;VT-227; ;Tramitado;0
+alojamientos;-19.905.526.252;33.271.283.302;322;351;Finca El Ciprés;Extrahotelera;Vivienda turística;Alcalá, 46;El Paso;922461479;218258;3169071;5;VT-232; ;Tramitado;0
+alojamientos;-19.909.073.599;33.291.056.404;323;352;Casa El Lagar;Extrahotelera;Vivienda turística;Espigón, 22;El Paso;922486028;217988;3170807;3;VT-234; ;Tramitado;0
+alojamientos;-1.991.758.403;33.318.812.722;324;353;Casa La Cabezada;Extrahotelera;Vivienda turística;San Telmo, 44;El Paso; ;217299;3173251;8;VT-236; ;Tramitado;0
+alojamientos;-19.908.594.214;33.290.999.397;325;354;Casa La Bodega;Extrahotelera;Vivienda turística;Espigón, 24;El Paso; ;218030;3170801;2;VT-240; ;Tramitado;0
+alojamientos;-1.994.035.802;3.331.956.059;326;355;Casa Almendras;Extrahotelera;Vivienda turística;La Agüelilla;El Paso; ;215300;3173365;4;VT-242; ;Tramitado;0
+alojamientos;-19.915.814.768;33.295.926.469;327;356;Casa Vista Valle;Extrahotelera;Vivienda turística;Vista Valle, 21;El Paso; ;217406;3171247;6;VT-246; ;Tramitado;0
+alojamientos;-19.913.260.011;33.292.396.222;328;357;Casa Dálmatas;Extrahotelera;Vivienda turística;Tajuya, 12;El Paso; ;217623;3170933;3;VT-250; ;Tramitado;0
+alojamientos;-19.893.006.152;33.316.891.583;329;358;Casa Josefina;Extrahotelera;Vivienda turística;Esq. Pedro Martín, 1;El Paso; ;219454;3173031;3;VT-253; ;Tramitado;0
+alojamientos;-19.914.429.203;33.301.726.463;330;359;Casa Antigua;Extrahotelera;Vivienda turística;Taburiente, 69;El Paso; ;217540;3171751;2;VT-261; ;Tramitado;0
+alojamientos;-19.917.968.261;3.330.736.111;331;360;Casa Almendro;Extrahotelera;Vivienda turística;Piedra Hincada, 7;El Paso; ;217241;3172251;4;VT-262; ;Tramitado;0
+alojamientos;-19.901.211.271;33.299.221.259;332;361;Casa Arándano;Extrahotelera;Vivienda turística;Tacande, 27;El Paso; ;218696;3171504;4;VT-263; ;Tramitado;0
+alojamientos;-19.914.065.619;33.321.141.162;333;362;Casa Cipresas;Extrahotelera;Vivienda turística;Turrula Tinglado, 4;El Paso; ;217613;3173447;5;VT-264; ;Tramitado;0
+alojamientos;-19.944.640.263;33.339.309.978;334;363;Casa V. Caldera II;Extrahotelera;Vivienda turística;Lomo de Los Caballos;El Paso; ;214966;3175100;12;VT-265; ;Tramitado;0
+alojamientos;-19.944.317.796;33.339.626.899;335;364;Casa V. Caldera I;Extrahotelera;Vivienda turística;Cmno. La Caldera;El Paso; ;214995;3175127;8;VT-266; ;Tramitado;0
+alojamientos;-19.919.061.803;33.301.728.132;336;365;Casa Alexandra B.;Extrahotelera;Vivienda turística;Tamarahoya, 20;El Paso; ;217133;3171761;2;VT-267; ;Tramitado;0
+alojamientos;-19.949.506.023;3.333.854.945;337;366;Casa Barranco;Extrahotelera;Vivienda turística;Cmno. Cantadores, 8C;El Paso; ;214537;3175044;3;VT-271; ;Tramitado;0
+alojamientos;-19.897.014.427;3.328.793.933;338;367;Casa Katarina;Extrahotelera;Vivienda turística;Cmno. El Espigón, 44;El Paso; ;219041;3170509;5;VT-279; ;Tramitado;0
+alojamientos;-19.927.858.386;33.330.371.458;339;368;Casa Los Lomos B;Extrahotelera;Vivienda turística;Los Pedregales, 6A;El Paso; ;216421;3174283;4;VT-280; ;Tramitado;0
+alojamientos;-19.905.088.777;33.298.589.565;340;369;Casa El Sitio;Extrahotelera;Vivienda turística;Las Lajas, 5;El Paso; ;218354;3171457;2;VT-282; ;Tramitado;0
+alojamientos;-19.901.104.087;33.311.844.044;341;370;Casa Manolo;Extrahotelera;Vivienda turística;Coromoto, 9;El Paso; ;218732;3172607;2;VT-289; ;Tramitado;0
+alojamientos;-19.944.275.874;33.339.307.487;342;371;Casa Caldera;Extrahotelera;Vivienda turística;Cmno. La Caldera;El Paso; ;214998;3175099;3;VT-304; ;Tramitado;0
+alojamientos;-19.882.400.649;33.323.269.477;343;372;Casa Nere;Extrahotelera;Vivienda turística;Virgen del Pino, 20;El Paso; ;220399;3173566;4;VT-309; ;Tramitado;0
+alojamientos;-1.992.808.705;33.330.411.645;344;373;Casa Los Lomos A;Extrahotelera;Vivienda turística;Los Pedregales, 6;El Paso; ;216401;3174287;4;VT-310; ;Tramitado;0
+alojamientos;-19.897.384.605;3.329.865.029;345;374;Casa La Graja;Extrahotelera;Vivienda turística;Cuesta La Juliana, 7;El Paso; ;219031;3171446;3;VT-328; ;Tramitado;0
+alojamientos;-1.991.579.346;33.315.366.321;346;375;Casa El Morrito;Extrahotelera;Vivienda turística;Ctra. Taburiente;El Paso; ;217449;3172946;4;VT-334; ;Tramitado;0
+alojamientos;-19.917.715.167;33.319.530.423;347;376;Villa Nieves;Extrahotelera;Villa;Paso de Abajo, 83;El Paso; ;217289;3173314;6;E-38/5/0136; ;Tramitado;0
+alojamientos;-20.016.484.263;33.458.426.499;348;377;Mar y Monte;Hotelera;Pensión;Pino de La Virgen, 7;Puntagorda;922493067;208916;3185660;8;H-38/5/0041;P/*;Tramitado;1
+alojamientos;-20.025.157.188;33.450.270.285;349;378;Casa El Jócamo;Extrahotelera;Casa Rural;Fagundo, 23A;Puntagorda; ;208137;3184967;4;CR-2;UE;Tramitado;0
+alojamientos;-20.011.626.973;33.457.850.066;350;379;Casa Machín;Extrahotelera;Casa Rural;Avda. La Constitución;Puntagorda;922493180;209341;3185599;2;CR-3;UE;Tramitado;0
+alojamientos;-20.001.539.787;33.451.780.842;351;380;Villa Martina;Extrahotelera;Casa Rural;Cmno. de Fátima, 6;Puntagorda;922430625;210213;3185047;5;CR-4;UE;Tramitado;0
+alojamientos;-20.016.793.622;33.473.573.401;352;381;Casa El Tendal;Extrahotelera;Casa Rural;Cmno. de Matos, 14;Puntagorda;922430625;208922;3186983;2;CR-6;UE;Tramitado;0
+alojamientos;-2.001.038.121;33.476.014.518;353;382;Casa El Fayal;Extrahotelera;Casa Rural;Verada Alta, 61;Puntagorda;922493074;209490;3187182;4;CR-28;UE;Tramitado;0
+alojamientos;-20.008.196.911;33.465.175.519;354;383;Casa El Peral;Extrahotelera;Casa Rural;Cmno. El Peral;Puntagorda;922461253;209658;3186231;4;CR-32;UE;Tramitado;0
+alojamientos;-20.012.277.633;33.477.570.603;355;384;Casa La Verada;Extrahotelera;Casa Rural;La Verada Baja, 7B;Puntagorda; ;209327;3187322;4;CR-36;UE;Tramitado;0
+alojamientos;-20.014.180.889;33.467.510.691;356;385;Casa Herenio;Extrahotelera;Casa Rural;La Oliva, 3;Puntagorda;922493311;209138;3186448;5;CR-58;UE;Tramitado;0
+alojamientos;-20.014.058.466;33.467.628.323;357;386;Casa La Oliva;Extrahotelera;Casa Rural;La Oliva;Puntagorda;922493311;209149;3186458;3;CR-59;UE;Tramitado;0
+alojamientos;-20.005.633.028;33.441.794.029;358;387;Casa Acerina;Extrahotelera;Casa Rural;El Roque;Puntagorda; ;209832;3184184;3;CR-81;UE;Tramitado;0
+alojamientos;-20.008.328.735;33.465.435.666;359;388;Casa La Era;Extrahotelera;Casa Rural;Cmno. El Peral, 24B;Puntagorda;922461253;209647;3186254;3;CR-158;UE;Tramitado;0
+alojamientos;-20.010.861.257;33.447.228.858;360;389;Casa Los Marantes;Extrahotelera;Casa Rural;El Roque;Puntagorda;922450147;209385;3184670;10;CR-177;UCU;Tramitado;0
+alojamientos;-20.010.750.799;33.446.910.945;361;390;Casa Los Marantes I;Extrahotelera;Casa Rural;El Roque;Puntagorda;922450147;209394;3184642;3;CR-178;UE;Tramitado;0
+alojamientos;-20.003.071.977;33.466.220.608;362;391;Casa Federico;Extrahotelera;Casa Rural;Cmno. La Rosa, 5;Puntagorda; ;210110;3186311;4;CR-179;UE;Tramitado;0
+alojamientos;-2.001.449.615;33.474.215.514;363;393;Casa Corea;Extrahotelera;Vivienda turística;Cmno. De La Verada Baja;Puntagorda;922493219;209125;3187034;3;VT-225; ;Tramitado;0
+alojamientos;-20.019.819.519;33.471.068.577;364;394;Casa El Hondito;Extrahotelera;Vivienda turística;Cmno. El Hondito, 14;Puntagorda;922461253;208651;3186771;2;VT-270; ;Tramitado;0
+alojamientos;-20.016.484.748;33.474.440.346;365;395;Casa Ursula;Extrahotelera;Vivienda turística;Cmno. El Molino;Puntagorda;922463204;208951;3187058;4;VT-275; ;Tramitado;0
+alojamientos;-20.013.963.418;3.347.433.203;366;396;Casa Corea 2;Extrahotelera;Casa Medio rural;Cmno. Verada Baja;Puntagorda;659556741;209172;3187043;3;EMR-38/5/0002;EMR;Tramitado;0
+alojamientos;-20.014.025.762;33.474.089.894;367;397;Casa Corea 1;Extrahotelera;Casa Medio rural;Cmno. Verada Baja;Puntagorda;659556741;209166;3187022;3;EMR-38/5/0001;EMR;Tramitado;0
+alojamientos;-19.759.261.892;33.432.777.067;368;405;Casa Emiliana;Extrahotelera;Casa Rural;El Barranquito, 3;Puntallana;922430625;231436;3182877;3;CR-19;UE;Tramitado;0
+alojamientos;-19.784.221.836;33.450.280.698;369;406;Casona La Galga;Extrahotelera;Casa Rural;Lomo Piñero, 29;Puntallana;922430201;229281;3184456;12;CR-38;UE;Tramitado;0
+alojamientos;-1.978.205.481;33.455.119.542;370;407;Casa Cha Miquela;Extrahotelera;Casa Rural;Llano Molino, 88;Puntallana; ;229481;3184874;6;CR-53;UCU;Tramitado;0
+alojamientos;-19.756.453.651;33.444.456.322;371;408;Casa Tomasín;Extrahotelera;Casa Rural;El Tomasín, 3A;Puntallana; ;231706;3183891;4;CR-65;UE;Tramitado;0
+alojamientos;-19.752.169.102;33.419.610.644;372;409;Casa Sara;Extrahotelera;Casa Rural;Los Molinos, 5;Puntallana;922430185;232032;3181713;3;CR-82;UE;Tramitado;0
+alojamientos;-19.766.056.559;33.440.854.195;373;410;Casa La Camelia;Extrahotelera;Casa Rural;El Topo, 7;Puntallana; ;230856;3183596;4;CR-90;UE;Tramitado;0
+alojamientos;-19.766.370.121;33.441.110.335;374;411;Casa La Charola;Extrahotelera;Casa Rural;El Topo, 8;Puntallana; ;230829;3183619;4;CR-91;UE;Tramitado;0
+alojamientos;-1.975.247.608;33.418.091.864;375;412;Casa Juanita;Extrahotelera;Casa Rural;El Molino, 8;Puntallana; ;232002;3181581;3;CR-93;UE;Tramitado;0
+alojamientos;-1977767.37;33.453.916.148;376;413;Casa Atilio;Extrahotelera;Casa Rural;Lomo Piñero, 23;Puntallana; ;229863;3184760;3;CR-102;UE;Tramitado;0
+alojamientos;-19.756.236.364;33.441.941.459;377;414;Casa Lina;Extrahotelera;Casa Rural;Lomo Los Lirios, 14A;Puntallana;922430625;231720;3183671;4;CR-113;UE;Tramitado;0
+alojamientos;-19.763.362.458;33.450.045.934;378;415;Casa Los Jazmínez;Extrahotelera;Casa Rural;Las Toscas;Puntallana; ;231111;3184393;8;CR-138;UCU;Tramitado;0
+alojamientos;-19.736.628.195;33.419.580.265;379;416;Casa Pancho Molina;Extrahotelera;Casa Rural;Piedra Alta, Santa Lucía;Puntallana; ;233396;3181679;6;CR-142;UE;Tramitado;0
+alojamientos;-19.765.749.268;33.467.081.817;380;417;Casa Ilia;Extrahotelera;Casa Rural;Bajamar de La Galga, 47;Puntallana; ;230936;3185885;6;CR-160;UE;Tramitado;0
+alojamientos;-19.746.717.108;33.433.285.378;381;418;Casa Las Embelgas;Extrahotelera;Casa Rural;Las Embelgas, 5;Puntallana; ;232538;3182896;6;CR-171;UE;Tramitado;0
+alojamientos;-19.781.809.538;33.455.354.383;382;419;Casa del Bisabuelo;Extrahotelera;Casa Rural;Llano Molino, 87;Puntallana; ;229503;3184894;2;CR-190;UE;Tramitado;0
+alojamientos;-19.750.148.029;33.431.350.572;383;420;Casa El Taboco;Extrahotelera;Casa Rural;El Taboco;Puntallana; ;232233;3182734;2;CR-200;UE;Tramitado;0
+alojamientos;-1.975.821.153;33.412.347.565;384;421;Casa Santa Lucía;Extrahotelera;Casa Rural;Calvario, 8;Puntallana; ;231487;3181091;5;CR-202;UE;Tramitado;0
+alojamientos;-19.751.857.019;33.428.860.052;385;423;Casa Juana;Extrahotelera;Casa Rural;Los Loderos, 9;Puntallana; ;232078;3182520;5;CR-205;UE;Tramitado;0
+alojamientos;-19.756.142.828;33.418.510.777;386;424;Casa Tomasa;Extrahotelera;Casa Rural;Los Molinos, 19;Puntallana; ;231681;3181625;3;CR-216;UE;Tramitado;0
+alojamientos;-19.755.841.074;33.393.440.214;387;426;Casa Victoria;Extrahotelera;Vivienda turística;Ctra. Martín Luís, 32;Puntallana; ;231657;3179435;3;VT-37;UE;Tramitado;0
+alojamientos;-19.784.782.784;33.503.943.024;388;427;Drago, El;Hotelera;Pensión;Ctra. General;San Andrés y Sauces;922450350;229341;3189141;26;H-38/5/0030-8;P/*;Tramitado;1
+alojamientos;-19.771.495.282;33.501.205.896;389;428;Argeo;Hotelera;Pensión;San Sebastián, 4;San Andrés y Sauces; ;230501;3188875;7;H-38/5/0034;P/*;Tramitado;1
+alojamientos;-19.771.383.219;33.500.303.255;390;429;Lonjas, Las;Hotelera;Pensión;San Sebastián, 16;San Andrés y Sauces;922450736;230509;3188796;8;H-38/5/0039;P/*;Tramitado;1
+alojamientos;-19.788.250.037;33.491.257.182;391;430;Casa Los Nacientes;Extrahotelera;Casa Rural;Cmno. La Orotava, 24;San Andrés y Sauces; ;229011;3188041;6;CR-79;UCU;Tramitado;0
+alojamientos;-19.775.643.055;33.513.932.169;392;431;Casa Manos de Oro;Extrahotelera;Casa Rural;Cmno. Manos de Oro, 71;San Andrés y Sauces;922451541;230163;3189994;2;CR-80;UE;Tramitado;0
+alojamientos;-19.789.754.212;33.489.274.007;393;432;Casa El Rosado;Extrahotelera;Casa Rural;Cmno. San Pedro, 25;San Andrés y Sauces; ;228875;3187871;3;CR-89;UE;Tramitado;0
+alojamientos;-19.786.934.614;33.511.673.526;394;433;Casa Villa Perestelo;Extrahotelera;Casa Rural;La Montañeta, 8;San Andrés y Sauces; ;229168;3189820;7;CR-107;UCU;Tramitado;0
+alojamientos;-19.783.606.722;33.476.838.017;395;434;Casa Marcelina;Extrahotelera;Casa Rural;El Roque, 21;San Andrés y Sauces; ;229389;3186773;6;CR-181;UE;Tramitado;0
+alojamientos;-19.776.766.817;33.352.519.301;396;435;Cubana, La;Hotelera;Pensión;O'Daly, 24;S/C de La Palma;922411354;229737;3175903;10;H-38/5/0002-4;P/*;Tramitado;1
+alojamientos;-19.776.486.636;33.354.689.197;397;436;Canarias;Hotelera;Pensión;A. Cabrera Pinto, 27;S/C de La Palma;922413182;229766;3176092;23;H-38/5/0014-2;P/**;Tramitado;2
+alojamientos;-19.769.973.364;3.335.915.624;398;437;Marítimo;Hotelera;Hotel;Avda. Marítima, 80;S/C de La Palma; ;230347;3176469;131;H-38/5/0020-2;H/***;Tramitado;3
+alojamientos;-19.770.948.977;33.359.488.398;399;438;Avenida;Hotelera;Hotel;Castillete, 14-16;S/C de La Palma; ;230262;3176500;54;H-38/5/0025-4;H/***;Tramitado;3
+alojamientos;-19.770.224.552;33.359.184.738;400;440;Castillete;Hotelera;Hotel;Avda. Marítima, 75;S/C de La Palma;922420840;230325;3176472;84;H-38/5/0032-0;H/***;Tramitado;3
+alojamientos;-19.783.033.396;33.347.748.896;401;441;Galeón, El;Hotelera;Hotel;Ctra. El Galeón, 10;S/C de La Palma;922411000;229177;3175499;50;H-38/5/0044;H/***;Tramitado;3
+alojamientos;-19.778.075.379;3.335.247.735;402;442;San Telmo;Hotelera;Hotel;San Telmo, 5;S/C de La Palma;922415385;229622;3175902;16;H-38/5/0046;H/**;Tramitado;2
+alojamientos;-19.777.477.336;33.354.688.998;403;444;Casa San Sebastián;Extrahotelera;Casa Emblemática;San Sebastián, 28;S/C de La Palma; ;229679;3176094;9;E-38/5/0131; ;Tramitado;0
+alojamientos;-19.798.481.009;33.366.193.953;404;445;Casa Molino Remanente;Extrahotelera;Casa Rural;Bco. Remanente;S/C de La Palma;922415636;227858;3177142;5;CR-52;UE;Tramitado;0
+alojamientos;-19.790.873.602;33.362.262.795;405;446;Casa El Abuelo;Extrahotelera;Casa Rural;Las Tierritas, 22. Velhoco;S/C de La Palma; ;228518;3176783;3;CR-70;UE;Tramitado;0
+alojamientos;-19.775.983.976;33.355.112.985;406;447;Casa Julián;Extrahotelera;Casa Rural;A. Cabrera Pinto, 15;S/C de La Palma;922415636;229811;3176128;3;E-38/5/0132;UCP;Tramitado;0
+alojamientos;-19.777.545.483;33.352.707.184;407;448;Casa Santo Domingo;Extrahotelera;Casa Rural;Virgen de La Luz, 10;S/C de La Palma; ;229669;3175921;9;CR-176;UCP;Tramitado;0
+alojamientos;-19.778.572.051;33.354.755.043;408;449;Casa El Tomadero;Extrahotelera;Casa Rural;San Sebastián, 60;S/C de La Palma; ;229583;3176102;2;CR-189;UE;Tramitado;0
+alojamientos;-19.770.836.683;33.362.524.476;409;450;Rocamar;Extrahotelera;Apartamento;Abenguareme, 10;S/C de La Palma;922411946;230278;3176765;132;E-38/5/000400-7;A/2LL;Tramitado;2
+alojamientos;-19.799.914.668;33.351.931.992;410;451;Chipi-Chipi;Extrahotelera;Apartamento;Los Álamos, 42. Velhoco;S/C de La Palma;922411024;227703;3175899;24;E-38/5/000800-2;A/1LL;Tramitado;1
+alojamientos;-19.773.374.566;33.357.016.668;411;452;Fuente, La;Extrahotelera;Apartamento;Pérez de Brito, 49;S/C de La Palma;922415636;230044;3176289;27;E-38/5/002800-3;A/3LL;Tramitado;3
+alojamientos;-19.778.448.678;33.355.330.245;412;453;Montecristo;Extrahotelera;Apartamento;Montecristo, 33;S/C de La Palma;922415636;229595;3176152;6;E-38/5/0113;A/1LL;Tramitado;1
+alojamientos;-19.776.648.417;33.353.804.051;413;454;Viv. Tur.;Extrahotelera;Vivienda turística;Virgen de La Luz, 4;S/C de La Palma;922416669;229750;3176015;4;VT-4; ;Tramitado;0
+alojamientos;-19.771.646.315;33.358.121.444;414;455;Santa Catalina;Extrahotelera;Vivienda turística;Santa Catalina, 16;S/C de La Palma; ;230198;3176382;3;VT-29; ;Tramitado;0
+alojamientos;-19.772.276.093;33.357.282.621;415;456;Viv. Tur.;Extrahotelera;Vivienda turística;Baltasar Martín, 10;S/C de La Palma; ;230141;3176310;2;VT-46; ;Tramitado;0
+alojamientos;-19.779.149.038;3.335.508.498;416;457;Viv. Tur.;Extrahotelera;Vivienda turística;Timibucar, 28;S/C de La Palma; ;229533;3176132;3;VT-47; ;Tramitado;0
+alojamientos;-19.778.350.498;33.355.023.479;417;458;Viv. Tur.;Extrahotelera;Vivienda turística;Cajita Blanca, 5;S/C de La Palma; ;229603;3176125;5;VT-307; ;Tramitado;0
+alojamientos;-19.965.098.572;33.303.436.308;418;461;Hcda. de Abajo;Hotelera;Hotel Emblemático;Miguel de Unamuno, 1;Tazacorte;922406000;213092;3172009;64;HE-38/5/0049;HE;Tramitado;0
+alojamientos;-19.966.337.063;33.313.119.628;419;462;Casa Pedro;Extrahotelera;Casa Rural;La Punta;Tazacorte; ;213004;3172858;3;CR-182;UE;Tramitado;0
+alojamientos;-19.963.802.896;33.300.253.369;420;463;Morrosol;Extrahotelera;Apartamento;Lomo Blanco, 2;Tazacorte;922480403;213199;3171728;12;E-38/5/000200-4;A/2LL;Tramitado;2
+alojamientos;-19.942.156.804;33.272.678.271;421;464;Paradiso, El;Extrahotelera;Apartamento;Montaña Todoque;Tazacorte;922463836;215042;3169271;10;E-38/5/001200-0;A/1LL;Tramitado;1
+alojamientos;-19.941.600.931;33.271.811.118;422;465;Son Vida;Extrahotelera;Apartamento;Montaña Todoque;Tazacorte;922463836;215089;3169194;18;E-38/5/001201-8;A/2LL;Tramitado;2
+alojamientos;-19.963.925.983;33.299.701.166;423;466;Isa;Extrahotelera;Apartamento;Progreso, 10;Tazacorte;922480052;213187;3171680;30;E-38/5/001900-4;A/1LL;Tramitado;1
+alojamientos;-19.978.037.188;33.313.985.528;424;467;Miramar;Extrahotelera;Apartamento;El Pozo;Tazacorte;922480589;211978;3172959;8;E-38/5/002000-2;A/1LL;Tramitado;1
+alojamientos;-19.960.983.748;33.306.924.544;425;468;Cruz, La;Extrahotelera;Apartamento;Finca La Cruz, 16;Tazacorte;922406016;213461;3172305;3;E-38/5/004000-3;A/1LL;Tramitado;1
+alojamientos;-19.961.693.347;33.299.161.352;426;469;Leyma;Extrahotelera;Apartamento;Avda. Felipe Lorenzo, 15;Tazacorte; ;213382;3171628;10;E-38/5/006700-9;A/1LL;Tramitado;1
+alojamientos;-19.961.949.385;33.298.926.217;427;470;Casher;Extrahotelera;Apartamento;Avda. Felipe Lorenzo, 7;Tazacorte;922480588;213359;3171608;15;E-38/5/006800-5;A/1LL;Tramitado;1
+alojamientos;-19.964.074.696;33.299.731.816;428;471;Isa II;Extrahotelera;Apartamento;Progreso, 8;Tazacorte;922480052;213174;3171683;48;E-38/5/0079;A/1LL;Tramitado;1
+alojamientos;-19.977.939.296;33.314.171.029;429;472;Luz y Mar;Extrahotelera;Apartamento;Puerto de Tazacorte;Tazacorte;922480006;211987;3172975;45;E-38/5/009600-9;A/2LL;Tramitado;2
+alojamientos;-19.962.057.903;33.299.175.237;430;473;Morrosol II;Extrahotelera;Apartamento;Avda. Felipe Lorenzo, 5;Tazacorte;922480523;213350;3171630;33;E-38/5/009800-1;A/1LL;Tramitado;1
+alojamientos;-19.962.343.293;33.302.005.555;431;474;Atlantis;Extrahotelera;Apartamento;Mariano Benlliure, 14;Tazacorte;922406146;213331;3171878;67;E-38/5/0114;A/1LL;Tramitado;1
+alojamientos;-19.976.174.347;33.313.219.347;432;475;Orión;Extrahotelera;Apartamento;Avda. Emigrantes;Tazacorte;922460048;212140;3172888;39;E-38/5/0115;A/1LL;Tramitado;1
+alojamientos;-19.960.824.525;33.298.073.029;433;476;Florida;Extrahotelera;Apartamento;Avda. Felipe Lorenzo, 18;Tazacorte;922480305;213456;3171531;18;E-38/5/0116;A/1LL;Tramitado;1
+alojamientos;-1.997.828.718;33.313.967.884;434;477;Kíkere, El;Extrahotelera;Apartamento;Explanada, 2;Tazacorte; ;211956;3172958;37;E-38/5/0130;A/2LL;Tramitado;2
+alojamientos;-19.954.746.237;33.287.777.779;435;479;Viv. Tur.;Extrahotelera;Vivienda turística;La Marina;Tazacorte; ;213968;3170618;4; ; ;Tramitado;0
+alojamientos;-19.960.923.083;33.303.974.162;436;480;Casa Tazacorte Grande;Extrahotelera;Vivienda turística;Barranquito;Tazacorte; ;213460;3172047;4; ; ;Tramitado;0
+alojamientos;-19.935.763.871;33.258.205.455;437;481;Viv. Tur.;Extrahotelera;Vivienda turística;Las Norias, 14;Tazacorte; ;215573;3167992;3;VT-2; ;Tramitado;0
+alojamientos;-19.935.425.271;3325737.88;438;482;Viv. Tur.;Extrahotelera;Vivienda turística;Las Norias, 13;Tazacorte; ;215601;3167919;6;VT-3; ;Tramitado;0
+alojamientos;-19.933.629.183;33.256.507.711;439;483;Viv. Tur.;Extrahotelera;Vivienda turística;Las Norias, 29;Tazacorte; ;215757;3167839;6;VT-42; ;Tramitado;0
+alojamientos;-19.939.493.575;3.326.421.051;440;484;Casa Eufemio;Extrahotelera;Vivienda turística;El Pampillo;Tazacorte; ;215258;3168525;4;VT-67; ;Tramitado;0
+alojamientos;-19.948.741.356;33.294.034.539;441;485;Casa Maibücher;Extrahotelera;Vivienda turística;Los Serradores;Tazacorte; ;214509;3171152;6;VT-187; ;Tramitado;0
+alojamientos;-19.940.314.331;33.263.332.563;442;486;Casa Julia;Extrahotelera;Vivienda turística;El Pampillo, 76;Tazacorte; ;215184;3168450;3;VT-213; ;Tramitado;0
+alojamientos;-19.936.220.861;3.325.795.074;443;487;Casa Letecia;Extrahotelera;Vivienda turística;Urb. Las Norias;Tazacorte; ;215505;3137877;4;VT-235; ;Tramitado;0
+alojamientos;-19.935.851.553;33.257.597.125;444;488;Residencia Las Norias;Extrahotelera;Vivienda turística;Las Norias, 1;Tazacorte; ;215564;3167939;2;VT-243; ;Tramitado;0
+alojamientos;-19.936.908.258;33.258.005.903;445;489;Casa Violeta;Extrahotelera;Vivienda turística;Las Norias, 18;Tazacorte; ;215472;3167977;6;VT-245; ;Tramitado;0
+alojamientos;-19.934.625.564;33.258.656.475;446;490;Casa Cora Ena;Extrahotelera;Vivienda turística;Las Norias, 7;Tazacorte; ;215674;3168029;4;VT-272; ;Tramitado;0
+alojamientos;-19.967.234.962;3.334.515.032;447;492;Casa Emiliana;Extrahotelera;Casa Rural;La Punta;Tijarafe;922430625;212994;3175659;4;CR-24;UE;Tramitado;0
+alojamientos;-19.968.107.914;33.377.521.208;448;493;Casa Serradero;Extrahotelera;Casa Rural;El Serradero;Tijarafe; ;212987;3178489;4;CR-30;UE;Tramitado;0
+alojamientos;-19.992.158.506;3.340.465.148;449;494;Casa El Pinillo;Extrahotelera;Casa Rural;Aguatavar, 5B;Tijarafe;922490191;210934;3180911;6;CR-74;UE;Tramitado;0
+alojamientos;-19.959.909.755;33.343.580.347;450;495;Casa Minerva;Extrahotelera;Casa Rural;Amagar, 53;Tijarafe; ;213634;3175506;3;CR-100;UE;Tramitado;0
+alojamientos;-19.982.277.344;33.338.288.271;451;496;Casa Ebenezer y Maranatha;Extrahotelera;Casa Rural;Los Veroles, 19;Tijarafe;637375249;211658;3175092;6;CR-128;UE;Tramitado;0
+alojamientos;-19.987.993.426;33.366.495.938;452;497;Casa La Capellana;Extrahotelera;Casa Rural;El Jesús, 26B;Tijarafe;922490619;211217;3177569;3;CR-130;UE;Tramitado;0
+alojamientos;-19.981.381.426;33.373.139.399;453;498;Casa Tía Rosario;Extrahotelera;Casa Rural;El Jesús, 18;Tijarafe;922490388;211812;3178135;4;CR-134;UE;Tramitado;0
+alojamientos;-19.977.168.705;33.361.591.483;454;499;Casa Arecida;Extrahotelera;Casa Rural;Arecida, 12B;Tijarafe;922490173;212157;3177117;3;CR-136;UE;Tramitado;0
+alojamientos;-19.989.719.053;33.399.502.864;455;500;Casa El Manso;Extrahotelera;Casa Rural;Ctra. General, 59B;Tijarafe; ;211137;3180456;3;CR-147;UE;Tramitado;0
+alojamientos;-19.997.022.002;33.398.656.396;456;501;Casa Tota;Extrahotelera;Casa Rural;Cmno. La Castellana, 15;Tijarafe; ;210494;3180398;4;CR-148;UE;Tramitado;0
+alojamientos;-19.982.477.747;33.324.219.255;457;502;Casa Ecofinca Plátano;Extrahotelera;Casa Rural;La Flamenca;Tijarafe;922489096;211610;3173863;3;CR-149;UE;Tramitado;0
+alojamientos;-19.988.764.804;33.406.064.358;458;503;Casa El Topo;Extrahotelera;Casa Rural;El Topo, 1;Tijarafe;922444056;211235;3181027;3;CR-157;UE;Tramitado;0
+alojamientos;-19.975.473.211;33.362.102.866;459;504;Casa Los Abuelos;Extrahotelera;Casa Rural;Arecida, 16;Tijarafe; ;212307;3177158;7;CR-159;UCU;Tramitado;0
+alojamientos;-19.975.067.415;33.348.824.622;460;505;Casa I. Campana;Extrahotelera;Casa Rural;La Punta, 34;Tijarafe; ;212314;3175997;4;CR-168;UE;Tramitado;0
+alojamientos;-19.976.247.837;33.334.764.491;461;506;Casa Medel;Extrahotelera;Casa Rural;Ctra. La Costa, 14. La Punta;Tijarafe; ;212180;3174771;4;CR-169;UE;Tramitado;0
+alojamientos;-19.992.152.031;33.388.256.697;462;507;Casa Pajero de La Burra;Extrahotelera;Casa Rural;Cmno. El Porís, 11;Tijarafe; ;210899;3179479;2;CR-174;UE;Tramitado;0
+alojamientos;-19.968.106.625;33.349.592.266;463;508;Casa Tía Rosalía;Extrahotelera;Casa Rural;Las Cabezadas, 15;Tijarafe;922489014;212927;3176049;3;CR-175;UE;Tramitado;0
+alojamientos;-19.985.757.667;33.378.353.454;464;509;Casa El Jesús;Extrahotelera;Casa Rural;Cmno. El Jesús, 7;Tijarafe; ;211439;3178600;3;CR-180;UE;Tramitado;0
+alojamientos;-19.979.546.817;33.368.926.774;465;510;Casa La Tías;Extrahotelera;Casa Rural;Los Gomeros, 10;Tijarafe; ;211964;3177763;2;CR-191;UE;Tramitado;0
+alojamientos;-19.970.959.878;33.378.183.165;466;511;Casa Las Pareditas;Extrahotelera;Casa Rural;Cmno. El Pinar, 99;Tijarafe; ;212738;3178553;3;CR-194;UE;Tramitado;0
+alojamientos;-19.977.807.729;3.332.828.308;467;512;Casa Lorenzo;Extrahotelera;Casa Rural;Lomo Los Pérez;Tijarafe;922290802;212029;3174208;2;CR-207;UE;Tramitado;0
+alojamientos;-19.977.277.082;33.327.071.825;468;513;Casa Los García;Extrahotelera;Casa Rural;La Punta, 10;Tijarafe;922290802;212073;3174101;4;CR-208;UE;Tramitado;0
+alojamientos;-19.965.049.639;33.367.969.922;469;514;Casa Nuria;Extrahotelera;Casa Rural;Cmno. La Barbilla, 4B;Tijarafe; ;213235;3177648;4;CR-211;UE;Tramitado;0
+alojamientos;-1.998.104.647;33.378.962.958;470;515;Casa Fide;Extrahotelera;Casa Rural;El Vendaval, 9B;Tijarafe;922181341;211854;3178643;3;CR-215;UE;Tramitado;0
+alojamientos;-19.975.259.273;33.376.107.536;471;516;Casa Bella Sombra;Extrahotelera;Casa Rural;Cmno. El Pinar, 33;Tijarafe; ;212356;3178381;4;CR-213;UCP;Tramitado;0
+alojamientos;-19.984.524.917;33.370.382.602;472;517;Viv. Tur.;Extrahotelera;Vivienda turística;El Pajonal. El Jesús;Tijarafe; ;211530;3177901;2;VT-52; ;Tramitado;0
+alojamientos;-19.983.851.824;33.371.257.868;473;518;Viv. Tur.;Extrahotelera;Vivienda turística;El Pajonal. El Jesús;Tijarafe; ;211591;3177976;4;VT-53; ;Tramitado;0
+alojamientos;-19.980.851.529;33.341.882.862;474;519;Casa El Tributo;Extrahotelera;Vivienda turística;Pista El Correo, 6. La Punta;Tijarafe;922490601;211791;3175403;4;VT-110; ;Tramitado;0
+alojamientos;-19.962.877.612;33.382.515.962;475;520;Casa La Cruz de El Llano;Extrahotelera;Vivienda turística;Cruz de El Llano, 2. El Pinar;Tijarafe; ;213457;3178914;4;VT-111; ;Tramitado;0
+alojamientos;-19.979.072.834;33.340.851.277;476;521;Casa La Esquinita;Extrahotelera;Vivienda turística;Pista del Correo, 9. La Punta;Tijarafe; ;211945;3175309;4;VT-112; ;Tramitado;0
+alojamientos;-19.981.208.985;33.340.214.554;477;522;Casa La Carpintera;Extrahotelera;Vivienda turística;Pista del Correo, 8. La Punta;Tijarafe; ;211756;3175258;2;VT-113; ;Tramitado;0
+alojamientos;-19.996.277.242;33.396.637.084;478;523;Casa El Naranjo;Extrahotelera;Vivienda turística;El Aserradero;Tijarafe; ;210555;3180220;4;VT-120; ;Tramitado;0
+alojamientos;-19.995.137.035;33.400.272.062;479;524;Casa El Lomito;Extrahotelera;Vivienda turística;El Lomito. Aguatavar;Tijarafe; ;210663;3180535;2;VT-121; ;Tramitado;0
+alojamientos;-19.969.656.231;33.345.456.612;480;525;Casa Dos Caminos;Extrahotelera;Vivienda turística;Las Cabezadas. La Punta;Tijarafe; ;212782;3175691;4;VT-122; ;Tramitado;0
+alojamientos;-19.966.817.419;33.349.486.833;481;526;Casa La Tías II;Extrahotelera;Vivienda turística;Las Cabezadas;Tijarafe; ;213040;3176037;2;VT-133; ;Tramitado;0
+alojamientos;-19.966.810.522;33.349.670.126;482;527;Casa La Tías I;Extrahotelera;Vivienda turística;Las Cabezadas;Tijarafe; ;213041;3176053;2;VT-134; ;Tramitado;0
+alojamientos;-19.990.374.464;33.396.063.227;483;528;Casa Las Tierras Viejas;Extrahotelera;Vivienda turística;Las Tierras Viejas;Tijarafe; ;211072;3180157;4;VT-136; ;Tramitado;0
+alojamientos;-19.974.954.446;33.350.715.864;484;529;Casa El Lomito;Extrahotelera;Vivienda turística;El Lomito;Tijarafe;922490106;212328;3176162;3;VT-192; ;Tramitado;0
+alojamientos;-19.981.919.408;33.341.787.658;485;530;Casa Salto del Perro;Extrahotelera;Vivienda turística;Salto del Perro;Tijarafe; ;211697;3175397;4;VT-194; ;Tramitado;0
+alojamientos;-19.980.870.682;33.343.587.612;486;531;Casa Sillón de Piedra;Extrahotelera;Vivienda turística;La Callejeta, 19;Tijarafe;922490215;211793;3175552;2;VT-206; ;Tramitado;0
+alojamientos;-19.983.511.548;33.398.123.403;487;532;Casa Morro Corona;Extrahotelera;Vivienda turística;Morro Corona. Bertoldo;Tijarafe; ;211679;3180322;7;VT-209; ;Tramitado;0
+alojamientos;-19.968.469.568;33.371.834.414;488;533;Casa Bonita;Extrahotelera;Vivienda turística;Cmno. del Pinar, 22;Tijarafe;922491331;212943;3177993;2;VT-230; ;Tramitado;0
+alojamientos;-19.966.926.835;33.349.770.254;489;534;Casa Brava;Extrahotelera;Vivienda turística;Las Cabezadas, 5;Tijarafe; ;213031;3176062;2;VT-231; ;Tramitado;0
+alojamientos;-19.981.395.483;33.370.471.913;490;535;Casa Fis;Extrahotelera;Vivienda turística;El Jesús, 4;Tijarafe;922490106;211805;3177902;4;VT-241; ;Tramitado;0
+alojamientos;-19.968.767.621;33.344.505.814;491;536;Casa Las Cabezadas;Extrahotelera;Vivienda turística;Las Cabezadas, 35;Tijarafe;922463204;212858;3175606;6;VT-257; ;Tramitado;0
+alojamientos;-19.975.480.518;33.364.254.576;492;537;Casa Karl;Extrahotelera;Vivienda turística;Los Barreros, 22;Tijarafe;922491334;212311;3177346;4;VT-274; ;Tramitado;0
+alojamientos;-19.981.321.236;33.374.857.964;493;538;Casa Goro;Extrahotelera;Vivienda turística;El Jesús;Tijarafe; ;211821;3178285;2;VT-297; ;Tramitado;0
+alojamientos;-19.979.425.398;33.376.026.935;494;539;Casa Pablo;Extrahotelera;Vivienda turística;El Jesús;Tijarafe; ;211990;3178383;5;VT-298; ;Tramitado;0
+alojamientos;-19.981.845.295;33.343.403.167;495;540;Casa Inés;Extrahotelera;Vivienda turística;La Callejeta, 12;Tijarafe; ;211707;3175538;2;VT-299; ;Tramitado;0
+alojamientos;-19.965.166.736;33.336.938.627;496;541;Casa Ludi;Extrahotelera;Vivienda turística;Amagar, 17;Tijarafe; ;213158;3174937;2;VT-300; ;Tramitado;0
+alojamientos;-19.973.370.408;33.373.853.519;497;542;Casa Arndt;Extrahotelera;Vivienda turística;El Ganigo, 7;Tijarafe;922463204;212517;3178180;4;VT-301; ;Tramitado;0
+alojamientos;-19.981.143.049;33.343.088.729;498;543;Casa Cuatro Palmas;Extrahotelera;Vivienda turística;Salto del Perro, 21;Tijarafe;922491226;211768;3175509;3;VT-302; ;Tramitado;0
+alojamientos;-19.967.522.388;3.338.058.078;499;544;Casa Pío;Extrahotelera;Vivienda turística;El Vendaval, 77;Tijarafe;922497160;213045;3178755;2;VT-312; ;Tramitado;0
+alojamientos;-19.968.200.649;33.377.587.595;500;545;Casa Víctor;Extrahotelera;Vivienda turística;El Pinar, 42;Tijarafe; ;212979;3178495;3;VT-313; ;Tramitado;0
+alojamientos;-2.000.378.947;33.425.818.779;501;555;La Ermita;Extrahotelera;Villa;Cmno. La Ermita;Tijarafe;646826164;209959;3182785;0; ; ;Tramitado;0
+alojamientos;-19.902.700.725;33.504.309.797;502;563;Roque Faro;Hotelera;Pensión;Roque Faro;Villa de Garafía;922400046;218998;3189419;12;H-38/5/0017-1;P/*;Tramitado;1
+alojamientos;-19.902.257.339;33.510.508.404;503;564;Casa El Topo;Extrahotelera;Casa Rural;El Topo, 5;Villa de Garafía;922430625;219050;3189959;3;CR-7;UE;Tramitado;0
+alojamientos;-19.962.245.975;33.540.743.883;504;565;Casa El Jaral;Extrahotelera;Casa Rural;El Jaral, 7;Villa de Garafía;922430625;213853;3192726;2;CR-8;UE;Tramitado;0
+alojamientos;-19.980.092.811;33.522.363.752;505;566;Casa La Herbilla;Extrahotelera;Casa Rural;Las Herbilla;Villa de Garafía;922430625;212248;3191161;3;CR-9;UE;Tramitado;0
+alojamientos;-20.003.292.376;3.348.610.223;506;567;Casa Los Cardones;Extrahotelera;Casa Rural;La Pelada. Las Tricias;Villa de Garafía;922430625;210134;3188047;4;CR-10;UE;Tramitado;0
+alojamientos;-19.992.401.462;33.484.931.698;507;568;Casa El Frontón;Extrahotelera;Casa Rural;El Frontón. Las Tricias;Villa de Garafía;922430625;211087;3187921;4;CR-11;UE;Tramitado;0
+alojamientos;-19.983.413.467;33.511.417.417;508;569;Casa Margarita;Extrahotelera;Casa Rural;Faya Machorra;Villa de Garafía;922430625;211933;3190213;4;CR-12;UE;Tramitado;0
+alojamientos;-19.899.550.673;33.544.853.119;509;570;Casa Maruca;Extrahotelera;Casa Rural;Las Cuevitas. El Tablado;Villa de Garafía;922430625;219360;3192950;5;CR-14;UE;Tramitado;0
+alojamientos;-19.899.538.028;33.508.362.997;510;571;Casa El Valle;Extrahotelera;Casa Rural;Roque Faro;Villa de Garafía;922430625;219284;3189766;4;CR-31;UE;Tramitado;0
+alojamientos;-20.000.050.721;33.478.565.155;511;572;Casa Cmno. Real;Extrahotelera;Casa Rural;Cruz del Llanito, 24;Villa de Garafía;922400078;210402;3187382;3;CR-41;UE;Tramitado;0
+alojamientos;-19.986.566.147;33.494.621.265;512;573;Casa María Presentación;Extrahotelera;Casa Rural;El Castillo;Villa de Garafía;922463340;211620;3188754;3;CR-55;UE;Tramitado;0
+alojamientos;-19.979.340.256;33.480.789.888;513;574;Casa La Podona;Extrahotelera;Casa Rural;El Castillo;Villa de Garafía; ;212224;3187531;3;CR-56;UE;Tramitado;0
+alojamientos;-19.966.927.639;33.532.673.559;514;575;Casa Lomo de La Cruz;Extrahotelera;Casa Rural;Lomo de La Cruz;Villa de Garafía; ;213425;3192032;3;CR-72;UE;Tramitado;0
+alojamientos;-19.936.867.655;33.497.858.775;515;576;Casa Las Agujas;Extrahotelera;Casa Rural;Las Agujas;Villa de Garafía; ;215987;3188929;4;CR-84;UE;Tramitado;0
+alojamientos;-19.982.339.269;33.538.065.808;516;577;Casa Los Hondos;Extrahotelera;Casa Rural;Los Hondos;Villa de Garafía; ;212085;3192536;5;CR-85;UE;Tramitado;0
+alojamientos;-19.902.448.315;3.354.159.609;517;578;Casa La Gemela;Extrahotelera;Casa Rural;El Tablado, 75;Villa de Garafía;922462735;219099;3192672;6;CR-96;UCU;Tramitado;0
+alojamientos;-19.901.272.434;33.546.266.872;518;579;Casa Fema;Extrahotelera;Casa Rural;El Charco. El Tablado;Villa de Garafía;922430625;219212;3193077;5;CR-103;UE;Tramitado;0
+alojamientos;-19.966.939.306;33.492.818.712;519;580;Casa El Colmenero;Extrahotelera;Casa Rural;El Colmenero;Villa de Garafía; ;213338;3188554;5;CR-110;UE;Tramitado;0
+alojamientos;-19.972.202.091;33.551.453.843;520;581;Casa Basilisa;Extrahotelera;Casa Rural;Santo Domingo;Villa de Garafía;922430625;213003;3193682;5;CR-111;UE;Tramitado;0
+alojamientos;-19.974.584.627;33.540.792.245;521;582;Casa Barranquito;Extrahotelera;Casa Rural;Ramón y Cajal;Villa de Garafía;922430625;212771;3192757;3;CR-112;UE;Tramitado;0
+alojamientos;-1.995.119.143;3.349.533.998;522;583;Casa Mario;Extrahotelera;Casa Rural;Hoya Grande;Villa de Garafía;922430625;214725;3188740;4;CR-114;UE;Tramitado;0
+alojamientos;-19.985.844.586;3.353.181.226;523;584; Casa El Calvario;Extrahotelera;Casa Rural;El Calvario;Villa de Garafía; ;211764;3191998;3;CR-139;UE;Tramitado;0
+alojamientos;-19.968.156.751;33.467.229.603;524;585;Casa El Riachuelo;Extrahotelera;Casa Rural;Carretera de Montaña, Km. 2;Villa de Garafía; ;213176;3186323;2;CR-140;UE;Tramitado;0
+alojamientos;-19.975.057.089;33.531.749.187;525;586;Casa Mona;Extrahotelera;Casa Rural;La Piedra;Villa de Garafía; ;212710;3191969;5;CR-141;UE;Tramitado;0
+alojamientos;-19.994.820.328;33.480.437.545;526;587;Casa La Pelada;Extrahotelera;Casa Rural;La Pelada, 10;Villa de Garafía; ;210865;3187534;2;CR-150;UE;Tramitado;0
+alojamientos;-19.983.766.518;33.516.015.135;527;588;Casa Panchita;Extrahotelera;Casa Rural;Cueva de Agua, 41;Villa de Garafía; ;211912;3190615;2;CR-155;UE;Tramitado;0
+alojamientos;-19.959.347.204;33.494.645.464;528;589;Casa de Abuelo;Extrahotelera;Casa Rural;Hoya Grande;Villa de Garafía; ;214008;3188697;3;CR-183;UE;Tramitado;0
+alojamientos;-19.983.128.832;33.528.957.714;529;590;Casa Dos Aguas;Extrahotelera;Casa Rural;El Calvario, 16;Villa de Garafía; ;211996;3191743;3;CR-186;UE;Tramitado;0
+alojamientos;-1.996.249.821;33.502.278.475;530;591;Casa Media Luna;Extrahotelera;Casa Rural;Media Luna. Cueva de Agua;Villa de Garafía; ;213748;3189370;3;CR-195;UE;Tramitado;0
+alojamientos;-19.973.486.744;3.353.649.872;531;592;Casa Carmita;Extrahotelera;Casa Rural;Las Cabezadas. Santo Domingo;Villa de Garafía; ;212858;3192380;3;CR-196;UE;Tramitado;0
+alojamientos;-19.966.297.055;33.516.771.191;532;593;Casa Las Llanadas;Extrahotelera;Casa Rural;Las Llanadas. Llano Negro;Villa de Garafía; ;213446;3190643;4;CR-201;UE;Tramitado;0
+alojamientos;-19.963.507.537;33.542.431.782;533;595;Casa Los Barranquitos;Extrahotelera;Casa Rural;El Jaral, 50;Villa de Garafía; ;213746;3192876;3;CR-209;UE;Tramitado;0
+alojamientos;-1.998.719.956;3.353.035.727;534;596;Casa La Campana;Extrahotelera;Casa Rural;El Calvario;Villa de Garafía; ;211642;3191874;3;CR-210;UE;Tramitado;0
+alojamientos;-19.979.867.454;33.527.549.307;535;597;Casa Micaela;Extrahotelera;Casa Rural;La Piedra;Villa de Garafía; ;212279;3191613;3;CR-218;UE;Tramitado;0
+alojamientos;-19.968.721.809;33.480.481.283;536;598;Casa Furuco;Extrahotelera;Casa Rural;Cmno. Los Codesos, El Castillo;Villa de Garafía; ;213155;3187481;3;CR-221;UE;Tramitado;0
+alojamientos;-1.998.646.369;3.349.416.553;537;599;Casa Azul Uerdingen;Extrahotelera;Casa Rural;El Castillo, 15;Villa de Garafía; ;211628;3188714;2;CR-222;UE;Tramitado;0
+alojamientos;-19.901.948.841;3.350.906.061;538;600;Casa Rural;Extrahotelera;Casa Rural;Roque Faro;Villa de Garafía; ;219074;3189832;2;CR-224;UE;Tramitado;0
+alojamientos;-20.006.807.463;33.484.455.843;539;601;Viv. Tur. (Casa Blanca);Extrahotelera;Vivienda turística;Ladera La Pitera. Las Tricias;Villa de Garafía; ;209822;3187911;2;VT-6; ;Tramitado;0
+alojamientos;-19.998.342.612;33.477.244.728;540;602;Viv. Tur.(Lomo de Las Piedras);Extrahotelera;Vivienda turística;Lomo Las Piedras, 33. Las Tricias;Villa de Garafía; ;210549;3187263;2;VT-9; ;Tramitado;0
+alojamientos;-19.949.489.531;33.491.933.329;541;603;Casa Hoya Grande;Extrahotelera;Vivienda turística;El Bailadero;Villa de Garafía; ;214867;3188439;6;VT-90; ;Tramitado;0
+alojamientos;-20.000.824.852;33.495.513.074;542;605;Casa Mil Estrellas;Extrahotelera;Vivienda turística;El Castillo, 12;Villa de Garafía; ;210371;3188863;3;VT-180; ;Tramitado;0
+alojamientos;-20.006.142.838;33.485.686.933;543;606;Casa Las Tricias;Extrahotelera;Vivienda turística;Las Tricias;Villa de Garafía;922463204;209883;3188017;4;VT-219; ;Tramitado;0
+alojamientos;-20.008.800.994;33.504.559.066;544;607;Casa Platero;Extrahotelera;Vivienda turística;Lomada Grande;Villa de Garafía; ;209691;3189670;4;VT-332; ;Tramitado;0
+alojamientos;-19.782.810.995;33.269.086.835;545;608;Arminda;Hotelera;Hotel;Lodero, 181;Villa de Mazo;922428432;229037;3168624;10;H-38/5/0038;H/*;Tramitado;1
+alojamientos;-19.781.014.153;33.251.856.639;546;609;Casa El Pósito;Extrahotelera;Casa Rural;Los Callejones, 91;Villa de Mazo;922430625;229160;3167114;8;CR-20;UE;Tramitado;0
+alojamientos;-19.783.020.602;33.253.502.704;547;610;Casa Madrina;Extrahotelera;Casa Rural;Los Callejones, 64;Villa de Mazo;922430625;228987;3167262;6;CR-21;UE;Tramitado;0
+alojamientos;-1.981.664.716;33.187.182.002;548;611;Casa Valentina I;Extrahotelera;Casa Rural;Tigalate;Villa de Mazo; ;225896;3161531;2;CR-43;UE;Tramitado;0
+alojamientos;-1.981.664.716;33.187.182.002;549;612;Casa Valentian II;Extrahotelera;Casa Rural;Tigalate;Villa de Mazo; ;225896;3161531;2;CR-44;UE;Tramitado;0
+alojamientos;-19.789.963.604;3.321.516.681;550;613;Casa Dos Agual y Casa Rubel;Extrahotelera;Casa Rural;Malpaíses de Abajo, 56A y 56B;Villa de Mazo; ;228299;3163924;6;CR-45;UE;Tramitado;0
+alojamientos;-19.814.993.053;33.188.432.687;551;614;Casa Los Volcanes;Extrahotelera;Casa Rural;Tigalate;Villa de Mazo; ;226044;3161637;3;CR-46;UE;Tramitado;0
+alojamientos;-19.793.255.028;33.283.714.689;552;615;Casa Carmen de La Rosa;Extrahotelera;Casa Rural;Cuesta de Anselmo;Villa de Mazo; ;228149;3169924;4;CR-48;UE;Tramitado;0
+alojamientos;-19.790.690.865;33.283.568.716;553;616;Casa Sitio de La Rosa I;Extrahotelera;Casa Rural;Monte Breña, 117;Villa de Mazo; ;228374;3169906;2;CR-50;UE;Tramitado;0
+alojamientos;-19.790.619.176;33.283.421.667;554;617;Casa Sitio de La Rosa II;Extrahotelera;Casa Rural;Monte Breña, 118;Villa de Mazo; ;228380;3169893;3;CR-51;UE;Tramitado;0
+alojamientos;-19.795.728.498;33.202.271.888;555;618;Casa Daniel;Extrahotelera;Casa Rural;Malpaíses;Villa de Mazo; ;227766;3162808;3;CR-54;UE;Tramitado;0
+alojamientos;-19.784.516.758;33.229.073.146;556;619;Casa Lomo Oscuro;Extrahotelera;Casa Rural;Lomo Oscuro;Villa de Mazo; ;228806;3165129;4;CR-60;UE;Tramitado;0
+alojamientos;-1.979.136.024;3.326.527.262;557;620;Casa Finca Marisol;Extrahotelera;Casa Rural;El Poleal, 16;Villa de Mazo; ;228278;3168308;5;CR-61;UCP;Tramitado;0
+alojamientos;-1.979.045.807;33.283.837.285;558;621;Casa Fidel;Extrahotelera;Casa Rural;Monte Breña, 119B;Villa de Mazo; ;228395;3169929;2;CR-66;UE;Tramitado;0
+alojamientos;-19.779.884.801;33.252.226.057;559;622;Casa Callejones;Extrahotelera;Casa Rural;Callejones;Villa de Mazo; ;229260;3167144;3;CR-73;UE;Tramitado;0
+alojamientos;-19.788.713.923;33.256.629.765;560;623;Casa Antonio;Extrahotelera;Casa Rural;Cmno. La Mayata, 1;Villa de Mazo; ;228493;3167547;3;CR-75;UE;Tramitado;0
+alojamientos;-19.793.371.227;33.254.313.452;561;624;Casa Raúl;Extrahotelera;Casa Rural;Doctor Manuel Martel Sangil, 8;Villa de Mazo; ;228079;3167354;4;CR-76;UE;Tramitado;0
+alojamientos;-19.784.743.641;33.229.044.989;562;625;Casa La Reverica;Extrahotelera;Casa Rural;Lomo Oscuro;Villa de Mazo; ;228786;3165127;4;CR-78;UE;Tramitado;0
+alojamientos;-19.785.643.127;33.263.598.758;563;626;Casa Iluminado;Extrahotelera;Casa Rural;El Roquito;Villa de Mazo; ;228777;3168150;3;CR-83;UE;Tramitado;0
+alojamientos;-19.789.507.258;33.288.984.895;564;627;Casa La Ventita;Extrahotelera;Casa Rural;Monte Breña, 140;Villa de Mazo; ;228489;3170377;2;CR-86;UE;Tramitado;0
+alojamientos;-19.788.792.113;33.278.728.128;565;628;Casa Sitio La Vieja;Extrahotelera;Casa Rural;La Rosa;Villa de Mazo; ;228531;3169479;4;CR-97;UE;Tramitado;0
+alojamientos;-19.794.848.989;33.264.081.499;566;629;Casa El Aljibe;Extrahotelera;Casa Rural;La Rosa;Villa de Mazo; ;227969;3168211;12;CR-101;UCU;Tramitado;0
+alojamientos;-19.789.419.671;33.216.242.915;567;631;Casa Pira;Extrahotelera;Casa Rural;Malpaíses, 58;Villa de Mazo; ;228349;3164017;3;CR-109;UE;Tramitado;0
+alojamientos;-19.782.154.759;33.279.615.136;568;632;Casa Salazar;Extrahotelera;Casa Rural;Monte Breña, 68;Villa de Mazo;922430625;229116;3169543;8;CR-115;UCU;Tramitado;0
+alojamientos;-19.790.555.422;33.283.617.643;569;633;Casa Sitio La Rosa;Extrahotelera;Casa Rural;Monte Breña, 119;Villa de Mazo; ;228386;3169910;3;CR-116;UE;Tramitado;0
+alojamientos;-19.788.538.359;33.226.360.651;570;634;Casa Belmaco;Extrahotelera;Casa Rural;Lomo Oscuro, 33;Villa de Mazo;922430625;228447;3164900;4;CR-117;UE;Tramitado;0
+alojamientos;-19.784.999.559;33.264.311.527;571;635;Casa Rosa María;Extrahotelera;Casa Rural;Monte Pueblo, 43;Villa de Mazo;922430625;228835;3168211;4;CR-118;UE;Tramitado;0
+alojamientos;-19.790.649.785;33.265.552.312;572;636;Casa Celeste y Sabina;Extrahotelera;Casa Rural;Cmno. La Alameda, 1;Villa de Mazo;922430625;228341;3168331;9;CR-119;UE;Tramitado;0
+alojamientos;-19.825.748.548;33.180.977.471;573;637;Casa Puente Roto;Extrahotelera;Casa Rural;Puente Roto, Tigalate, 101;Villa de Mazo;922430625;225083;3161007;5;CR-120;UE;Tramitado;0
+alojamientos;-19.783.950.492;33.261.258.993;574;638;Casa El Molino;Extrahotelera;Casa Rural;Monte Pueblo;Villa de Mazo;922430625;228921;3167942;5;CR-122;UE;Tramitado;0
+alojamientos;-19.791.926.541;33.264.664.571;575;639;Casa Juana Quinta;Extrahotelera;Casa Rural;Cmno. La Alameda, 17;Villa de Mazo; ;228227;3168256;4;CR-133;UE;Tramitado;0
+alojamientos;-19.816.510.759;33.187.185.209;576;640;Casa Valentina III;Extrahotelera;Casa Rural;Tigalate, 101;Villa de Mazo; ;225908;3161531;2;CR-144;UE;Tramitado;0
+alojamientos;-1.979.394.736;33.285.597.605;577;641;Casa Guti;Extrahotelera;Casa Rural;La Rosa, 84;Villa de Mazo; ;228092;3170090;4;CR-166;UCU;Tramitado;0
+alojamientos;-19.795.044.904;33.258.780.909;578;642;Casa Tía Carmen;Extrahotelera;Casa Rural;Cmno. Las Toscas, 41;Villa de Mazo; ;227941;3167748;5;CR-167;UE;Tramitado;0
+alojamientos;-19.815.941.601;33.191.074.116;579;643;Casa Sabrina;Extrahotelera;Casa Rural;Tigalate, 14-16;Villa de Mazo; ;225966;3161870;6;CR-172;UE;Tramitado;0
+alojamientos;-19.815.900.056;33.190.754.986;580;644;Casa Sabrina 2;Extrahotelera;Casa Rural;Tigalate;Villa de Mazo; ;225969;3161842;3;CR-173;UE;Tramitado;0
+alojamientos;-19.795.105.787;33.208.300.561;581;645;Casa Inés Ríos y Dª Julia;Extrahotelera;Casa Rural;Malpaíses de Abajo, 21B y 22;Villa de Mazo; ;227833;3163334;6;CR-184;UE;Tramitado;0
+alojamientos;-19.830.350.951;33.161.848.267;582;646;Casa La Era;Extrahotelera;Casa Rural;Montes de Luna;Villa de Mazo; ;224639;3159343;3;CR-185;UE;Tramitado;0
+alojamientos;-19.789.225.282;33.217.185.094;583;647;Casa Los Draguitos;Extrahotelera;Casa Rural;Ctra. General El Hoyo, 69;Villa de Mazo; ;228368;3164099;6;CR-187;UE;Tramitado;0
+alojamientos;-19.795.054.905;3.325.478.879;584;648;Casa Las Toscas;Extrahotelera;Casa Rural;Cmno. Las Toscas, 6;Villa de Mazo; ;227932;3167399;2;CR-193;UE;Tramitado;0
+alojamientos;-1.979.731.167;33.282.944.759;585;649;Casa Felipe Lugo;Extrahotelera;Casa Rural;La Rosa, 101A;Villa de Mazo; ;227791;3169865;3;CR-199;UE;Tramitado;0
+alojamientos;-19.795.047.401;33.232.338.242;586;650;Casa Claudio;Extrahotelera;Casa Rural;La Sabina, 7;Villa de Mazo; ;227887;3165436;2;CR-212;UE;Tramitado;0
+alojamientos;-19.796.563.001;33.282.069.953;587;651;Casa Hermana;Extrahotelera;Casa Rural;La Rosa, 106;Villa de Mazo; ;227855;3169787;3;CR-214;UE;Tramitado;0
+alojamientos;-19.822.290.402;33.181.424.764;588;652;Casa El Diamante;Extrahotelera;Casa Rural;Cruce Puente Roto, 108A;Villa de Mazo; ;225388;3161039;5;CR-219;UE;Tramitado;0
+alojamientos;-19.797.665.462;33.279.550.194;589;653;Casa Rural;Extrahotelera;Casa Rural;La Rosa, 113;Villa de Mazo; ;227753;3169569;6;CR-223;UE;Tramitado;0
+alojamientos;-19.791.209.082;33.255.782.278;590;654;Alisios, Los;Extrahotelera;Apartamento;Mª Carmen Martínez Jerez, 4;Villa de Mazo; ;228272;3167478;8;E-38/5/006400-0;A/1LL;Tramitado;1
+alojamientos;-19.791.110.938;33.256.951.252;591;655;Alfa-Alfa;Extrahotelera;Apartamento;Maximiliano Pérez Díaz, 9;Villa de Mazo; ;228283;3167580;8;E-38/5/0100;A/1LL;Tramitado;1
+alojamientos;-19.790.747.199;33.287.480.059;592;656;Viv. Tur.;Extrahotelera;Vivienda turística;Monte Breña, 135;Villa de Mazo; ;228377;3170248;2;VT-43; ;Tramitado;0
+alojamientos;-19.766.998.594;33.230.646.503;593;657;Viv. Tur.;Extrahotelera;Vivienda turística;Playa del Pósito;Villa de Mazo; ;230349;3165231;2;VT-50; ;Tramitado;0
+alojamientos;-19.809.136.429;33.187.964.278;594;658;Viv. Tur.;Extrahotelera;Vivienda turística;El Sitio, 158. Tigalate;Villa de Mazo; ;226558;3161584;6;VT-76; ;Tramitado;0
+alojamientos;-19.786.141.564;33.284.693.161;595;659;Viv. Tur.;Extrahotelera;Vivienda turística;Monte Bodega II;Villa de Mazo; ;228776;3169995;2;VT-77; ;Tramitado;0
+alojamientos;-19.786.141.564;33.284.693.161;596;660;Viv. Tur.;Extrahotelera;Vivienda turística;Monte Bodega I;Villa de Mazo; ;228776;3169995;2;VT-78; ;Tramitado;0
+alojamientos;-19.783.712.123;33.274.110.597;597;661;Viv. Tur.;Extrahotelera;Vivienda turística;Hoyo de Mazo;Villa de Mazo; ;228968;3169065;2;VT-79; ;Tramitado;0
+alojamientos;-19.813.700.837;33.185.193.481;598;662;Casa Doña Victoria;Extrahotelera;Vivienda turística;Tigalate;Villa de Mazo; ;226151;3161351;5;VT-182; ;Tramitado;0
+alojamientos;-19.813.140.697;33.182.623.048;599;663;Casa Isolde;Extrahotelera;Vivienda turística;El Retamal, 194;Villa de Mazo; ;226195;3161125;6;VT-214; ;Tramitado;0
+alojamientos;-19.815.864.222;33.191.658.988;600;664;Casa Leal;Extrahotelera;Vivienda turística;Tigalate, 12;Villa de Mazo; ;225974;3161921;2;VT-249; ;Tramitado;0
+alojamientos;-19.782.165.394;33.286.490.543;601;665;Casa Sta. Rosalía;Extrahotelera;Vivienda turística;Monte Breña, 27A;Villa de Mazo; ;229129;3170144;3;VT-268; ;Tramitado;0
+alojamientos;-19.813.871.944;33.190.596.863;602;666;Casa Gisela;Extrahotelera;Vivienda turística;Tigalate, 33;Villa de Mazo; ;226147;3161824;3;VT-292; ;Tramitado;0
+alojamientos;-19.772.120.518;33.222.820.164;603;667;Casa Cangrejera;Extrahotelera;Vivienda turística;La Cangrejera;Villa de Mazo; ;229883;3164557;5;VT-311; ;Tramitado;0
+alojamientos;-19.786.720.634;33.264.923.395;604;668;Casa El Roquito;Extrahotelera;Vivienda turística;Cmno. El Linar, 64;Villa de Mazo; ;228685;3168268;3;VT-330; ;Tramitado;0

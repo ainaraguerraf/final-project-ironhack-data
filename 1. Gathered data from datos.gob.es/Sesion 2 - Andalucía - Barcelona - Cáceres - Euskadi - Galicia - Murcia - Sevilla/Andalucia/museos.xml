@@ -1,0 +1,3103 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title>orbe_museos</title>
+  <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos</id>
+  <updated>2023-07-20T07:50:36Z</updated>
+  <os:totalResults xmlns:os="http://a9.com/-/spec/opensearch/1.1/">175</os:totalResults>
+  <os:itemsPerPage xmlns:os="http://a9.com/-/spec/opensearch/1.1/">50</os:itemsPerPage>
+  <os:startIndex xmlns:os="http://a9.com/-/spec/opensearch/1.1/">0</os:startIndex>
+  <dc:creator>Junta de Andaluc�a</dc:creator>
+  <dc:date>2023-07-20T07:50:36Z</dc:date>
+  <entry>
+    <title>icmsSandetel-5999</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-5999</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Colección Museográfica</t_tipo_unidad>
+          <c_provincia>29</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/5999</datasetcollectionresourceid>
+          <c_ine_localidad>290380001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2702</x_localidad>
+          <t_localidad>Cártama</t_localidad>
+          <t_codigo_postal>29570</t_codigo_postal>
+          <t_telefono>952 42 21 26 / 95</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Cártama</t_municipio>
+          <modified>2023-07-17T15:51:27.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Colección Museográfica de Cártama</t_unidad>
+          <t_fax>952 42 23 49</t_fax>
+          <t_direccion>Calle Rey Juan Carlos I, n.º 47. 29570  47, 29570 Cártama (Málaga)</t_direccion>
+          <t_provincia>Málaga</t_provincia>
+          <identifier>5999</identifier>
+          <x_direccion>5816</x_direccion>
+          <x_municipio>4492</x_municipio>
+          <c_tipo_unidad>COLMUS</c_tipo_unidad>
+          <icmsId>orbe_museos/5999</icmsId>
+          <t_pagina_web>https://www.cartama.es/</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <x_provincia>29</x_provincia>
+          <c_ine_municipio>29038</c_ine_municipio>
+          <x_tipo_unidad>52</x_tipo_unidad>
+          <t_nombre_mapa>Colección Museográfica de Cártama</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-5999</_id>
+      <sort xmlns="">1689594799436</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2715</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2715</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>18</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2715</datasetcollectionresourceid>
+          <t_latitud>37,220634</t_latitud>
+          <c_ine_localidad>180790002</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1624</x_localidad>
+          <t_localidad>Fuente Vaqueros</t_localidad>
+          <t_codigo_postal>18340</t_codigo_postal>
+          <t_telefono>958 516 453</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Fuente Vaqueros</t_municipio>
+          <modified>2023-07-17T15:30:28.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Casa-Museo de Federico García Lorca</t_unidad>
+          <t_fax>958 516 780</t_fax>
+          <t_direccion>Calle Poeta García Lorca 4, 18340 Fuente Vaqueros (Granada)</t_direccion>
+          <t_email>info@patronatogarcialorca.org / visitascasamuseolorca@dipgra.es / admilorca@dipgra.es</t_email>
+          <t_provincia>Granada</t_provincia>
+          <identifier>2715</identifier>
+          <x_direccion>2715</x_direccion>
+          <x_municipio>2738</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2715</icmsId>
+          <t_pagina_web>http://www.patronatogarcialorca.org/</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>La casa donde nació Federico García Lorca fue restaurada en 1986 para su puesta en valor como museo, y se inauguró el 29 de julio de ese año. En ella se conservan las estancias de la familia como el comedor, la cocina o la salita, donde está el piano que tocara el poeta. La colección cuenta con la biblioteca de la familia, cartas y manuscritos lorquianos, originales de artistas plásticos coetáneos de Federico García Lorca, figurines y bocetos para obras teatrales y objetos personales del artista y su familia.</t_observaciones>
+          <t_horario>Del 1 de abril al 31 de mayo, martes a sábado de 10:00 a 13:00 y de 17:00 a 18:00.$$ Del 1 de junio al 30 de septiembre, martes a sábado de 10:00 a 14:00. Tardes, cerrado.
+ 
+Lunes y festivos cerrado. Domingos tarde, cerrado.$$ Del 1 de octubre al 31 de marzo, martes a sábado de 10:00 a 13:00 y de 17:00 a 18:00.</t_horario>
+          <x_provincia>18</x_provincia>
+          <t_longitud>-3,7846198</t_longitud>
+          <c_ine_municipio>18079</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Casa-Museo de Federico García Lorca</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2715</_id>
+      <sort xmlns="">1689593597151</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2603</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2603</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>18</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2603</datasetcollectionresourceid>
+          <t_latitud>37,1707426</t_latitud>
+          <c_ine_localidad>180870004</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1645</x_localidad>
+          <t_localidad>Granada</t_localidad>
+          <t_codigo_postal>18004</t_codigo_postal>
+          <t_telefono>958 25 84 66</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Granada</t_municipio>
+          <modified>2023-07-03T14:19:14.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Casa Museo de Federico García Lorca. Huerta de San Vicente</t_unidad>
+          <t_fax>958 25 19 96</t_fax>
+          <t_direccion>Calle Virgen Blanca 6, Huerta de San Vicente, 18004 Granada</t_direccion>
+          <t_email>info@huertadesanvicente.com</t_email>
+          <t_provincia>Granada</t_provincia>
+          <identifier>2603</identifier>
+          <x_direccion>2603</x_direccion>
+          <x_municipio>2745</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2603</icmsId>
+          <t_pagina_web>http://www.huertadesanvicente.com</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>La Casa Museo Federico García Lorca se constituye como lugar de memoria histórica y cultural, además de lugar de vida y creación del artista entre los años 1926-1936 ya que la familia García Lorca utilizó esta propiedad como lugar de veraneo. Allí escribió Federico algunas de sus mejores obras: El Diván del Tamarit, Romancero Gitano, Poema del Cante Jondo, La casa de Bernarda Alba, Bodas de sangre,... Abierta hoy como Casa Museo, contiene los muebles, cuadrod y objetos originales de la casa que permiten recordar aspectos concretos de la vida cotidiana de la familia. Entre ellos el piano de la casa familiar, el escritorio, los decorados para la representación de La niña que riega la albahaca, pintados por Lorca y Hermenegildo Lanz, un dibujo de Dalí de sus años de amistad en la Residencia de Estudiantes, etc. La Huerta de San Vicente permite recordar aspectos concretos de la vida cotidiana de la familia en la disposición de habitaciones, muebles y objetos.</t_observaciones>
+          <t_horario>Del 1 de junio al 31 de mayo, martes a domingo de 09:00 a 15:00. Lunes cerrado.$$ Del 16 de septiembre al 31 de mayo, martes a domingo de 10:00 a 17:00. Lunes cerrado.</t_horario>
+          <x_provincia>18</x_provincia>
+          <t_longitud>-3,6069279</t_longitud>
+          <c_ine_municipio>18087</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Casa Museo de Federico García Lorca. Huerta de San Vicente.</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2603</_id>
+      <sort xmlns="">1688379811439</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2707</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2707</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>18</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2707</datasetcollectionresourceid>
+          <t_latitud>37,189262</t_latitud>
+          <c_ine_localidad>181750003</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1858</x_localidad>
+          <t_localidad>Santa Fe</t_localidad>
+          <t_codigo_postal>18320</t_codigo_postal>
+          <t_telefono>958 513 004</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Santa Fe</t_municipio>
+          <modified>2023-07-03T14:08:32.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Instituto de América - Centro Damián Bayón</t_unidad>
+          <t_fax>958 511 203</t_fax>
+          <t_direccion>Plaza de España, junto a la Colegiata de la Encarnación, casco anti, 18320 Santa Fe (Granada)</t_direccion>
+          <t_email>iamerica@terra.es / info@institutodeamerica.es</t_email>
+          <t_provincia>Granada</t_provincia>
+          <identifier>2707</identifier>
+          <x_direccion>2707</x_direccion>
+          <x_municipio>2816</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2707</icmsId>
+          <t_pagina_web>http://www.institutodeamerica.es</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El Instituto de América de Santa Fe es una institución dependiente del Ayuntamiento de Santa Fe, fundada en 1992 con la intención de profundizar en el conocimiento del arte y la cultura americana, así como difundir la misma en el ámbito de nuestra Comunidad. 
+La sede del Instituto de América es el Centro Damián Bayón, edificio inaugurado también en 1992, que consta de dos salas de exposiciones, una biblioteca, destinada a centro de investigación y un auditorio, donde se ofrecen conciertos y se desarrollan jornadas, congresos y conferencias. 
+La colección propia del Centro está compuesta por reproducciones precolombinas y fotografías de la colección Damián Bayón.</t_observaciones>
+          <t_horario>Martes a sábado de 10:00 a 14:00 y de 17:00 a 21:00; domingos de 10:00 a 14:00. Lunes cerrado.</t_horario>
+          <x_provincia>18</x_provincia>
+          <t_longitud>-3,7185209</t_longitud>
+          <c_ine_municipio>18175</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Instituto de América - Centro Damián Bayón</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2707</_id>
+      <sort xmlns="">1688379316724</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2604</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2604</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>18</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2604</datasetcollectionresourceid>
+          <t_latitud>37,173656</t_latitud>
+          <c_ine_localidad>180870004</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1645</x_localidad>
+          <t_localidad>Granada</t_localidad>
+          <t_codigo_postal>18009</t_codigo_postal>
+          <t_telefono>958 222 188</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Granada</t_municipio>
+          <modified>2023-07-03T14:02:34.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Casa Museo Manuel de Falla</t_unidad>
+          <t_fax>958 228 289</t_fax>
+          <t_direccion>Paseo de los Mártires s/n, 18009 Granada</t_direccion>
+          <t_email>casamuseomanueldefalla@hotmail.com</t_email>
+          <t_provincia>Granada</t_provincia>
+          <identifier>2604</identifier>
+          <x_direccion>2604</x_direccion>
+          <x_municipio>2745</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2604</icmsId>
+          <t_pagina_web>http://www.museomanueldefalla.org</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>La Casa Museo Manuel de Falla se integra en un proyecto más amplio que es el Centro Cultural Manuel de Falla y supone la puesta en valor de la casa donde viviera el maestro, un típico carmen granadino y en ella se recoge el ambiente cotidiano en el se desenvolvió la vida de la familia guardándose también en ella testimonio del círculo de amistades del músico.&lt;br/>Manuel de Falla vivió en este lugar desde el verano de 1921, en régimen de alquiler. Compone aquí sus obras más universales: El Retablo de Maese Pedro, Psyché, El soneto a Córdoba, los Homenajes a Dukas, Debussy, Arbós y  Pedrell, y gran parte de su Atlántida. En muchas ocasiones recibió la visita de García Lorca, con quien compartió muchas horas de tertulia junto con otros artistas e intelectuales de la época. La estuvo ocupando hasta el 28 de septiembre de 1939, fecha en la que se marchó a Argentina. El Centro Cultural cuenta también con auditorio, sala de reuniones, cafetería, aulas de estudio, sala de exposiciones, etc.</t_observaciones>
+          <t_horario>Del 1 de julio al 31 de agosto, jueves a domingo de 10:00 a 14:00.$$ Del 1 de septiembre al 30 de junio, martes a domingo de 10:00 a 14:00.</t_horario>
+          <x_provincia>18</x_provincia>
+          <t_longitud>-3,5886776</t_longitud>
+          <c_ine_municipio>18087</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Casa Museo Manuel de Falla</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2604</_id>
+      <sort xmlns="">1688378616251</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2609</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2609</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>14</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2609</datasetcollectionresourceid>
+          <t_latitud>37,881496</t_latitud>
+          <t_nombre_directorio>Museo Arqueológico de Córdoba</t_nombre_directorio>
+          <c_ine_localidad>140210009</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1341</x_localidad>
+          <t_localidad>Córdoba</t_localidad>
+          <t_codigo_postal>14003</t_codigo_postal>
+          <t_telefono>957 355 517 / 957 355 525</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Córdoba</t_municipio>
+          <modified>2023-06-29T17:26:24.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/MusArqCordoba</t_twitter>
+          <t_responsable>María Dolores Baena Alcántara</t_responsable>
+          <t_unidad>Museo Arqueológico de Córdoba</t_unidad>
+          <t_direccion>Plaza Jerónimo Páez 7, 14003 Córdoba</t_direccion>
+          <t_email>museoarqueologicocordoba.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Córdoba</t_provincia>
+          <identifier>2609</identifier>
+          <x_direccion>2609</x_direccion>
+          <x_municipio>2063</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2609</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museoarqueologicodecordoba</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/channel/UCpJS7QjTgifIUrog-PioeVg</t_youtube>
+          <t_horario>Del 16 de junio al 15 de septiembre, martes a domingo y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo. Abierto todos los festivos, incluso los locales.$$ Del 16 de septiembre al 15 de junio, martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo. Abierto todos los festivos, incluso los locales.
+Festivos cerrado: 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>14</x_provincia>
+          <t_longitud>-4,777982</t_longitud>
+          <t_orden_directorio>318</t_orden_directorio>
+          <c_ine_municipio>14021</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/musarqcordoba/</t_instagram>
+          <t_nombre_mapa>Museo Arqueológico de Córdoba</t_nombre_mapa>
+          <t_facebook>http://www.facebook.com/MusArqCordoba</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2609</_id>
+      <sort xmlns="">1688045303901</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2577</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2577</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Conjunto</t_tipo_unidad>
+          <c_provincia>14</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2577</datasetcollectionresourceid>
+          <t_latitud>37,888287</t_latitud>
+          <t_nombre_directorio>Conjunto Arqueológico Madinat al-Zahra</t_nombre_directorio>
+          <c_ine_localidad>140210009</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1341</x_localidad>
+          <t_localidad>Córdoba</t_localidad>
+          <t_codigo_postal>14005</t_codigo_postal>
+          <t_telefono>957 104 933 / 957 103 637</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Córdoba</t_municipio>
+          <modified>2023-06-12T14:11:23.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/CAMedinaAzahara</t_twitter>
+          <t_responsable>Antonio Vallejo Triano</t_responsable>
+          <t_unidad>Conjunto Arqueológico Madinat al-Zahra</t_unidad>
+          <t_fax>957 741 021</t_fax>
+          <t_direccion>Carretera Palma del Río Km 5,5., 14005 Córdoba</t_direccion>
+          <t_email>madinatalzahra.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Córdoba</t_provincia>
+          <identifier>2577</identifier>
+          <x_direccion>2577</x_direccion>
+          <x_municipio>2063</x_municipio>
+          <c_tipo_unidad>CONJ</c_tipo_unidad>
+          <icmsId>orbe_museos/2577</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/conjuntoarqueologicomadinatalzahra</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/channel/UCu2qjML7xRwOTi_AMlrkRqA</t_youtube>
+          <t_horario>Del 21 de marzo al 20 de junio, martes, miércoles, jueves de 09:00 a 18:00; viernes, sábados de 09:00 a 21:00. Domingos, festivos y lunes víspera de festivo, de 9:00 a 15:00 horas. 
+Lunes cerrado (excepto víspera de festivo).
+
+.$$ Del 21 de junio al 20 de septiembre, martes a sábado de 09:00 a 15:00. y de 20:00 a 24:00 horas
+$$
+Domingos, festivos y lunes víspera de festivo, de 9:00 a 15:00 horas. 
+Lunes cerrado (excepto víspera de festivo).
+
+.$$ Del 21 de septiembre al 20 de marzo, martes a sábado de 09:00 a 18:00. Domingos, festivos y lunes víspera de festivos, de 9:00 a 15:00 horas.
+Lunes cerrado (excepto víspera de festivo).
+
+$$
+FESTIVOS CON APERTURA:
+28 de febrero
+/ 6 de abril
+/ 7 de abril
+/ 15 de agosto
+/ 12 de octubre
+/ 1 de noviembre
+/ 6 de diciembre
+/ 8 de diciembre
+/ 2 días de festivos locales
+
+$$
+LUNES DE APERTURA POR SER FESTIVO O VÍSPERA DE FESTIVO:
+27 de febrero
+/ 14 de agosto
+/ 2 de enero
+
+$$
+FESTIVOS DE CIERRE:
+1 de enero
+/ 6 de enero
+/ 1 de mayo
+/ 24 de diciembre
+/ 25 de diciembre
+/ 31 de diciembre
+.</t_horario>
+          <x_provincia>14</x_provincia>
+          <t_longitud>-4,8663044</t_longitud>
+          <t_orden_directorio>264</t_orden_directorio>
+          <c_ine_municipio>14021</c_ine_municipio>
+          <x_tipo_unidad>3</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/medinaazaharaca/</t_instagram>
+          <t_nombre_mapa>Conjunto Arqueológico Madinat al-Zahra</t_nombre_mapa>
+          <t_facebook>https://www.facebook.com/Conjunto-Arqueol%C3%B3gico-de-Madinat-al-Zahra-810279225784869/?fref=ts</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2577</_id>
+      <sort xmlns="">1686564800042</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2724</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2724</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>29</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2724</datasetcollectionresourceid>
+          <t_latitud>36,79068</t_latitud>
+          <c_ine_localidad>290530001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2762</x_localidad>
+          <t_localidad>Frigiliana</t_localidad>
+          <t_codigo_postal>29788</t_codigo_postal>
+          <t_telefono>952 534 261</t_telefono>
+          <t_estado>CTEMP</t_estado>
+          <t_municipio>Frigiliana</t_municipio>
+          <modified>2023-04-18T14:22:42.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Arqueológico de Frigiliana</t_unidad>
+          <t_fax>952 534 261</t_fax>
+          <t_direccion>Cuesta del Apero 10, 29788 Frigiliana (Málaga)</t_direccion>
+          <t_email>museo@frigiliana.es</t_email>
+          <t_provincia>Málaga</t_provincia>
+          <identifier>2724</identifier>
+          <x_direccion>2724</x_direccion>
+          <x_municipio>4507</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2724</icmsId>
+          <t_pagina_web>http://www.museodefrigiliana.org</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El Museo Arqueológico de Frigiliana, ubicado en un edificio del siglo XVI, pretende ofrecer una oferta interpretativa de la historia de ámbito comarcal donde se inserta Frigiliana, la Axarquía oriental, aunque el mayor peso recaerá sobre la interpretación de la historia del propio pueblo.
+Así, recordaremos que el caso urbano de Frigiliana tiene una vigencia de más de un milenio, pues ha sido habitado de forma ininterrumpida, según las fuentes históricas, desde época medieval. A este hecho hay que añadir la documentación en el término municipal de Frigiliana de yacimientos neolíticos y calcolíticos (Cueva de los Murciélagos  Frigiliana-I), de la Edad de Bronce (Poyos del Molinillo) o de la necrópolis fenicia del Cortijo de las Sombras.</t_observaciones>
+          <t_horario>Del 1 de julio al 15 de septiembre, lunes a sábado de 10:00 a 14:30 y de 17:30 a 21:00; domingos de 10:00 a 14:30.$$ Del 16 de septiembre al 30 de junio, lunes a viernes de 10:00 a 18:00; sábados de 10:00 a 14:00 y de 16:00 a 20:00; domingos de 10:00 a 14:00.</t_horario>
+          <x_provincia>29</x_provincia>
+          <t_longitud>-3,8935745</t_longitud>
+          <c_ine_municipio>29053</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Arqueológico de Frigiliana</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2724</_id>
+      <sort xmlns="">1681813559512</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2588</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2588</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Conjunto</t_tipo_unidad>
+          <c_provincia>41</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2588</datasetcollectionresourceid>
+          <t_latitud>37,44119</t_latitud>
+          <t_nombre_directorio>Conjunto Arqueológico de Itálica</t_nombre_directorio>
+          <c_ine_localidad>410890001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>213</x_localidad>
+          <t_localidad>Santiponce</t_localidad>
+          <t_codigo_postal>41970</t_codigo_postal>
+          <t_telefono>600 141 767</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Santiponce</t_municipio>
+          <modified>2023-04-12T11:51:24.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Conjunto Arqueológico de Itálica</t_unidad>
+          <t_direccion>Avenida de Extremadura 2, 41970 Santiponce (Sevilla)</t_direccion>
+          <t_email>info.italica.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Sevilla</t_provincia>
+          <identifier>2588</identifier>
+          <x_direccion>2588</x_direccion>
+          <x_municipio>6146</x_municipio>
+          <c_tipo_unidad>CONJ</c_tipo_unidad>
+          <icmsId>orbe_museos/2588</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/conjuntoarqueologicodeitalica</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/channel/UCzKzj_ze9pr7AN5GA_YCOEg</t_youtube>
+          <t_horario>Del 21 de marzo al 20 de junio, martes, miércoles, jueves de 09:00 a 18:00; viernes, sábados de 09:00 a 21:00. Domingos, festivos y lunes víspera de festivo, de 9:00 a 15:00 horas.
+Lunes cerrado (excepto víspera de festivo).$$ Del 21 de junio al 20 de septiembre, martes a sábado de 09:00 a 15:00. Domingos, festivos y lunes víspera de festivo, de 09:00 a 15:00 horas. 
+lunes cerrado (excepto víspera de festivo).$$ Del 21 de septiembre al 20 de marzo, martes a sábado de 09:00 a 18:00. Domingos, festivos y lunes víspera de festivo, de 9:00 a 15:00 horas. 
+Lunes cerrado (excepto víspera de festivo).
+
+FESTIVOS CON APERTURA:
+28 de febrero 
+/ 6 de abril 
+/ 7 de abril 
+/ 15 de agosto 
+/ 12 de octubre
+/ 1 de noviembre
+/ 6 de diciembre
+/ 8 de diciembre
+/ 2 días de festivos locales
+
+LUNES DE APERTURA POR SER FESTIVO O VÍSPERA DE FESTIVO:
+27 de febrero
+/14 de agosto
+/2 de enero 
+
+FESTIVOS DE CIERRE:
+1 de enero 
+/ 6 de enero 
+/ 1 de mayo 
+/ 24 de diciembre 
+/ 25 de diciembre 
+/ 31 de diciembre.</t_horario>
+          <x_provincia>41</x_provincia>
+          <t_longitud>-6,0445003</t_longitud>
+          <t_orden_directorio>260</t_orden_directorio>
+          <c_ine_municipio>41089</c_ine_municipio>
+          <x_tipo_unidad>3</x_tipo_unidad>
+          <t_nombre_mapa>Conjunto Arqueológico de Itálica</t_nombre_mapa>
+          <t_facebook>http://www.facebook.com/pages/Conjunto-Arqueol%C3%B3gico-de-It%C3%A1lica/100995589956671?ref=ts</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2588</_id>
+      <sort xmlns="">1681286005361</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2688</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2688</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>18</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2688</datasetcollectionresourceid>
+          <t_latitud>37,25722</t_latitud>
+          <c_ine_localidad>189140000</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1826</x_localidad>
+          <t_localidad>Valderrubio</t_localidad>
+          <t_codigo_postal>18250</t_codigo_postal>
+          <t_telefono>958 45 42 17</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Valderrubio</t_municipio>
+          <modified>2023-04-03T17:28:42.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Casa Museo Federico García Lorca Valderrubio</t_unidad>
+          <t_fax>958 454 593</t_fax>
+          <t_direccion>Calle Iglesia 20, 18250 Valderrubio (Granada)</t_direccion>
+          <t_email>info@museolorcavalderrubio.es</t_email>
+          <t_provincia>Granada</t_provincia>
+          <identifier>2688</identifier>
+          <x_direccion>2688</x_direccion>
+          <x_municipio>8116</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2688</icmsId>
+          <t_pagina_web>https://valderrubioenlorca.com/</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El museo significa fundamentalmente dos cosas, una casa de principios del siglo XX perfectamente conservada, y la vivienda donde Federico García Lorca vivió junto a su familia durante un importante período de su vida. Desde el punto de vista del primer hilo argumental, la figura de Lorca, existen dos parcelas interrelacionadas: Lorca como persona y su obra contextualizada.
+En el primer caso, Lorca como persona, contamos con memoria oral y escrita de vivencias y anécdotas relacionadas con la figura del poeta. Respecto a su obra contextualizada, en Valderrubio existen lugares inspiradores de su obra así como el conocimiento (transmitido por generaciones de forma oral) de los nombres de personas y hechos acaecidos reflejados en su obra.
+El segundo hilo argumental se centra en el ámbito etnológico e histórico local a partir de tres perspectivas, la propia construcción con los muebles, la sociedad y los oficios y labores.</t_observaciones>
+          <t_horario>De martes a sábado de 10.00h a 14.00h.
+Se puede visitar fuera de este horario previa reserva confirmada por correo electrónico.</t_horario>
+          <x_provincia>18</x_provincia>
+          <t_longitud>-3,796748</t_longitud>
+          <c_ine_municipio>18914</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Casa Museo Federico García Lorca Valderrubio</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2688</_id>
+      <sort xmlns="">1680528822214</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2585</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2585</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Conjunto</t_tipo_unidad>
+          <c_provincia>29</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2585</datasetcollectionresourceid>
+          <t_latitud>37,02338</t_latitud>
+          <t_nombre_directorio>Conjunto Arqueológico Dólmenes de Antequera</t_nombre_directorio>
+          <c_ine_localidad>290150001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2659</x_localidad>
+          <t_localidad>Antequera</t_localidad>
+          <t_codigo_postal>29200</t_codigo_postal>
+          <t_telefono>952 712 206</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Antequera</t_municipio>
+          <modified>2023-03-28T14:53:48.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/CA_DOLMENESATQ</t_twitter>
+          <t_responsable>Maria Del Carmen Mora Mondejar</t_responsable>
+          <t_unidad>Conjunto Arqueológico Dólmenes de Antequera</t_unidad>
+          <t_direccion>Carretera de Málaga 5, 29200 Antequera (Málaga)</t_direccion>
+          <t_email>dolmenesdeantequera.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Málaga</t_provincia>
+          <identifier>2585</identifier>
+          <x_direccion>2585</x_direccion>
+          <x_municipio>4469</x_municipio>
+          <c_tipo_unidad>CONJ</c_tipo_unidad>
+          <icmsId>orbe_museos/2585</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/conjuntoarqueologicodolmenesdeantequera</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/channel/UCa5cNZWzGMvYFvfBbw_gDUw</t_youtube>
+          <t_horario>Del 21 de marzo al 20 de junio, martes, miércoles, jueves de 09:00 a 18:00; viernes, sábados de 09:00 a 21:00. Domingos, festivos y lunes víspera de festivo de, 09:00 a 15:00 horas.
+Lunes cerrado (excepto víspera de festivo).$$ Del 21 de junio al 20 de septiembre, martes a sábado de 09:00 a 15:00 y de 20:00 a 22:00. Domingos, festivos y lunes víspera de festivo, de 09:00 a 15:00 horas.
+Lunes cerrado (excepto víspera de festivo).$$ Del 21 de septiembre al 20 de diciembre, martes a sábado de 09:00 a 18:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado (excepto vísperas de festivos). Lunes vísperas de festivos de 9:00 a 15:00 horas.$$ Del 21 de diciembre al 20 de marzo, martes a sábado de 09:00 a 18:00. Domingos, festivos y lunes víspera de festivo de, 09:00 a 15:00 horas.
+$$
+Lunes cerrado (excepto víspera de festivo).
+
+$$
+FESTIVOS CON APERTURA:,
+28 de febrero 
+/ 6 de abril
+/ 7 de abril
+/ 15 de agosto
+/ 12 de octubre
+/ 1 de noviembre
+/ 6 de diciembre
+/ 8 de diciembre
+/ 2 días de festivos locales
+
+$$
+LUNES DE APERTURA POR SER FESTIVO O VÍSPERA DE FESTIVO:
+27 de febrero
+/ 14 de agosto
+/ 2 de enero
+
+$$ 
+FESTIVOS DE CIERRE:
+1 de enero
+/ 6 de enero
+/ 1 de mayo
+/ 24 de diciembre
+/ 25 de diciembre
+/ 31 de diciembre
+
+
+
+
+.</t_horario>
+          <x_provincia>29</x_provincia>
+          <t_longitud>-4,5471005</t_longitud>
+          <t_orden_directorio>262</t_orden_directorio>
+          <c_ine_municipio>29015</c_ine_municipio>
+          <x_tipo_unidad>3</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/ca_dolmenesatq/</t_instagram>
+          <t_nombre_mapa>Conjunto Arqueológico Dólmenes de Antequera</t_nombre_mapa>
+          <t_facebook>https://www.facebook.com/pages/Conjunto-Arqueol%C3%B3gico-D%C3%B3lmenes-de-Antequera/137121849669851</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2585</_id>
+      <sort xmlns="">1680001097416</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2614</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2614</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>41</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2614</datasetcollectionresourceid>
+          <t_latitud>37,371017</t_latitud>
+          <t_nombre_directorio>Museo Arqueológico de Sevilla</t_nombre_directorio>
+          <c_ine_localidad>410910002</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>217</x_localidad>
+          <t_localidad>Sevilla</t_localidad>
+          <t_codigo_postal>41013</t_codigo_postal>
+          <t_telefono>954 786 474</t_telefono>
+          <t_estado>CTEMP</t_estado>
+          <t_municipio>Sevilla</t_municipio>
+          <modified>2023-03-01T16:11:07.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_responsable>María Soledad Gil de los Reyes</t_responsable>
+          <t_unidad>Museo Arqueológico de Sevilla</t_unidad>
+          <t_fax>955 120 589</t_fax>
+          <t_direccion>Plaza de América s/n, 41013 Sevilla</t_direccion>
+          <t_email>museoarqueologicosevilla.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Sevilla</t_provincia>
+          <identifier>2614</identifier>
+          <x_direccion>2614</x_direccion>
+          <x_municipio>6148</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2614</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museoarqueologicodesevilla</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <x_provincia>41</x_provincia>
+          <t_longitud>-5,987216</t_longitud>
+          <t_orden_directorio>320</t_orden_directorio>
+          <c_ine_municipio>41091</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Arqueológico de Sevilla</t_nombre_mapa>
+          <t_facebook>http://www.facebook.com/pages/Museo-Arqueol%C3%B3gico-de-Sevilla/383135248432710?fref=ts</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2614</_id>
+      <sort xmlns="">1677754925632</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2583</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2583</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Conjunto</t_tipo_unidad>
+          <c_provincia>23</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2583</datasetcollectionresourceid>
+          <t_latitud>38,0360861</t_latitud>
+          <t_nombre_directorio>Conjunto Arqueológico de Cástulo</t_nombre_directorio>
+          <c_ine_localidad>230550005</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2375</x_localidad>
+          <t_localidad>Linares</t_localidad>
+          <t_codigo_postal>23700</t_codigo_postal>
+          <t_telefono>953 106 074 / 600 143 464</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Linares</t_municipio>
+          <modified>2023-02-17T13:27:42.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_responsable>Marcelo Castro Lopez</t_responsable>
+          <t_unidad>Conjunto Arqueológico de Cástulo</t_unidad>
+          <t_direccion>Carretera JV-3003 s/n (Ciudad de Cástulo), Calle General Echague, 2 (Museo Arqueológico), 23700 Linares (Jaén)</t_direccion>
+          <t_email>castulo.ccul@juntadeandalucia.es - museoarqueologicolinares.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Jaén</t_provincia>
+          <identifier>2583</identifier>
+          <x_direccion>5039</x_direccion>
+          <x_municipio>3549</x_municipio>
+          <c_tipo_unidad>CONJ</c_tipo_unidad>
+          <icmsId>orbe_museos/2583</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/conjuntoarqueologicodecastulo</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>Sede institucional: Museo Arqueológico de Linares Monográfico de Cástulo. Calle General Echagüe 2, 23700 Linares. Jaén.
+Acceso a la ciudad de Cástulo: Carretera JV¿3004 (Linares ¿ Torreblascopedro)</t_observaciones>
+          <t_youtube>https://www.youtube.com/channel/UC8A9pXpzpWi1coAGbH1zK9w</t_youtube>
+          <t_horario>Del 21 de marzo al 20 de junio, martes a sábado de 09:00 a 21:00. $$
+Domingos, festivos y lunes víspera de festivo de, 09:00 a 15:00 horas.
+$$
+Lunes cerrado (excepto víspera de festivo).$$ Del 21 de junio al 20 de septiembre, martes a sábado de 09:00 a 15:00. $$
+Domingos, festivos y lunes víspera de efectivo de, 09:00 a 15:00 horas.
+$$
+Lunes cerrado (excepto víspera de festivo).
+
+.$$ Del 21 de septiembre al 20 de marzo, martes a sábado de 09:00 a 18:00. $$
+Domingos, festivos y lunes víspera de festivo, de 09:00 a 15:00 horas.
+$$
+Lunes cerrado (excepto víspera de festivos).
+
+$$
+FESTIVOS DE CIERRE:
+1 de enero
+/ 6 de enero
+/ 1 de mayo
+/ 24 de diciembre
+/ 25 de diciembre
+/ 31 de diciembre
+
+$$
+FESTIVOS CON  APERTURA:
+28 de febrero
+/ 6 y 7 de abril
+/ 15 de agosto
+/ 12 de octubre
+/ 1 de noviembre
+/ 6 y 8 de diciembre
+/ 2 días de festivos locales
+
+$$
+LUNES DE APERTURA POR SER FESTIVO O VÍSPERA DE FESTIVO:
+27 de febrero
+/ 14 de agosto
+/ 2 de enero.</t_horario>
+          <x_provincia>23</x_provincia>
+          <t_longitud>-3,6235728</t_longitud>
+          <t_orden_directorio>258</t_orden_directorio>
+          <c_ine_municipio>23055</c_ine_municipio>
+          <x_tipo_unidad>3</x_tipo_unidad>
+          <t_nombre_mapa>Conjunto Arqueológico de Cástulo</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2583</_id>
+      <sort xmlns="">1676633864683</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2629</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2629</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>14</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2629</datasetcollectionresourceid>
+          <t_latitud>37,88119</t_latitud>
+          <t_nombre_directorio>Museo de Bellas Artes de Córdoba</t_nombre_directorio>
+          <c_ine_localidad>140210009</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1341</x_localidad>
+          <t_localidad>Córdoba</t_localidad>
+          <t_codigo_postal>14002</t_codigo_postal>
+          <t_telefono>957 01 58 58</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Córdoba</t_municipio>
+          <modified>2023-02-14T12:47:55.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/MBACordoba</t_twitter>
+          <t_responsable>Jose María Domenech  Vázquez</t_responsable>
+          <t_unidad>Museo de Bellas Artes de Córdoba</t_unidad>
+          <t_direccion>Plaza del Potro 1, 14002 Córdoba</t_direccion>
+          <t_email>museobellasartescordoba.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Córdoba</t_provincia>
+          <identifier>2629</identifier>
+          <x_direccion>2629</x_direccion>
+          <x_municipio>2063</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2629</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museodebellasartesdecordoba</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/channel/UCRojjMlOsiUmKu-u1QPei6Q/videos</t_youtube>
+          <t_horario>Del 16 de junio al 15 de septiembre, martes a domingo y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales.$$ Del 16 de septiembre al 15 de junio, martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales. 
+Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>14</x_provincia>
+          <t_longitud>-4,7749467</t_longitud>
+          <t_orden_directorio>334</t_orden_directorio>
+          <c_ine_municipio>14021</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/museo_bellasartes_co/</t_instagram>
+          <t_nombre_mapa>Museo de Bellas Artes de Córdoba</t_nombre_mapa>
+          <t_facebook>http://www.facebook.com/MBACordoba?ref=ts</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2629</_id>
+      <sort xmlns="">1676372141650</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2741</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2741</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>41</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2741</datasetcollectionresourceid>
+          <t_latitud>37,39846</t_latitud>
+          <t_nombre_directorio>Centro Andaluz de Arte Contemporáneo</t_nombre_directorio>
+          <c_ine_localidad>410910002</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>217</x_localidad>
+          <t_localidad>Sevilla</t_localidad>
+          <t_codigo_postal>41092</t_codigo_postal>
+          <t_telefono>955 037061</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Sevilla</t_municipio>
+          <modified>2023-02-10T13:33:16.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/popcaac | https://twitter.com/caac_sevilla</t_twitter>
+          <t_responsable>Juan Antonio Álvarez Reyes</t_responsable>
+          <t_flickr>http://www.flickr.com/photos/caacsevilla/</t_flickr>
+          <t_unidad>Centro Andaluz de Arte Contemporáneo</t_unidad>
+          <t_fax>955 037 052</t_fax>
+          <t_direccion>Monasterio de la Cartuja de Santa María de Las Cuevas. Avenida Américo Vespucio 2, Accesos por: Avda. Américo Vespucio, 2 y Camino de, 41092 Sevilla</t_direccion>
+          <t_email>ana.carrion@juntadeandalucia.es</t_email>
+          <t_provincia>Sevilla</t_provincia>
+          <identifier>2741</identifier>
+          <x_direccion>5093</x_direccion>
+          <x_municipio>6148</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2741</icmsId>
+          <t_pagina_web>http://www.caac.es</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>http://www.youtube.com/channel/UC_SnOvWs6mG1T0qBGVsa0GQ?feature=watch</t_youtube>
+          <t_horario>De martes a sábados, de 11:00 a 21:00 horas. Domingos y festivos abiertos, de 10:00 a 15:30. Cerrado: todos los lunes y los siguientes festivos de 2022: 1 y 6 de enero; 15 de abril; 1 de mayo; 8, 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>41</x_provincia>
+          <t_longitud>-6,009919</t_longitud>
+          <t_orden_directorio>250</t_orden_directorio>
+          <t_issuu>https://issuu.com/caac</t_issuu>
+          <c_ine_municipio>41091</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Centro Andaluz de Arte Contemporáneo</t_nombre_mapa>
+          <t_facebook>https://www.facebook.com/popcaac/Prueba | http://www.facebook.com/pages/Centro-Andaluz-de-Arte-Contemporáneo/55534255215?ref=ts</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2741</_id>
+      <sort xmlns="">1676029103822</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2640</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2640</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>18</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2640</datasetcollectionresourceid>
+          <t_latitud>37,17865</t_latitud>
+          <t_nombre_directorio>Museo Arqueológico y Etnológico de Granada</t_nombre_directorio>
+          <c_ine_localidad>180870004</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1645</x_localidad>
+          <t_localidad>Granada</t_localidad>
+          <t_codigo_postal>18010</t_codigo_postal>
+          <t_telefono>958 034 666</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Granada</t_municipio>
+          <modified>2023-02-10T11:39:42.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/Musarqgranada?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor</t_twitter>
+          <t_responsable>Manuel Ramos Lizana</t_responsable>
+          <t_unidad>Museo Arqueológico y Etnológico de Granada</t_unidad>
+          <t_fax>958 575 410</t_fax>
+          <t_direccion>Carrera del Darro 41-43, 18010 Granada</t_direccion>
+          <t_email>museoarqueologicogranada.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Granada</t_provincia>
+          <identifier>2640</identifier>
+          <x_direccion>2640</x_direccion>
+          <x_municipio>2745</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2640</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museoarqueologicodegranada</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/channel/UCGQKSWSGT30RvLbcpPzxetA/featured</t_youtube>
+          <t_horario>Del 16 de junio al 15 de septiembre, martes a domingo y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales.$$ Del 16 de septiembre al 15 de junio, martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales. 
+Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>18</x_provincia>
+          <t_longitud>-3,5915833</t_longitud>
+          <t_orden_directorio>324</t_orden_directorio>
+          <c_ine_municipio>18087</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/musargranada/</t_instagram>
+          <t_nombre_mapa>Museo Arqueológico y Etnológico de Granada</t_nombre_mapa>
+          <t_facebook>https://www.facebook.com/Musarqgranada/</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2640</_id>
+      <sort xmlns="">1676022196280</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2680</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2680</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>23</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2680</datasetcollectionresourceid>
+          <t_latitud>37,77466122</t_latitud>
+          <t_nombre_directorio>Museo de Jaén</t_nombre_directorio>
+          <c_ine_localidad>230500009</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2357</x_localidad>
+          <t_localidad>Jaén</t_localidad>
+          <t_codigo_postal>23008</t_codigo_postal>
+          <t_telefono>953 101 366 / 600 143 452</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Jaén</t_municipio>
+          <modified>2023-02-10T11:31:41.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/MuseodeJaen</t_twitter>
+          <t_responsable>Francisca  Hornos  Mata</t_responsable>
+          <t_unidad>Museo de Jaén</t_unidad>
+          <t_fax>953 335 059</t_fax>
+          <t_direccion>Paseo de la Estación 29, 23008 Jaén</t_direccion>
+          <t_email>museojaen.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Jaén</t_provincia>
+          <identifier>2680</identifier>
+          <x_direccion>5106</x_direccion>
+          <x_municipio>3543</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2680</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museodejaen</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_horario>Del 16 de junio al 15 de septiembre, martes a domingo y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales.$$ Del 16 de septiembre al 15 de junio, martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales. 
+Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>23</x_provincia>
+          <t_longitud>-3,78921239</t_longitud>
+          <t_orden_directorio>344</t_orden_directorio>
+          <c_ine_municipio>23050</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo de Jaén</t_nombre_mapa>
+          <t_facebook>https://es-es.facebook.com/museodejaen/</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2680</_id>
+      <sort xmlns="">1676021598200</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2612</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2612</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>41</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2612</datasetcollectionresourceid>
+          <t_latitud>37,372112</t_latitud>
+          <t_nombre_directorio>Museo de Artes y Costumbres Populares de Sevilla</t_nombre_directorio>
+          <c_ine_localidad>410910002</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>217</x_localidad>
+          <t_localidad>Sevilla</t_localidad>
+          <t_codigo_postal>41013</t_codigo_postal>
+          <t_telefono>955 035 325</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Sevilla</t_municipio>
+          <modified>2023-02-10T11:23:21.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_responsable>Rafael Rodriguez Obando</t_responsable>
+          <t_unidad>Museo de Artes y Costumbres Populares de Sevilla</t_unidad>
+          <t_fax>955 541 235</t_fax>
+          <t_direccion>Plaza de América 3, 41013 Sevilla</t_direccion>
+          <t_email>museoacp.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Sevilla</t_provincia>
+          <identifier>2612</identifier>
+          <x_direccion>2612</x_direccion>
+          <x_municipio>6148</x_municipio>
+          <t_vimeo>http://vimeo.com/macpse</t_vimeo>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2612</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museodeartesycostumbrespopularesdesevilla</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/user/MuseoACPSe/featured</t_youtube>
+          <t_horario>Del 16 de junio al 15 de septiembre, martes a domingo y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales.$$ Del 16 de septiembre al 15 de junio, martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales. 
+Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>41</x_provincia>
+          <t_longitud>-5,987856</t_longitud>
+          <t_orden_directorio>330</t_orden_directorio>
+          <c_ine_municipio>41091</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/explore/locations/257919032/museo-de-artes-y-costumbres-populares/</t_instagram>
+          <t_nombre_mapa>Museo de Artes y Costumbres Populares de Sevilla</t_nombre_mapa>
+          <t_facebook>http://www.facebook.com/pages/Museo-de-Artes-y-Costumbres-Populares-de-Sevilla/189859954487088</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2612</_id>
+      <sort xmlns="">1676021381785</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2631</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2631</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>41</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2631</datasetcollectionresourceid>
+          <t_latitud>37,392586</t_latitud>
+          <t_nombre_directorio>Museo de Bellas Artes de Sevilla.</t_nombre_directorio>
+          <c_ine_localidad>410910002</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>217</x_localidad>
+          <t_localidad>Sevilla</t_localidad>
+          <t_codigo_postal>41001</t_codigo_postal>
+          <t_telefono>954 786 498 / 954 786 501</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Sevilla</t_municipio>
+          <modified>2021-12-09T17:25:49.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/MuseoBASe</t_twitter>
+          <t_responsable>María del Valme Muñoz Rubio</t_responsable>
+          <t_unidad>Museo de Bellas Artes de Sevilla</t_unidad>
+          <t_pinterest>http://www.pinterest.com/mbbaasevilla/</t_pinterest>
+          <t_direccion>Plaza del Museo 9, 41001 Sevilla</t_direccion>
+          <t_email>museobellasartessevilla.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Sevilla</t_provincia>
+          <identifier>2631</identifier>
+          <x_direccion>2631</x_direccion>
+          <x_municipio>6148</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2631</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museodebellasartesdesevilla</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/channel/UCzQZiOmehcMoRH80gEqfncg</t_youtube>
+          <t_horario>Del 1 de agosto al 31 de agosto, martes a domingo y festivos de 09:00 a 15:00. Lunes cerrado (excepto vísperas de festivo, en horario de festivo). 
+Abierto todos los festivos, incluso los locales.$$ Del 1 de septiembre al 31 de julio, martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado (excepto víspera de festivo, en horario de festivo)
+Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre. 
+
+ATENCIÓN: 
+45  minutos antes del cierre y si el aforo lo permite, se expenderán las últimas 25 entradas.
+30 minutos antes del cierre, se cerrarán los accesos a sala.           
+ 
+Estos horarios pueden variar en función de la aplicación de la normativa sanitaria y de las medidas temporales y excepcionales que correspondan por razón de salud pública para la contención de la COVID - 19. Por favor, consulten la sección Actualidad en la página web del museo. 
+
+.</t_horario>
+          <x_provincia>41</x_provincia>
+          <t_longitud>-5,999637</t_longitud>
+          <t_orden_directorio>338</t_orden_directorio>
+          <c_ine_municipio>41091</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/museobellasartessevilla/</t_instagram>
+          <t_nombre_mapa>Museo de Bellas Artes de Sevilla.</t_nombre_mapa>
+          <t_facebook>https://www.facebook.com/pages/Museo-de-Bellas-Artes-de-Sevilla/507858365941325?fref=ts</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2631</_id>
+      <sort xmlns="">1676020698508</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2647</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2647</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>29</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2647</datasetcollectionresourceid>
+          <t_latitud>36,72017595</t_latitud>
+          <t_nombre_directorio>Museo de Málaga</t_nombre_directorio>
+          <c_ine_localidad>290670005</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2781</x_localidad>
+          <t_localidad>Málaga</t_localidad>
+          <t_codigo_postal>29015</t_codigo_postal>
+          <t_telefono>951039269</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Málaga</t_municipio>
+          <modified>2023-02-09T10:52:58.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/museo_malaga?lang=es</t_twitter>
+          <t_responsable>María Ascensión Morente del Monte</t_responsable>
+          <t_unidad>Museo de Málaga</t_unidad>
+          <t_direccion>Plaza Aduana s/n, 29015 Málaga</t_direccion>
+          <t_email>museomalaga.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Málaga</t_provincia>
+          <identifier>2647</identifier>
+          <x_direccion>5413</x_direccion>
+          <x_municipio>4521</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2647</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museodemalaga</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/channel/UChiGbTXLI4DSv4ZaFqsiQag</t_youtube>
+          <t_horario>Martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales. 
+Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>29</x_provincia>
+          <t_longitud>-4,41744497</t_longitud>
+          <t_orden_directorio>348</t_orden_directorio>
+          <c_ine_municipio>29067</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/museomalaga/?hl=es</t_instagram>
+          <t_nombre_mapa>Museo de Málaga</t_nombre_mapa>
+          <t_facebook>https://www.facebook.com/MuseoDeMalagaLaAduana/</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2647</_id>
+      <sort xmlns="">1675932814458</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2630</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2630</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>18</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2630</datasetcollectionresourceid>
+          <t_latitud>37,1768</t_latitud>
+          <t_nombre_directorio>Museo de Bellas Artes de Granada</t_nombre_directorio>
+          <c_ine_localidad>180870004</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1645</x_localidad>
+          <t_localidad>Granada</t_localidad>
+          <t_codigo_postal>18009</t_codigo_postal>
+          <t_telefono>958 14 53 36</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Granada</t_municipio>
+          <modified>2023-02-09T10:52:12.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/MuseoBBAAGranad</t_twitter>
+          <t_responsable>Ricardo Tenorio Vera</t_responsable>
+          <t_unidad>Museo de Bellas Artes de Granada</t_unidad>
+          <t_direccion>Explanada Palacio de Carlos V s/n, Recinto de la Alhambra, 18009 Granada</t_direccion>
+          <t_email>museobellasartesgranada.ccul@juntadeandalucia.es / difusion.museobagr.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Granada</t_provincia>
+          <identifier>2630</identifier>
+          <x_direccion>5089</x_direccion>
+          <x_municipio>2745</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2630</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museodebellasartesdegranada</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre</t_observaciones>
+          <t_youtube>https://www.youtube.com/channel/UCFbur9izv5SoXqacVh3inaA</t_youtube>
+          <t_horario>Del 1 de abril al 14 de octubre, martes a sábado de 09:00 a 20:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales.$$ Del 15 de octubre al 31 de marzo, martes a sábado de 09:00 a 18:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales. 
+Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>18</x_provincia>
+          <t_longitud>-3,5899668</t_longitud>
+          <t_orden_directorio>336</t_orden_directorio>
+          <c_ine_municipio>18087</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/museobellasartesdegranada/</t_instagram>
+          <t_nombre_mapa>Museo de Bellas Artes de Granada</t_nombre_mapa>
+          <t_facebook>http://www.facebook.com/pages/Museo-de-Bellas-Artes-de-Granada/124182694282493?ref=ts</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2630</_id>
+      <sort xmlns="">1675932812412</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2613</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2613</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>23</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2613</datasetcollectionresourceid>
+          <t_latitud>37,908</t_latitud>
+          <t_nombre_directorio>Museo de Artes y Costumbres Populares del Alto Guadalquivir</t_nombre_directorio>
+          <c_ine_localidad>230280005</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2271</x_localidad>
+          <t_localidad>Cazorla</t_localidad>
+          <t_codigo_postal>23470</t_codigo_postal>
+          <t_telefono>953 101 402</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Cazorla</t_municipio>
+          <modified>2023-02-09T10:51:54.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_responsable>Manuel Molina Alameda</t_responsable>
+          <t_unidad>Museo de Artes y Costumbres Populares del Alto Guadalquivir</t_unidad>
+          <t_fax>953 105 121</t_fax>
+          <t_direccion>Calle Castillo de la Yedra s/n, 23470 Cazorla (Jaén)</t_direccion>
+          <t_email>museocazorla.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Jaén</t_provincia>
+          <identifier>2613</identifier>
+          <x_direccion>5153</x_direccion>
+          <x_municipio>3523</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2613</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museodeartesycostumbrespopularesdelaltoguadalquivir</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_horario>Del 16 de junio al 15 de septiembre, martes a domingo y festivos de 09:00 a 15:00. Lunes cerrado, excepto lunes víspera de festivo que abre con horario de festivo. 
+Abierto todos los festivos, incluso los locales.$$ Del 16 de septiembre al 15 de junio, martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto lunes víspera de festivo que abre con horario de festivo. 
+Abierto todos los festivos, incluso los locales. 
+Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>23</x_provincia>
+          <t_longitud>-3,0005014</t_longitud>
+          <t_orden_directorio>332</t_orden_directorio>
+          <c_ine_municipio>23028</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo de Artes y Costumbres Populares del Alto Guadalquivir</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2613</_id>
+      <sort xmlns="">1675932811110</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2643</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2643</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>18</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2643</datasetcollectionresourceid>
+          <t_latitud>37,1750354</t_latitud>
+          <t_nombre_directorio>Museo Casa de los Tiros de Granada</t_nombre_directorio>
+          <c_ine_localidad>180870004</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1645</x_localidad>
+          <t_localidad>Granada</t_localidad>
+          <t_codigo_postal>18009</t_codigo_postal>
+          <t_telefono>958037918</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Granada</t_municipio>
+          <modified>2023-01-26T18:16:35.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_responsable>Emilio Juan Escoriza Escoriza</t_responsable>
+          <t_unidad>Museo Casa de los Tiros de Granada</t_unidad>
+          <t_fax>958 980 298</t_fax>
+          <t_direccion>Calle Pavaneras 19, Acceso al museo y Sala de Exposiciones Temporales, 18009 Granada</t_direccion>
+          <t_email>museocasadelostiros.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Granada</t_provincia>
+          <identifier>2643</identifier>
+          <x_direccion>2643</x_direccion>
+          <x_municipio>2745</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2643</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museocasadelostirosdegranada</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/@museotiros</t_youtube>
+          <t_horario>Del 16 de junio al 15 de septiembre, martes a domingo y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales.$$ Del 16 de septiembre al 15 de junio, martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales. 
+Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre. 
+
+Los servicios relacionados con las áreas internas (atención a investigadores, reproducciones y/o grabaciones, entrada/salida de obras, etc.) serán atendidos de lunes a viernes de 9 a 14 horas.</t_horario>
+          <x_provincia>18</x_provincia>
+          <t_longitud>-3,5958879</t_longitud>
+          <t_orden_directorio>326</t_orden_directorio>
+          <c_ine_municipio>18087</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/museo.tiros/</t_instagram>
+          <t_nombre_mapa>Museo Casa de los Tiros</t_nombre_mapa>
+          <t_facebook>http://www.facebook.com/museo.tiros</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2643</_id>
+      <sort xmlns="">1674809691784</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2587</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2587</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Conjunto</t_tipo_unidad>
+          <c_provincia>41</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2587</datasetcollectionresourceid>
+          <t_latitud>37,468792</t_latitud>
+          <t_nombre_directorio>Conjunto Arqueológico de Carmona</t_nombre_directorio>
+          <c_ine_localidad>410240001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>52</x_localidad>
+          <t_localidad>Carmona</t_localidad>
+          <t_codigo_postal>41410</t_codigo_postal>
+          <t_telefono>600143632</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Carmona</t_municipio>
+          <modified>2023-01-26T13:47:07.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_responsable>José Ildefonso  Ruiz  Cecilia</t_responsable>
+          <t_unidad>Conjunto Arqueológico de Carmona</t_unidad>
+          <t_direccion>Avenida de Jorge Bonsor 9, 41410 Carmona (Sevilla)</t_direccion>
+          <t_email>necropoliscarmona.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Sevilla</t_provincia>
+          <identifier>2587</identifier>
+          <x_direccion>2587</x_direccion>
+          <x_municipio>6079</x_municipio>
+          <c_tipo_unidad>CONJ</c_tipo_unidad>
+          <icmsId>orbe_museos/2587</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/conjuntoarqueologicodecarmona</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/channel/UCBOAGezfCPVdvMrT2rvGSnQ</t_youtube>
+          <t_horario>Del 21 de marzo al 20 de junio, martes, miércoles, jueves de 09:00 a 18:00; viernes, sábados de 09:00 a 21:00. Domingos, festivos y lunes víspera de festivo, de 9:00 a 15:00 horas.
+Lunes cerrado (excepto víspera de festivo).
+.$$ Del 21 de junio al 20 de septiembre, martes a sábado de 09:00 a 15:00. Domingos, festivos y lunes víspera de festivo, de 9:00 a 15:00 horas.
+Lunes cerrado (excepto víspera de festivo).$$ Del 21 de septiembre al 20 de marzo, martes a sábado de 09:00 a 18:00. Domingos, festivos y lunes víspera de festivo, de 9:00 a 15:00 horas. 
+Lunes cerrado (excepto víspera de festivo).
+
+$$
+FESTIVOS CON APERTURA:
+28 de febrero
+/ 6 de abril
+/ 7 de abril
+/ 15 de agosto
+/ 12 de octubre
+/ 1 de noviembre
+/ 6 de diciembre
+/ 8 de diciembre
+/ 2 días de festivos locales
+
+$$
+LUNES DE APERTURA POR SER FESTIVO O VÍSPERA DE FESTIVO:
+27 de febrero
+/ 14 de agosto
+/ 2 de enero
+
+$$
+FESTIVOS DE CIERRE:
+1 de enero
+/ 6 de enero
+/ 1 de mayo
+/ 24 de diciembre
+/ 25 de diciembre
+/ 31 de diciembre.</t_horario>
+          <x_provincia>41</x_provincia>
+          <t_longitud>-5,650357</t_longitud>
+          <t_orden_directorio>256</t_orden_directorio>
+          <c_ine_municipio>41024</c_ine_municipio>
+          <x_tipo_unidad>3</x_tipo_unidad>
+          <t_nombre_mapa>Conjunto Arqueológico de Carmona</t_nombre_mapa>
+          <t_facebook>http://www.facebook.com/pages/Conjunto-Arqueol%C3%B3gico-de-Carmona/123341161023683?ref=ts</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2587</_id>
+      <sort xmlns="">1674740105730</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2615</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2615</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>23</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2615</datasetcollectionresourceid>
+          <t_latitud>38,010513</t_latitud>
+          <t_nombre_directorio>Museo Arqueológico de Úbeda</t_nombre_directorio>
+          <c_ine_localidad>230920005</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2489</x_localidad>
+          <t_localidad>Úbeda</t_localidad>
+          <t_codigo_postal>23400</t_codigo_postal>
+          <t_telefono>953 108 623</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Úbeda</t_municipio>
+          <modified>2023-01-26T09:33:16.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Arqueológico de Úbeda</t_unidad>
+          <t_fax>953 108 721</t_fax>
+          <t_direccion>Casa Mudéjar Calle Cervantes  6, 23400 Úbeda (Jaén)</t_direccion>
+          <t_email>museoarqueologicoubeda.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Jaén</t_provincia>
+          <identifier>2615</identifier>
+          <x_direccion>2615</x_direccion>
+          <x_municipio>3583</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2615</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museoarqueologicodeubeda</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>Cerrado 1y 6 de enero, 1 de mayo y 24,  25 y 31 de diciembre</t_observaciones>
+          <t_horario>Del 16 de junio al 15 de septiembre, martes a domingo y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales.$$ Del 16 de septiembre al 15 de junio, martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto lunes víspera de festivo que abre con horario de festivo. 
+Abierto todos los festivos, incluso los locales. 
+Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>23</x_provincia>
+          <t_longitud>-3,3679225</t_longitud>
+          <t_orden_directorio>322</t_orden_directorio>
+          <c_ine_municipio>23092</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Arqueológico de Úbeda</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2615</_id>
+      <sort xmlns="">1674718422543</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-5652</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-5652</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>23</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/5652</datasetcollectionresourceid>
+          <t_latitud>37,77862062</t_latitud>
+          <t_nombre_directorio>Museo Íbero</t_nombre_directorio>
+          <c_ine_localidad>230500009</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2357</x_localidad>
+          <t_localidad>Jaén</t_localidad>
+          <t_codigo_postal>23007</t_codigo_postal>
+          <t_telefono>953001692</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Jaén</t_municipio>
+          <modified>2023-01-26T09:32:36.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/Museo_Ibero</t_twitter>
+          <t_responsable>Concepción Choclán Sabina</t_responsable>
+          <t_unidad>Museo Íbero</t_unidad>
+          <t_direccion>Paseo de la estación 41, 23007 Jaén</t_direccion>
+          <t_email>museoiberojaen.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Jaén</t_provincia>
+          <identifier>5652</identifier>
+          <x_direccion>5484</x_direccion>
+          <x_municipio>3543</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/5652</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museoibero</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/channel/UCTVpOduYXNAh6fzM2LR4N8g</t_youtube>
+          <t_horario>Del 16 de junio al 15 de septiembre, martes a domingo y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales.$$ Del 16 de septiembre al 15 de junio, martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo.
+Abierto todos los festivos, incluso los locales. 
+Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>23</x_provincia>
+          <t_longitud>-3,78988318</t_longitud>
+          <t_orden_directorio>349</t_orden_directorio>
+          <c_ine_municipio>23050</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/museoiberojaen/</t_instagram>
+          <t_nombre_mapa>Museo Íbero</t_nombre_mapa>
+          <t_facebook>https://www.facebook.com/MuseoIberodeJaen/</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-5652</_id>
+      <sort xmlns="">1674718419314</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2639</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2639</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>21</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2639</datasetcollectionresourceid>
+          <t_latitud>37,254498</t_latitud>
+          <t_nombre_directorio>Museo de Huelva</t_nombre_directorio>
+          <c_ine_localidad>210410001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2097</x_localidad>
+          <t_localidad>Huelva</t_localidad>
+          <t_codigo_postal>21003</t_codigo_postal>
+          <t_linkedin>https://www.linkedin.com/company/museo-de-huelva/about/</t_linkedin>
+          <t_telefono>959 650 424 / 959 650 426</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Huelva</t_municipio>
+          <modified>2023-01-24T13:24:10.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/museodehuelva</t_twitter>
+          <t_responsable>Julia Elena Aguilera Collado</t_responsable>
+          <t_unidad>Museo de Huelva</t_unidad>
+          <t_fax>959 650 425</t_fax>
+          <t_direccion>Alameda Sundheim 13, 21003 Huelva</t_direccion>
+          <t_email>museohuelva.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Huelva</t_provincia>
+          <identifier>2639</identifier>
+          <x_direccion>2639</x_direccion>
+          <x_municipio>3255</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2639</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museodehuelva</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/channel/UCqPSkhhXrCAi4tAmLDhvgEw/</t_youtube>
+          <t_horario>Martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo. Abierto todos los festivos, incluso los locales.
+Festivos cerrado: 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>21</x_provincia>
+          <t_longitud>-6,943661</t_longitud>
+          <t_orden_directorio>342</t_orden_directorio>
+          <c_ine_municipio>21041</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/museohuelva/?hl=es</t_instagram>
+          <t_nombre_mapa>Museo de Huelva</t_nombre_mapa>
+          <t_facebook>https://es-es.facebook.com/museo.huelva/</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2639</_id>
+      <sort xmlns="">1674638913266</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2622</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2622</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tumbler>http://museoalmeria.tumblr.com/</t_tumbler>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>04</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2622</datasetcollectionresourceid>
+          <t_latitud>36,838226</t_latitud>
+          <t_nombre_directorio>Museo de Almería</t_nombre_directorio>
+          <c_ine_localidad>040130001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>314</x_localidad>
+          <t_localidad>Almería</t_localidad>
+          <t_codigo_postal>04005</t_codigo_postal>
+          <t_linkedin>https://www.linkedin.com/in/museo-de-almer%C3%ADa-7b7b601b7/</t_linkedin>
+          <t_telefono>950 016 256</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Almería</t_municipio>
+          <modified>2023-01-24T13:23:06.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/MuseoAlmeria</t_twitter>
+          <t_flickr>http://www.flickr.com/photos/museoalmeria</t_flickr>
+          <t_unidad>Museo de Almería</t_unidad>
+          <t_pinterest>http://www.pinterest.com/MuseoAlmeria</t_pinterest>
+          <t_fax>950 800 418</t_fax>
+          <t_direccion>Carretera de Ronda 91, Entrada por Calle Hermanos Pinzón, 04005 Almería</t_direccion>
+          <t_email>museoalmeria.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Almería</t_provincia>
+          <identifier>2622</identifier>
+          <x_direccion>2622</x_direccion>
+          <x_municipio>292</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2622</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museodealmeria</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>http://www.youtube.com/user/MuseodeAlmeria</t_youtube>
+          <t_horario>Martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. 
+Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo. Abierto todos los festivos, incluso los locales.                                                         
+Cerrado 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>4</x_provincia>
+          <t_longitud>-2,4553318</t_longitud>
+          <t_orden_directorio>328</t_orden_directorio>
+          <t_issuu>https://issuu.com/museodealmeria</t_issuu>
+          <c_ine_municipio>04013</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/museoalmeria/</t_instagram>
+          <t_nombre_mapa>Museo de Almería</t_nombre_mapa>
+          <t_facebook>https://www.facebook.com/MuseoAlmeria</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2622</_id>
+      <sort xmlns="">1674638364954</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2633</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2633</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>11</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2633</datasetcollectionresourceid>
+          <t_latitud>36,535378</t_latitud>
+          <t_nombre_directorio>Museo de Cádiz</t_nombre_directorio>
+          <c_ine_localidad>110120001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>929</x_localidad>
+          <t_localidad>Cádiz</t_localidad>
+          <t_codigo_postal>11004</t_codigo_postal>
+          <t_telefono>856 105 034 / 856 105 023</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Cádiz</t_municipio>
+          <modified>2023-01-24T13:23:23.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/MuseoCadiz</t_twitter>
+          <t_responsable>Juan Ignacio  Vallejo  Sánchez</t_responsable>
+          <t_unidad>Museo de Cádiz</t_unidad>
+          <t_fax>856 580 079</t_fax>
+          <t_direccion>Plaza de Mina s/n, 11004 Cádiz</t_direccion>
+          <t_email>museocadiz.ccul@juntadeandalucia.es</t_email>
+          <t_provincia>Cádiz</t_provincia>
+          <identifier>2633</identifier>
+          <x_direccion>2633</x_direccion>
+          <x_municipio>1774</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2633</icmsId>
+          <t_pagina_web>http://www.museosdeandalucia.es/web/museodecadiz</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_youtube>https://www.youtube.com/channel/UCO9d1TbRWk5siq8zGYVf7JQ/featured</t_youtube>
+          <t_horario>Martes a sábado de 09:00 a 21:00; domingos y festivos de 09:00 a 15:00. 
+Lunes cerrado, excepto los lunes víspera de festivo, que abre con horario de festivo. Abierto todos los festivos, incluso los locales.
+Cerrado: 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.</t_horario>
+          <x_provincia>11</x_provincia>
+          <t_longitud>-6,2965293</t_longitud>
+          <t_orden_directorio>340</t_orden_directorio>
+          <c_ine_municipio>11012</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/museodecadiz/</t_instagram>
+          <t_nombre_mapa>Museo de Cádiz</t_nombre_mapa>
+          <t_facebook>https://www.facebook.com/museocadiz/</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2633</_id>
+      <sort xmlns="">1674637000449</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2714</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2714</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>11</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2714</datasetcollectionresourceid>
+          <t_latitud>36,62028</t_latitud>
+          <t_nombre_directorio>Museo Ruiz Mateos</t_nombre_directorio>
+          <c_ine_localidad>110300004</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1021</x_localidad>
+          <t_localidad>Rota</t_localidad>
+          <t_codigo_postal>11520</t_codigo_postal>
+          <t_telefono>956 841 251</t_telefono>
+          <t_estado>CTEMP</t_estado>
+          <t_municipio>Rota</t_municipio>
+          <modified>2019-05-28T14:08:52.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Ruiz Mateos</t_unidad>
+          <t_fax>956 813 450</t_fax>
+          <t_direccion>Calle Isaac Peral 29, 11520 Rota (Cádiz)</t_direccion>
+          <t_email>museoruizmateos@gmail.com</t_email>
+          <t_provincia>Cádiz</t_provincia>
+          <identifier>2714</identifier>
+          <x_direccion>2714</x_direccion>
+          <x_municipio>1792</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2714</icmsId>
+          <t_pagina_web>http://www.museoruizmateos.org</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>La Fundación Alcalde Zoilo Ruiz-Mateos se crea en el año 1978 bajo el patrocinio de la familia Ruiz-Mateos Jiménez de Tejada, con fines culturales, especialmente en el campo de las artes plásticas, la música y la literatura, convocando los premios ¿Villa de Rota¿ en estas tres vertientes. Su colección de Arte Contemporáneo, se nutre de estos certámenes y de las donaciones de los expositores, que hacen uso de sus salas de exposiciones. En total, 102 obras componen su patrimonio.
+Su ubicación se hace en una casa solariega de la citada familia Ruiz-Mateos, habilitada y recuperada para este fin, que conserva sus bases y estructuras del año 1865.</t_observaciones>
+          <t_horario>Cerrado.</t_horario>
+          <x_provincia>11</x_provincia>
+          <t_longitud>-6,3585925</t_longitud>
+          <c_ine_municipio>11030</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Ruiz Mateos</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2714</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2704</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2704</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>14</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2704</datasetcollectionresourceid>
+          <t_latitud>37,876663</t_latitud>
+          <c_ine_localidad>140210009</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1341</x_localidad>
+          <t_localidad>Córdoba</t_localidad>
+          <t_codigo_postal>14009</t_codigo_postal>
+          <t_telefono>957 29 39 29</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Córdoba</t_municipio>
+          <modified>2022-04-21T15:06:13.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Vivo de Al-Andalus Torre de la Calahorra</t_unidad>
+          <t_fax>957 20 26 77</t_fax>
+          <t_direccion>Torre de la Calahorra Puente Romano s/n, 14009 Córdoba</t_direccion>
+          <t_email>torrecalahorra@torrecalahorra.com</t_email>
+          <t_provincia>Córdoba</t_provincia>
+          <identifier>2704</identifier>
+          <x_direccion>2704</x_direccion>
+          <x_municipio>2063</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2704</icmsId>
+          <t_pagina_web>http://www.torrecalahorra.com</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>Desde 1955 se encontraba en este edificio (una torre musulmana) el Museo Histórico Municipal de Córdoba. Sin embargo, en 1987 el Ayuntamiento cedió el uso del inmueble por 49 años a la Fundación Garaudy que instaló un museo dedicado a la Córdoba medieval. Con medios audiovisuales se evoca la historia de Córdoba y Andalucía durante los siglos IX al XIII, presentando una panorámica cultural del apogeo medieval de Córdoba, destacando la tolerancia y el respeto que presidía la convivencia de las tres culturas, cristiana, judía y musulmana, y aspectos de la vida cotidiana, costumbres y ciencia. El recorrido por el Museo se realiza haciendo uso de un auricular inalámbrico que se le entrega a cada visitante en la recepción y mediante el cual, a modo de guía, podrá escuchar las evocaciones históricas, permitiendo una gran autonomía y total libertad de desplazamiento por cualquiera de las salas. Los comentarios pueden recibirse en español, francés, inglés o alemán.</t_observaciones>
+          <t_horario>Lunes a domingo y festivos de 10:00 a 18:00.</t_horario>
+          <x_provincia>14</x_provincia>
+          <t_longitud>-4,7779408</t_longitud>
+          <c_ine_municipio>14021</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Torre de la Calahorra</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2704</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2716</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2716</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>29</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2716</datasetcollectionresourceid>
+          <t_latitud>36,77569</t_latitud>
+          <c_ine_localidad>290670005</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2781</x_localidad>
+          <t_localidad>Málaga</t_localidad>
+          <t_codigo_postal>29008</t_codigo_postal>
+          <t_telefono>952 22 79 90</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Málaga</t_municipio>
+          <modified>2022-04-21T21:10:15.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo del Vino</t_unidad>
+          <t_fax>952 227 990</t_fax>
+          <t_direccion>Plaza de los Viñeros, 29008 Málaga</t_direccion>
+          <t_email>info@museovinomalaga.com</t_email>
+          <t_provincia>Málaga</t_provincia>
+          <identifier>2716</identifier>
+          <x_direccion>2716</x_direccion>
+          <x_municipio>4521</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2716</icmsId>
+          <t_pagina_web>https://museovinomalaga.com/</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>La cultura del vino ha estado íntimamente ligada a todos los pueblos mediterráneos y a Málaga en particular, como productora de uno de los vinos más universales. Desde los fenicios hasta nuestros días el vino ha formado parte de la forma de vida de los malagueños, además de ser uno de los pilares fundamentales del agro malacitano contribuyendo de forma destacada al desarrollo económico de la provincia.
+El museo dispone de tres zonas de exposición, dos de las cuales están dedicadas a etiquetas, litografías, botellas antiguas y otras piezas. Mientras que la tercera explica la historia del vino en Málaga. 
+El museo se sustenta en una importante colección de etiquetas de vino, litografías y material gráfico de finales del s. XIX y principios del s. XX, así como en piezas de arqueología industrial y otras de carácter histórico o pedagógico.
+Este Museo del Vino cuenta con un centro de interpretación en el que se trata la historia, las zonas de producción y sus características orográficas, la elaboración y los tipos de vinos, una sala de cata, un aula de formación y un taller sensorial para conocer la percepción del vino a través de los sentidos. Pretende ser un espacio museístico en el que convivan la historia, la cultura y la formación en torno a los vinos de la provincia.</t_observaciones>
+          <t_horario>Lunes a viernes de 10:30 a 17:30; sábados de 10:00 a 14:00. Cerrado: Días festivos, los días 1 y 6 de enero; 24, 25 y 31 de diciembre; Jueves Santo y Viernes Santo.</t_horario>
+          <x_provincia>29</x_provincia>
+          <t_longitud>-4,18578</t_longitud>
+          <c_ine_municipio>29067</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo del Vino de Málaga</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2716</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2717</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2717</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>14</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2717</datasetcollectionresourceid>
+          <t_latitud>37,88119</t_latitud>
+          <c_ine_localidad>140210009</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1341</x_localidad>
+          <t_localidad>Córdoba</t_localidad>
+          <t_codigo_postal>14002</t_codigo_postal>
+          <t_telefono>957 470 356</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Córdoba</t_municipio>
+          <modified>2022-04-21T13:59:37.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Julio Romero de Torres</t_unidad>
+          <t_fax>957 204 333</t_fax>
+          <t_direccion>Plaza del Potro 1-4, 14002 Córdoba</t_direccion>
+          <t_email>museos@ayuncordoba.es</t_email>
+          <t_provincia>Córdoba</t_provincia>
+          <identifier>2717</identifier>
+          <x_direccion>2717</x_direccion>
+          <x_municipio>2063</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2717</icmsId>
+          <t_pagina_web>http://www.ayuncordoba.es</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El edificio que alberga el Museo Julio Romero de Torres, ubicado en la Plaza del Potro, forma parte del que fue el antiguo Hostpital de la Caridad patrocinado por los Reyes Católicos a finales del siglo XV y atendido por la orden franciscana. A partir de 1837, pasó a pertenecer a la Diputación Provincial y diversas instituciones culturales ocuparon su espacio: sede de la Academia, Comisión de Monumentos, biblioteca y dependencias del Museo y Escuela Provincial de Bellas Artes. A la muerte de Julio Romero de Torres, el 10 de mayo de 1930, su viuda e hijos donaron al pueblo de Córdoba, depositario su Ayuntamiento, los lienzos del artista que habían participado en la Exposición Iberoamericana de 1929 para crear un Museo en su memoria. Sus fondos se nutrieron con donaciones y depósitos de particulares y con las obras y mobiliario del estudio del pintor en Madrid. Este Museo contiene una colección con los cuadros más emblemáticos de su producción: Nuestra Señora de Andalucía, Poema a Córdoba, El Pecado, La Nieta de la Trini, La Chiquita Piconera, entre otros. Esculturas y mobiliario del estudio del pintor completan este museo monográfico dedicado a uno de los atistas que más ha contribuido a enriquecer la pintura española del siglo XX.</t_observaciones>
+          <t_horario>Del 16 de junio al 15 de septiembre, martes a domingo y festivos de 10:00 a 17:00.$$ Del 16 de septiembre al 15 de junio, martes a sábado de 10:00 a 20:30; domingos y festivos de 10:00 a 17:00.</t_horario>
+          <x_provincia>14</x_provincia>
+          <t_longitud>-4,7749467</t_longitud>
+          <c_ine_municipio>14021</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Julio Romero de Torres</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2717</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2719</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2719</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>21</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2719</datasetcollectionresourceid>
+          <t_latitud>37,70478</t_latitud>
+          <c_ine_localidad>210490004</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2124</x_localidad>
+          <t_localidad>Minas de Riotinto</t_localidad>
+          <t_codigo_postal>21660</t_codigo_postal>
+          <t_telefono>959 590 025 / 959 591 015</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Minas de Riotinto</t_municipio>
+          <modified>2019-08-23T14:07:49.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Ernest Lluch</t_unidad>
+          <t_fax>959 591 074</t_fax>
+          <t_direccion>Plaza del Museo s/n, 21660 Minas de Riotinto (Huelva)</t_direccion>
+          <t_email>museomineroderiotinto@telefonica.net</t_email>
+          <t_provincia>Huelva</t_provincia>
+          <identifier>2719</identifier>
+          <x_direccion>2719</x_direccion>
+          <x_municipio>3263</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2719</icmsId>
+          <t_pagina_web>http://www.parquemineroderiotinto.com</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El Museo Minero se encuentra ubicado en el antiguo Hospital de la empresa británica Río Tinto Company Limited. En él se recoge la cultura material de todos y cada uno de los momentos históricos de la Cuenca Minera, desde la Edad del Cobre a la arqueología industrial del siglo XIX y XX. Posee a su vez, una amplia colección geológica muy representativa de estas tierras. En la exposición permanente se presentan, en primer lugar, el proyecto y la línea de trabajo llevados a cabo por esta Fundación, para luego pasar a realizar un recorrido por las características medioambientales y geológicas de la comarca antes de adentrarse en la historia de región. Cuenta con innumerables piezas en relación con la minería y la metalurgia de todos los tiempos, así como otras de arqueología industrial emblemáticas, como el vagón del Maharajah, fabricado para la reina Victoria de Inglaterra; una locomotora grúa tipo N, utilizada en casos de descarrilamiento, y una locomotora tipo K, la última de vapor que estuvo en funcionamiento. El Museo Minero se encuentra integrado en el Parque Turístico Minero, donde se puede completar la visita con un viaje en un ferrocarril de finales del siglo XIX, o la contemplación de Corta Atalaya, la mina a cielo abierto más grande de Europa.</t_observaciones>
+          <t_horario>Lunes a domingo y festivos de 10:30 a 15:00 y de 16:00 a 19:00.</t_horario>
+          <x_provincia>21</x_provincia>
+          <t_longitud>-6,5836773</t_longitud>
+          <c_ine_municipio>21049</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Minero de Riotinto</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2719</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2709</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2709</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>18</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2709</datasetcollectionresourceid>
+          <t_latitud>37,18201</t_latitud>
+          <c_ine_localidad>180870004</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1645</x_localidad>
+          <t_localidad>Granada</t_localidad>
+          <t_codigo_postal>18010</t_codigo_postal>
+          <t_telefono>958 215 120</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Granada</t_municipio>
+          <modified>2022-04-19T20:41:23.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Cuevas del Sacromonte</t_unidad>
+          <t_direccion>Barranco de los Negros s/n, 18010 Granada</t_direccion>
+          <t_email>info@sacromontegranada.com</t_email>
+          <t_provincia>Granada</t_provincia>
+          <identifier>2709</identifier>
+          <x_direccion>2709</x_direccion>
+          <x_municipio>2745</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2709</icmsId>
+          <t_pagina_web>http://www.sacromontegranada.com</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El Museo hace un recorrido por la cultura y la historia del Sacromonte, para una mayor comprensión de este barrio. Este Museo etnográfico y medio-ambiental nos acerca a sus antiguos oficios y su relación con el entorno, aproximándose a su forma de vida. 
+El desarrollo argumental del museo se realiza a través de recreaciones de cada una de las cuevas que lo componen.</t_observaciones>
+          <t_horario>Del 1 de abril al 31 de octubre, martes a domingo de 10:00 a 14:00 y de 17:00 a 21:00. de Martes  a Domingo de 10:00 a 14:00 y de 17:00 a 21:00.$$ Del 1 de noviembre al 31 de marzo, martes a domingo de 10:00 a 14:00 y de 16:00 a 19:00. de Martes  a Domingo de 10:00 a 14:00 y de 16:00 a 19:00.</t_horario>
+          <x_provincia>18</x_provincia>
+          <t_longitud>-3,5840142</t_longitud>
+          <c_ine_municipio>18087</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Cuevas del Sacromonte</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2709</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2693</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2693</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>18</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2693</datasetcollectionresourceid>
+          <t_latitud>37,490498</t_latitud>
+          <c_ine_localidad>180230003</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1518</x_localidad>
+          <t_localidad>Baza</t_localidad>
+          <t_codigo_postal>18800</t_codigo_postal>
+          <t_telefono>958 861 947</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Baza</t_municipio>
+          <modified>2022-04-19T21:18:56.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Municipal de Baza</t_unidad>
+          <t_fax>958 861 947</t_fax>
+          <t_direccion>Plaza Mayor 1, 18800 Baza (Granada)</t_direccion>
+          <t_email>museo@ayuntamientodebaza.es</t_email>
+          <t_provincia>Granada</t_provincia>
+          <identifier>2693</identifier>
+          <x_direccion>2693</x_direccion>
+          <x_municipio>2691</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2693</icmsId>
+          <t_pagina_web>http://www.ayuntamientodebaza.es</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El Museo se estructura en cuatro salas de exposición permanente y una quinta sala dedicada a exposiciones temporales. La sala I está dedicada a la Prehistoria reciente (neolítico, cobre, bronce y primeras colonizaciones). La sala II acoge la cultura ibérica. La sala III, la época romana y, por último, en la sala IV se exponen los materiales del periodo árabe y la edad moderna. Los fondos del Museo son en su mayoría de carácter arqueológico, si bien posee otras piezas de gran valor histórico, artístico y documental relacionadas con la ciudad de Baza.</t_observaciones>
+          <t_horario>Del 21 de junio al 22 de septiembre, martes de 10:00 a 14:00; miércoles, jueves, viernes de 10:00 a 14:00 y de 18:00 a 19:30; sábados, domingos y festivos de 11:00 a 14:00.$$ Del 23 de septiembre al 20 de junio, martes de 09:30 a 13:30; miércoles, jueves, viernes de 09:30 a 13:30 y de 16:00 a 17:30; sábados, domingos y festivos de 11:00 a 14:00.</t_horario>
+          <x_provincia>18</x_provincia>
+          <t_longitud>-2,7746704</t_longitud>
+          <c_ine_municipio>18023</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Municipal de Baza</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2693</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2684</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2684</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>18</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2684</datasetcollectionresourceid>
+          <t_latitud>37,721386</t_latitud>
+          <c_ine_localidad>181460002</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1794</x_localidad>
+          <t_localidad>Orce</t_localidad>
+          <t_codigo_postal>18858</t_codigo_postal>
+          <t_telefono>958 746 171 / 958 746 358 / 958 74 61 01</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Orce</t_municipio>
+          <modified>2022-05-09T15:30:15.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo de Prehistoria y Paleontología de Orce</t_unidad>
+          <t_fax>958 746 171</t_fax>
+          <t_direccion>Castillo-Alcazaba de las Siete Torres Calle las Tiendas s/n, 18858 Orce (Granada)</t_direccion>
+          <t_email>oficinadeturismo@orce.es / info@orce.es</t_email>
+          <t_provincia>Granada</t_provincia>
+          <identifier>2684</identifier>
+          <x_direccion>2684</x_direccion>
+          <x_municipio>2792</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2684</icmsId>
+          <t_pagina_web>http://www.orce.es</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_horario>Del 1 de junio al 30 de septiembre, martes a domingo de 10:00 a 14:00 y de 17:00 a 21:00. de Martes  a Domingo de 10:00 a 14:00 y de 17:00 a 21:00.$$ Del 1 de octubre al 31 de mayo, martes a domingo de 10:00 a 14:00 y de 16:00 a 18:00. de Martes  a Domingo de 10:00 a 14:00 y de 16:00 a 18:00.</t_horario>
+          <x_provincia>18</x_provincia>
+          <t_longitud>-2,4790869</t_longitud>
+          <c_ine_municipio>18146</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo de Prehistoria y Paleontología de Orce</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2684</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2685</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2685</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>14</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2685</datasetcollectionresourceid>
+          <t_latitud>38,455208</t_latitud>
+          <c_ine_localidad>140720001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1247</x_localidad>
+          <t_localidad>Villaralto</t_localidad>
+          <t_codigo_postal>14490</t_codigo_postal>
+          <t_telefono>957 150 163</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Villaralto</t_municipio>
+          <modified>2019-08-08T15:02:29.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo del Pastor</t_unidad>
+          <t_fax>957 150 178</t_fax>
+          <t_direccion>Calle Buensuceso 17, 14490 Villaralto (Córdoba)</t_direccion>
+          <t_email>aytovillaralto@eprinsa.es</t_email>
+          <t_provincia>Córdoba</t_provincia>
+          <identifier>2685</identifier>
+          <x_direccion>2685</x_direccion>
+          <x_municipio>2114</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2685</icmsId>
+          <t_pagina_web>http://www.museodelpastor.com</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El Museo del Pastor de Villaralto es una institución cultural de este municipio, orientada en especial al legado etnológico relacionado con el pastoreo, trasmitido por múltiples generaciones de villaralteros que hicieron de esa actividad el modus vivendi durante gran parte de su historia  y que es preciso conservar.
+Este museo abarca todos y cada uno de los aspectos relacionados con el pastoreo, desde una breve introducción histórica a los condicionamientos geográficos y humanos para la dedicación de este tipo de actividad, así como su cultura material, espiritual, forma de vida, etc.</t_observaciones>
+          <t_horario>Del 1 de julio al 31 de agosto, viernes, sábados de 18:00 a 20:00; domingos de 12:00 a 14:00. Viernes, Sábado; de 18:00 a 20:00; Domingo de 12:00 a 14:00.$$ Del 1 de septiembre al 30 de junio, viernes de 16:00 a 18:00; sábados de 12:00 a 14:00 y de 16:00 a 18:00. Viernes; de 16:00 a 18:00; Sábado de 12:00 a 14:00 y de 16:00 a 18:00.</t_horario>
+          <x_provincia>14</x_provincia>
+          <t_longitud>-4,983828</t_longitud>
+          <c_ine_municipio>14072</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo del Pastor</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2685</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2697</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2697</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>14</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2697</datasetcollectionresourceid>
+          <t_latitud>37,66732</t_latitud>
+          <c_ine_localidad>140490009</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1149</x_localidad>
+          <t_localidad>Palma del Río</t_localidad>
+          <t_codigo_postal>14700</t_codigo_postal>
+          <t_telefono>957 645 883</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Palma del Río</t_municipio>
+          <modified>2022-04-21T14:30:01.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Municipal de Palma del Río</t_unidad>
+          <t_fax>957 644 550</t_fax>
+          <t_direccion>Calle Cardenal Portocarrero s/n, 14700 Palma del Río (Córdoba)</t_direccion>
+          <t_email>museo@palmadelrio.es</t_email>
+          <t_provincia>Córdoba</t_provincia>
+          <identifier>2697</identifier>
+          <x_direccion>2697</x_direccion>
+          <x_municipio>2091</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2697</icmsId>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El Museo se encuentra ubicado en las antiguas caballerizas del Palacio de los Portocarrero. La colección se distribuyen en tres Secciones: Arqueología, Etnología y Bellas Artes. En la Sección de Arqueología se exhiben materiales del Paleolítico Inferior y se desarrolla a través de los períodos Calcolítico (materiales funerarios de La Serrezuela de Posadas), Edad de Bronce (amplia tipología de cerámica), Ibérico (cerámica y utensilios en bronce e hierro), Época Romana (ánforas globulares para la comercialización del aceite, inscripciones y un sarcófago de plomo), Tardorromano y Visigodo (cerámicas y hebillas) y Musulmán (vestigios encontrados en el recinto amurallado de Palma). La Sección de Etnología se encuentra estructurada en torno a lo que se denominan centros de producción, como el cortijo y la hacienda, el alfar, el hogar y la huerta. La tercera exposición permanente del Museo está constituida por fondos pictóricos, escultóricos, grabados, obra gráfica, instalaciones, etc. Los autores proceden tanto del entorno local y comarcal como de otros puntos de nuestra geografía nacional. Esta Sección se encuentra dividida en tres espacios: Un breve recorrido del arte del presente siglo; obra sobre papel, y, finalmente, arte de las últimas décadas. El Museo cuenta también con una reciente sala de exposición permanente dedicada a la tauromaquia local.</t_observaciones>
+          <t_horario>Lunes a viernes de 08:00 a 15:00.</t_horario>
+          <x_provincia>14</x_provincia>
+          <t_longitud>-5,3311653</t_longitud>
+          <c_ine_municipio>14049</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Municipal de Palma del Río</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2697</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2687</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2687</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>14</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2687</datasetcollectionresourceid>
+          <t_latitud>38,476006</t_latitud>
+          <c_ine_localidad>140620001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1232</x_localidad>
+          <t_localidad>Torrecampo</t_localidad>
+          <t_codigo_postal>14410</t_codigo_postal>
+          <t_telefono>957 155 004</t_telefono>
+          <t_estado>CTEMP</t_estado>
+          <t_municipio>Torrecampo</t_municipio>
+          <modified>2022-04-21T14:54:54.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo PRASA Torrecampo</t_unidad>
+          <t_fax>957 155 004</t_fax>
+          <t_direccion>Calle del Mudo s/n, 14410 Torrecampo (Córdoba)</t_direccion>
+          <t_email>direccion@museoprasa.com</t_email>
+          <t_provincia>Córdoba</t_provincia>
+          <identifier>2687</identifier>
+          <x_direccion>2687</x_direccion>
+          <x_municipio>2104</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2687</icmsId>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El museo está formado por una colección que incluye piezas de arqueología, pintura, escultura y enseres domésticos, así como numerosos vestigios de épocas anteriores recuperados en la comarca. La colección se alberga actualmente en una antigua posada de las numerosas que jalonaban el Camino Real a su paso por la Villa. El edificio es del siglo XV y guarda la estructura tradicional de las casas de la zona. Presenta una portada renacentista de principios del siglo XVI, un peristilo con bello capitel gótico, la típica cocina matancera de los Pedroches y los artesonados procedentes del derribo de las salas capitulares de los Ayuntamientos de Dos Torres y Pedroche. Su romántico patio, rodeado de cipreses, se halla solado con un gran mosaico del país, presentando un porche con columnas y capitel en forma de flor de lis. Embellece al conjunto una gran reja del siglo XVI. 
+Actualmente se está procediendo a la construcción de un edificio de nueva planta donde se ubicarán las salas de exposiciones y los diversos servicios del museo  (salón de actos, aula didáctica, sala de exposiciones temporales, salas de reserva,¿) dejando la posada como una de las más destacadas ¿piezas¿ de la nueva muestra.</t_observaciones>
+          <x_provincia>14</x_provincia>
+          <t_longitud>-4,6782637</t_longitud>
+          <c_ine_municipio>14062</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Prasa de Torrecampo</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2687</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2699</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2699</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>29</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2699</datasetcollectionresourceid>
+          <t_latitud>36,737793</t_latitud>
+          <c_ine_localidad>290840013</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2569</x_localidad>
+          <t_localidad>Ronda</t_localidad>
+          <t_codigo_postal>29400</t_codigo_postal>
+          <t_telefono>952 870 818</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Ronda</t_municipio>
+          <modified>2019-08-26T15:08:57.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Municipal de Ronda</t_unidad>
+          <t_fax>952 161 102</t_fax>
+          <t_direccion>Palacio de Mondragón Plaza de Mondragón s/n, 29400 Ronda (Málaga)</t_direccion>
+          <t_email>museoderonda@gmail.com</t_email>
+          <t_provincia>Málaga</t_provincia>
+          <identifier>2699</identifier>
+          <x_direccion>2699</x_direccion>
+          <x_municipio>4537</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2699</icmsId>
+          <t_pagina_web>http://www.museoderonda.es</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>En el Museo Municipal de Ronda se muestran aspectos de la historia local, la riqueza ambiental del territorio y aspectos etnográficos de interés. Además, el Museo cuenta con servicio de información turística, sala de exposiciones y conferencias. 
+El edificio, del siglo XVI y de gran valor histórico y arquitectónico, cuenta con bellos espacios ajardinados interiores con excelentes panorámicas y tres patios de gran valor artístico, destacando su patio mudéjar.</t_observaciones>
+          <t_horario>Del 21 de marzo al 22 de septiembre, lunes a viernes de 10:00 a 19:00; sábados de 10:00 a 13:45 y de 16:00 a 19:00; domingos y festivos de 10:00 a 15:00.$$ Del 23 de septiembre al 20 de marzo, lunes a viernes de 10:00 a 18:00.</t_horario>
+          <x_provincia>29</x_provincia>
+          <t_longitud>-5,166709</t_longitud>
+          <c_ine_municipio>29084</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Municipal de Ronda</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2699</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2700</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2700</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>11</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2700</datasetcollectionresourceid>
+          <t_latitud>36,209843</t_latitud>
+          <c_ine_localidad>110330007</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1039</x_localidad>
+          <t_localidad>San Roque</t_localidad>
+          <t_codigo_postal>11360</t_codigo_postal>
+          <t_telefono>956 781 587</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>San Roque</t_municipio>
+          <modified>2019-06-25T13:45:04.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Municipal de San Roque</t_unidad>
+          <t_fax>956 782 634</t_fax>
+          <t_direccion>Calle San Felipe 10, 11360 San Roque (Cádiz)</t_direccion>
+          <t_email>fmc.irenea@sanroque.es</t_email>
+          <t_provincia>Cádiz</t_provincia>
+          <identifier>2700</identifier>
+          <x_direccion>4582</x_direccion>
+          <x_municipio>1795</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2700</icmsId>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El Museo es una fusión del Museo Monográfico Municipal de Carteia y el Museo Luis Ortega Bru. El objetivo de la sección de arqueología es mostrar los restos arqueológicos de la localidad pertenecientes al yacimiento púnico-romano de Carteia. En otra sección se muestra la obra del escultor Ortega Bru así como otros materiales de trabajo propios de la escultura y imaginería.</t_observaciones>
+          <x_provincia>11</x_provincia>
+          <t_longitud>-5,385019</t_longitud>
+          <c_ine_municipio>11033</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Municipal de San Roque</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2700</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2701</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2701</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>41</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2701</datasetcollectionresourceid>
+          <t_latitud>37,440483</t_latitud>
+          <c_ine_localidad>410890001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>213</x_localidad>
+          <t_localidad>Santiponce</t_localidad>
+          <t_codigo_postal>41970</t_codigo_postal>
+          <t_telefono>955 998 028</t_telefono>
+          <t_estado>CTEMP</t_estado>
+          <t_municipio>Santiponce</t_municipio>
+          <modified>2022-05-10T12:01:02.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Municipal de Santiponce "Fernando Marmolejo"</t_unidad>
+          <t_direccion>Calle la Feria s/n, Antiguo Matadero, junto al Teatro Romano, 41970 Santiponce (Sevilla)</t_direccion>
+          <t_email>turismosantiponce@dipusevilla.es, infoturismosantiponce@yahoo.es</t_email>
+          <t_provincia>Sevilla</t_provincia>
+          <identifier>2701</identifier>
+          <x_direccion>2701</x_direccion>
+          <x_municipio>6146</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2701</icmsId>
+          <t_pagina_web>https://www.santiponce.es/es/turismo/museo-municipal-fernando-marmolejo/</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El Museo Municipal de Santiponce se genera a raiz de la donación de un conjunto de piezas del orfebre Fernando Marmolejo, pero actualmente se ha fraguado un proyecto más ambicioso que incluye una sección arqueológica, una sección dedicada al Monasterio de San Isidoro del Campo y otra a la historia local.</t_observaciones>
+          <t_horario>Del 15 de junio al 14 de septiembre, lunes a viernes de 08:00 a 15:00.$$ Del 15 de septiembre al 14 de junio, lunes de 08:00 a 15:00; martes a viernes de 09:00 a 14:00 y de 16:00 a 18:00.</t_horario>
+          <x_provincia>41</x_provincia>
+          <t_longitud>-6,039832</t_longitud>
+          <c_ine_municipio>41089</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Municipal de Santiponce "Fernando Marmolejo"</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2701</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2690</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2690</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>29</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2690</datasetcollectionresourceid>
+          <t_latitud>36,352566</t_latitud>
+          <c_ine_localidad>290680005</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2784</x_localidad>
+          <t_localidad>Manilva</t_localidad>
+          <t_codigo_postal>29691</t_codigo_postal>
+          <t_telefono>952 893 092</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Manilva</t_municipio>
+          <modified>2021-09-01T12:53:52.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Arqueológico Municipal de Manilva</t_unidad>
+          <t_direccion>Castillo de la Duquesa Barriada El Castillo Km 149, Playa de Sabinillas a 100 m de la CN-340, 29691 Manilva (Málaga)</t_direccion>
+          <t_provincia>Málaga</t_provincia>
+          <identifier>2690</identifier>
+          <x_direccion>2690</x_direccion>
+          <x_municipio>4522</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2690</icmsId>
+          <collection>orbe_museos</collection>
+          <t_observaciones>Ocupa el lugar donde en otros tiempos hubo una villa romana,  cuyo material se reutilizó para su construcción.
+Las piezas arqueológicas del Museo provienen, en gran parte, del yacimiento romano del ¿Entorno del Castillo de la Duquesa¿, que rodea al edificio y que está compuesto por termas, villa, industrias de salazón de pescado y necrópolis. 
+Hay también material del yacimiento arqueológico del ¿Cerro del Castillo, o Castillejos de Alcorrín¿, del Bronce Final Precolonial, auténtica fortaleza de grandes dimensiones que debió congregar a un amplio grupo de individuos, con grandes torres circulares y una gran muralla que rodea todo el recinto.
+Los momentos con  mayor potencialidad arqueológica son, por orden cronológico, Prehistoria, Roma y Edad Media.</t_observaciones>
+          <x_provincia>29</x_provincia>
+          <t_longitud>-5,2788925</t_longitud>
+          <c_ine_municipio>29068</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Arqueológico Municipal de Manilva</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2690</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2691</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2691</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>29</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2691</datasetcollectionresourceid>
+          <t_latitud>36,904945</t_latitud>
+          <c_ine_localidad>290430002</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2723</x_localidad>
+          <t_localidad>Colmenar</t_localidad>
+          <t_codigo_postal>29170</t_codigo_postal>
+          <t_telefono>952 730 584</t_telefono>
+          <t_estado>CTEMP</t_estado>
+          <t_municipio>Colmenar</t_municipio>
+          <modified>2019-08-26T11:04:39.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo de Historia y Tradiciones de Colmenar y los Montes de Málaga</t_unidad>
+          <t_fax>952 730 584</t_fax>
+          <t_direccion>Calle Imagen 19, 29170 Colmenar (Málaga)</t_direccion>
+          <t_email>museo.colmenar@gmail.com</t_email>
+          <t_provincia>Málaga</t_provincia>
+          <identifier>2691</identifier>
+          <x_direccion>2691</x_direccion>
+          <x_municipio>4497</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2691</icmsId>
+          <t_pagina_web>http://www.museodecolmenar.org</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El Museo quiere servir como medio de comunicación para explicar la relación evolutiva entre el paisaje y la historia agraria de la comarca, partiendo del hecho diferenciador de los modos de vida que se asocian a este singular paisaje de la sierra malagueña conocido como el complejo maláguide. El hilo conductor es la arquitectura rural agraria de la comarca montañosa de Colmenar y los Montes como espejo y agente modificador de una relación particular entre el hombre y el medio ambiente a través de las actividades productivas tradicionales de la viña, y en menor medida del olivar, el cereal, el ganado y la miel.
+El Museo pretende, no solo mostrar en todo su sencillo esplendor los edificios característicos de las explotaciones agrarias más propias -los lagares y lagarillos de montaña- ,sino ser un centro de investigación y documentación que rescate, conserve y difunda el valor histórico de este patrimonio abandonado y en peligro de desaparición ante el desarrollo urbanístico actual.</t_observaciones>
+          <t_horario>Cerrado por reforma</t_horario>
+          <x_provincia>29</x_provincia>
+          <t_longitud>-4,335388</t_longitud>
+          <c_ine_municipio>29043</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo de Historia y Tradiciones de Colmenar y los Montes de Málaga</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2691</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2692</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2692</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>29</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2692</datasetcollectionresourceid>
+          <t_latitud>36,9971</t_latitud>
+          <c_ine_localidad>290150001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2659</x_localidad>
+          <t_localidad>Antequera</t_localidad>
+          <t_codigo_postal>29200</t_codigo_postal>
+          <t_telefono>952 704 021</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Antequera</t_municipio>
+          <modified>2022-08-01T16:14:11.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo de la Ciudad de Antequera</t_unidad>
+          <t_fax>952 845 997</t_fax>
+          <t_direccion>Palacio Nájera Plaza del Coso Viejo s/n, 29200 Antequera (Málaga)</t_direccion>
+          <t_email>museo@antequera.es</t_email>
+          <t_provincia>Málaga</t_provincia>
+          <identifier>2692</identifier>
+          <x_direccion>2692</x_direccion>
+          <x_municipio>4469</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2692</icmsId>
+          <t_pagina_web>https://museoantequera.wordpress.com/</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El Museo Municipal de Antequera presenta un contenido mixto, en el que puede destacarse en primer lugar su sección de Arqueología, con numerosos vestigios del mundo romano, como el Efebo de Antequera. En cuanto a la sección de Bellas Artes, destaca la colección pictórica, con obras de Bocanegra, Mohedano o Juan Correa, y esculturas como el San Francisco de Pedro de Mena. También merece mención la importante colección de orfebrería.</t_observaciones>
+          <t_horario>Del 14 de junio al 17 de septiembre, martes a domingo de 09:00 a 14:00. Martes y miércoles, tardes de 19:00 a 21:00 horas (visitas exclusivas para grupos con reserva previa, mínimo 15 personas).$$ Del 18 de septiembre al 13 de junio, martes a viernes de 10:00 a 14:00 y de 16:30 a 18:30; sábados de 09:30 a 14:00 y de 16:30 a 18:30; domingos de 09:30 a 14:00. Lunes cerrado.</t_horario>
+          <x_provincia>29</x_provincia>
+          <t_longitud>-4,5211935</t_longitud>
+          <c_ine_municipio>29015</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Municipal de Antequera</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2692</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2710</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2710</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>41</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2710</datasetcollectionresourceid>
+          <t_latitud>37,41718</t_latitud>
+          <c_ine_localidad>410960001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>230</x_localidad>
+          <t_localidad>Valencina de la Concepción</t_localidad>
+          <t_codigo_postal>41907</t_codigo_postal>
+          <t_telefono>955 720 211</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Valencina de la Concepción</t_municipio>
+          <modified>2022-05-09T16:13:18.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/intent/tweet?text=Informaci%C3%B3n%20Museo&amp;url=http://www.valencinadelaconcepcion.es/es/museo-y-dolm</t_twitter>
+          <t_unidad>Museo de Valencina. Monográfico del Yacimiento Prehistórico. Enclave Arqueológico Dólmenes de la Pastora y Matarrubilla</t_unidad>
+          <t_fax>854564044</t_fax>
+          <t_direccion>Centro Municipal Cívico Cultural Plaza de España 9, 41907 Valencina de la Concepción (Sevilla)</t_direccion>
+          <t_email>museoarqueologico@valencinadelaconcepcion.es</t_email>
+          <t_provincia>Sevilla</t_provincia>
+          <identifier>2710</identifier>
+          <x_direccion>2710</x_direccion>
+          <x_municipio>6153</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2710</icmsId>
+          <t_pagina_web>https://www.valencinadelaconcepcion.es/es/museo-y-dolmenes/museos/</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>De carácter arqueológico, este museo se singulariza en torno al objeto que lo define, el yacimiento de Valencina con los dólmenes de la Pastora, Matarrubilla y Ontiveros.
+Su objetivo es la difusión de los aspectos históricos, económicos y sociales de la comunidad prehistórica asentada en esta zona del Aljarafe.
+El Museo ofrece un producto singular ausente en cualquier institución y basado en la irradiación de este yacimiento en todo el suroeste peninsular. Se trata, además, de presentar un enfoque de interpretación histórica monográfico de carácter territorial y huyendo de las consideraciones de índole tipológica que prevalecen en otros lugares.
+No se trata tanto de facilitar al público una percepción de objetos más o menos singulares, sino a través de ellos y de otros recursos divulgativos, explicar el desarrollo vital en una comunidad, escogiendo aquellos aspectos que pueden caracterizarla e individualizarla frente a otros.</t_observaciones>
+          <t_horario>Martes a sábado de 09:00 a 14:00. Para asegurar plazas en los turnos de visita al Museo y los Dólmenes, es necesario realizar reserva previa - ya sea individual o en grupo - a través del http://www.valencinadelaconcepcion.es/opencms/opencms/valencina/ayuntamiento/delegacionesMunicipales/cultura/museoydolmenes/index.html, especialmente si desea hacer la visita durante el fin de semana.
+.</t_horario>
+          <x_provincia>41</x_provincia>
+          <t_longitud>-6,077551</t_longitud>
+          <c_ine_municipio>41096</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo de Valencina. Monográfico del Yacimiento Prehistórico. Enclave Arqueológico de La Pastora y Matarrubilla</t_nombre_mapa>
+          <t_facebook>https://www.facebook.com/login.php?skip_api_login=1&amp;api_key=966242223397117&amp;signed_next=1&amp;next=https%3A%2F%2Fwww.faceboo</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2710</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2711</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2711</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>23</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2711</datasetcollectionresourceid>
+          <t_latitud>38,012585</t_latitud>
+          <c_ine_localidad>230920005</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>2489</x_localidad>
+          <t_localidad>Úbeda</t_localidad>
+          <t_codigo_postal>23400</t_codigo_postal>
+          <t_telefono>953 751 496</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Úbeda</t_municipio>
+          <modified>2022-03-15T10:59:10.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo de Alfarería "Paco Tito". Memoria de lo Cotidiano</t_unidad>
+          <t_fax>953 757 214</t_fax>
+          <t_direccion>Calle Valencia 22, 23400 Úbeda (Jaén)</t_direccion>
+          <t_email>alfar@pablotito.com</t_email>
+          <t_provincia>Jaén</t_provincia>
+          <identifier>2711</identifier>
+          <x_direccion>2711</x_direccion>
+          <x_municipio>3583</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2711</icmsId>
+          <t_pagina_web>http://www.pablotito.com</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>Situado en un amplio caserón, cuyos antiguos orígenes tal vez se remonten a los siglos XV-XVI, está ubicado en el barrio de San Millán, baluarte ancestral de los alfareros de Úbeda. Su estructura, la ordenación de su zona fabril, patios, secaderos, horno y almacén, respetan la ordenación tradicional de la casa-alfar ubetense.
+En ella se muestra la exposición "Memoria de lo cotidiano" formada por alfarería de diferentes épocas y las piezas de terracota de Paco Tito  del Quijote.
+A la vez que se muestra la colección el alfar está en activo con espacios de fabricación, exposición y venta.</t_observaciones>
+          <t_horario>Lunes a sábado de 08:00 a 14:00 y de 16:00 a 20:00; domingos y festivos de 10:00 a 14:00.</t_horario>
+          <x_provincia>23</x_provincia>
+          <t_longitud>-3,3640761</t_longitud>
+          <c_ine_municipio>23092</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo de Alfarería "Paco Tito". Memoria de lo Cotidiano</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2711</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2712</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2712</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>41</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2712</datasetcollectionresourceid>
+          <t_latitud>37,341305</t_latitud>
+          <c_ine_localidad>410040002</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>7</x_localidad>
+          <t_localidad>Alcalá de Guadaíra</t_localidad>
+          <t_codigo_postal>41500</t_codigo_postal>
+          <t_telefono>955 621 964, 955 79 64 25</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Alcalá de Guadaíra</t_municipio>
+          <modified>2022-05-09T15:30:34.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_twitter>https://twitter.com/museoalcala</t_twitter>
+          <t_unidad>Museo de la Ciudad de Alcalá de Guadaira</t_unidad>
+          <t_direccion>Calle Juez Pérez Díaz s/n, Parque Centro, 41500 Alcalá de Guadaíra (Sevilla)</t_direccion>
+          <t_email>museo@alcalaguadaira.org</t_email>
+          <t_provincia>Sevilla</t_provincia>
+          <identifier>2712</identifier>
+          <x_direccion>2712</x_direccion>
+          <x_municipio>6058</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2712</icmsId>
+          <t_pagina_web>https://www.alcaladeguadaira.es/</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El museo se ubica en una nave industrial rehabilitada de la antigua fábrica de Idogra. La tipología del edificio refleja unas interesantes estructuras, propias para su inclusión en un inventario de arqueología industrial.
+Lo forman tres colecciones: 
+- Colección Colombí compuesta por una sección artística (pinturas, cerámicas, carteles, muebles etc¿) de temática taurina; una sección de ex-Libris y una sección bibliográfica y documental depositada en la Biblioteca Pública Municipal.   
+- Colección Arqueológica. Compuesta por más de 250 piezas en las que está representada la muy extensa historia de la presencia humana en este territorio, abarcando desde restos paleolíticos a la Edad Moderna, pasando por piezas visigóticas, romanas o islámicas
+- Colección Municipal de Pintura. Integrada, en su mayor parte, por obras procedentes del Concurso nacional que este Ayuntamiento convoca desde hace más de treinta años. Se caracteriza por el predominio de la representación paisajística, abundando en al tradición que da prestigio y nombre a la historia de la pintura de nuestra  ciudad. Cuenta con firmas como Pedro de Matheu, Manuel Castaño, Blanca Bonald¿</t_observaciones>
+          <t_horario>Martes a viernes de 18:00 a 21:00; sábados, domingos y festivos de 12:00 a 14:00 y de 19:00 a 21:00. de Martes a Viernes de 18:00 a 21:00; Sábado, Domingo y festivos de 12:00 a 14:00 y de 19:00 a 21:00.</t_horario>
+          <x_provincia>41</x_provincia>
+          <t_longitud>-5,8403835</t_longitud>
+          <c_ine_municipio>41004</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_instagram>https://www.instagram.com/accounts/login/?next=/museoalcala/</t_instagram>
+          <t_nombre_mapa>Museo de la Ciudad de Alcalá de Guadaira</t_nombre_mapa>
+          <t_facebook>https://es-es.facebook.com/museo.guadaira/</t_facebook>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2712</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>icmsSandetel-2713</title>
+    <author>
+      <name>Junta de Andaluc�a</name>
+    </author>
+    <id>https://www.juntadeandalucia.es/ssdigitales/datasets/contentapi/search/orbe_museos/icmsSandetel-2713</id>
+    <updated>2023-07-20T07:50:36Z</updated>
+    <published>2023-07-20T07:50:36Z</published>
+    <content type="application/xml">
+      <_index xmlns="">dataset-orbe_museos</_index>
+      <_type xmlns="">_doc</_type>
+      <_source xmlns="">
+        <data>
+          <t_tipo_unidad>Museo</t_tipo_unidad>
+          <c_provincia>14</c_provincia>
+          <datasetcollectionresourceid>http://icms-v3-0.junta-andalucia.es/recursos/orbe_museos/2713</datasetcollectionresourceid>
+          <t_latitud>37,982056</t_latitud>
+          <c_ine_localidad>140660001</c_ine_localidad>
+          <available>true</available>
+          <x_localidad>1236</x_localidad>
+          <t_localidad>Villa del Río</t_localidad>
+          <t_codigo_postal>14640</t_codigo_postal>
+          <t_telefono>957 176 767</t_telefono>
+          <t_estado>ABI</t_estado>
+          <t_municipio>Villa del Río</t_municipio>
+          <modified>2022-04-21T13:54:29.000Z</modified>
+          <t_competencias>null</t_competencias>
+          <t_unidad>Museo Histórico Municipal de Villa del Río</t_unidad>
+          <t_fax>957 177 177</t_fax>
+          <t_direccion>Casa de las Cadenas Calle Blas Infante 13, 14640 Villa del Río (Córdoba)</t_direccion>
+          <t_email>museohistorico-villadelrio@hotmail.com</t_email>
+          <t_provincia>Córdoba</t_provincia>
+          <identifier>2713</identifier>
+          <x_direccion>2713</x_direccion>
+          <x_municipio>2108</x_municipio>
+          <c_tipo_unidad>MUSE</c_tipo_unidad>
+          <icmsId>orbe_museos/2713</icmsId>
+          <t_pagina_web>http://www.villadelrio.es</t_pagina_web>
+          <collection>orbe_museos</collection>
+          <t_observaciones>El Museo Histórico Municipal de Villa del Río, desde su creación, estuvo situado en la torre de poniente del castillo, actual Casa Consistorial. En diciembre de 2003 cambió su ubicación a la denominada ¿Casa de las Cadenas¿, una de las casas más importantes de la localidad en la que destaca su bella portada, de traza barroca, coronada por un frontón partido con dos plintos a los lados y rematados con bola y, sobre ellos, al lado derecho, el escudo Real de España simplificado y al izquierdo, el escudo con las armas personales de Don Alonso Baltasar Molleja Salcedo.
+Gozó de privilegio de cadenas, que le fue concedido por el rey Felipe V, por haberse alojado en ella el infante don Carlos ¿futuro Carlos III- en 1731. 
+El museo, que está situado en la planta primera del edificio, cuenta con fondos de paleontología y arqueología, y podemos encontrar desde fósiles hasta piezas variadas indicativas de los distintos horizontes culturales que están patentes en nuestro entorno: Neolítico, Calcolítico, Orientalizante, Bronce Final, Ibérico, Romano, Visigodo y Árabe.</t_observaciones>
+          <t_horario>Lunes a viernes de 10:00 a 14:00 y de 17:00 a 20:00.</t_horario>
+          <x_provincia>14</x_provincia>
+          <t_longitud>-4,292558</t_longitud>
+          <c_ine_municipio>14066</c_ine_municipio>
+          <x_tipo_unidad>4</x_tipo_unidad>
+          <t_nombre_mapa>Museo Histórico Municipal de Villa del Río</t_nombre_mapa>
+        </data>
+      </_source>
+      <_id xmlns="">icmsSandetel-2713</_id>
+      <sort xmlns="">1674564574445</sort>
+      <_score xmlns="">null</_score>
+    </content>
+    <dc:creator>Junta de Andaluc�a</dc:creator>
+    <dc:date>2023-07-20T07:50:36Z</dc:date>
+  </entry>
+</feed>
