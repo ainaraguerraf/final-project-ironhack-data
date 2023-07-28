@@ -7,14 +7,14 @@
 
 In this project you will find these folders, which are ordered chronologically following the steps in the project:
 
-1. Gathered data from datos.gob.es
-2. Creating the dataset
-3. EDA and final cleaning
-4. SQL
-5. Tableau
-6. Model
-7. Recommender
-8. Recommender examples
+1. [Gathered data from datos.gob.es](https://github.com/ainaraguerraf/final-project-ironhack-data/tree/main/1.%20Gathered%20data%20from%20datos.gob.es)
+2. [Creating and cleaning the dataset](https://github.com/ainaraguerraf/final-project-ironhack-data/tree/main/2.%20Creating%20the%20dataset)
+3. [EDA](https://github.com/ainaraguerraf/final-project-ironhack-data/tree/main/3.%20EDA)
+4. [SQL](https://github.com/ainaraguerraf/final-project-ironhack-data/tree/main/4.%20SQL)
+5. [Tableau](https://github.com/ainaraguerraf/final-project-ironhack-data/tree/main/5.%20Tableau)
+6. [Model](https://github.com/ainaraguerraf/final-project-ironhack-data/tree/main/6.%20Model)
+7. [Recommender](https://github.com/ainaraguerraf/final-project-ironhack-data/tree/main/7.%20Recommender)
+8. [Recommender examples](https://github.com/ainaraguerraf/final-project-ironhack-data/tree/main/8.%20Recommender%20examples%20(video))
 9. Presentation
 
 
