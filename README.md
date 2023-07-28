@@ -41,7 +41,7 @@ Since the case study is with the Spanish government, I decided to get the basic 
 It was at this moment also when I conceived the column "average sentiment". Based on my expertise regarding cultural site management and my passion for travel, I reviewed each site to create this column divided into history freak, adventurous, curious, artsy and relax.
 
 ### Data retrieve using Google API
-I used the Google API and the free budget that this company gives initially to retrieve latitude, longitude, address and rating. At this point, the information I retrieved from Google API was a filter to only keep the sites that have longitude, latitude and address, which resulted in 3.500 raws.
+I used the Google API and the free budget that this company gives initially to retrieve latitude, longitude, address and rating. At this point, the information I retrieved from Google API was a filter to only keep the sites that have longitude, latitude and rating, which resulted in 3.500 rows.
 
 ### Synthetic data
 The third part of building the dataset is where the magic happens but with responsible usage of data and ethics always in mind.
