@@ -48,7 +48,7 @@ The third part of building the dataset is where the magic happens but with respo
 
 The main difference between this project and other travel recommendation systems is that it is personalized. Webs such as Tripadvisor give random rankings of sites and "one size fits all" results.
 
-So, to make it personalized, we needed features that could relate that place to users. I decided to go for the "average age" of the people that go to that place and the "average way of travel", it these people are going mostly in groups, alone, in couples or in family. 
+So, to make it personalized, we needed features that could relate that place to users. I decided to go for the "average age" of the people that go to that place and the "average way of travel", if these people are going mostly in groups, alone, in couples or in family. 
 
 When creating these columns, I encountered three situations:
 - Fill it with random values, which was useless for the model.
