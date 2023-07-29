@@ -15,7 +15,7 @@ In this project you will find these folders, which are ordered chronologically f
 6. [Model](https://github.com/ainaraguerraf/final-project-ironhack-data/tree/main/6.%20Model)
 7. [Recommender](https://github.com/ainaraguerraf/final-project-ironhack-data/tree/main/7.%20Recommender)
 8. [Recommender examples](https://github.com/ainaraguerraf/final-project-ironhack-data/tree/main/8.%20Recommender%20examples%20(video))
-9. Presentation
+9. [Presentation](https://github.com/ainaraguerraf/final-project-ironhack-data/blob/main/Final%20project%20presentation_reduced.pdf)
 
 
 # 📃 Case study
